@@ -1,0 +1,917 @@
+有新的编译，当前时间：2013-05-23 23:31:40
+task id:42 用户:test11 游戏:othello 进入编译队列
+task id:43 用户:test22 游戏:othello 进入编译队列
+task id:44 用户:teste 游戏:othello 进入编译队列
+task id:47 用户:csm10 游戏:othello 进入编译队列
+task id:62 用户:ustcliao 游戏:othello 进入编译队列
+task id:66 用户:csm1 游戏:othello 进入编译队列
+task id:67 用户:chensimin 游戏:othello 进入编译队列
+task id:73 用户:chengsimin 游戏:othello 进入编译队列
+task id:74 用户:fortest 游戏:othello 进入编译队列
+task id:76 用户:fortest1 游戏:othello 进入编译队列
+task id:78 用户:albucs 游戏:othello 进入编译队列
+task id:81 用户:yukio 游戏:othello 进入编译队列
+task id:83 用户:hongbing 游戏:othello 进入编译队列
+task id:86 用户:ovid 游戏:othello 进入编译队列
+task id:87 用户:skyline 游戏:othello 进入编译队列
+task id:88 用户:az1379112 游戏:othello 进入编译队列
+task id:89 用户:haiwei623 游戏:othello 进入编译队列
+task id:93 用户:cxk1198 游戏:othello 进入编译队列
+task id:94 用户:fch 游戏:othello 进入编译队列
+task id:95 用户:boron 游戏:othello 进入编译队列
+task id:96 用户:hehe 游戏:othello 进入编译队列
+task id:97 用户:abolo 游戏:othello 进入编译队列
+task id:100 用户:dongnidamu 游戏:othello 进入编译队列
+task id:101 用户:xsd 游戏:othello 进入编译队列
+task id:102 用户:azy1379112 游戏:othello 进入编译队列
+task id:105 用户:oceantears 游戏:othello 进入编译队列
+task id:109 用户:sozw 游戏:othello 进入编译队列
+task id:111 用户:xxxatt 游戏:othello 进入编译队列
+task id:112 用户:nwangwen 游戏:othello 进入编译队列
+task id:113 用户:haiwei624 游戏:othello 进入编译队列
+task id:118 用户:chris 游戏:othello 进入编译队列
+task id:121 用户:anyyqds 游戏:othello 进入编译队列
+task id:131 用户:tttttt 游戏:othello 进入编译队列
+task id:139 用户:simpleAI 游戏:othello 进入编译队列
+task id:144 用户:dane 游戏:othello 进入编译队列
+task id:164 用户:zhuxuezhi 游戏:othello 进入编译队列
+task id:165 用户:cheng2 游戏:othello 进入编译队列
+task id:166 用户:evr 游戏:othello 进入编译队列
+task id:175 用户:liyishuai 游戏:othello 进入编译队列
+task id:177 用户:kaiki1 游戏:othello 进入编译队列
+task id:178 用户:kaiki 游戏:othello 进入编译队列
+task id:179 用户:kaikitest 游戏:othello 进入编译队列
+task id:182 用户:test 游戏:othello 进入编译队列
+task id:42 用户:test11 游戏:othello 开始封装编译
+task id:43 用户:test22 游戏:othello 开始封装编译
+task id:44 用户:teste 游戏:othello 开始封装编译
+task id:47 用户:csm10 游戏:othello 开始封装编译
+task id:62 用户:ustcliao 游戏:othello 开始封装编译
+task id:66 用户:csm1 游戏:othello 开始封装编译
+task id:67 用户:chensimin 游戏:othello 开始封装编译
+task id:73 用户:chengsimin 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-23 23:32:00
+contest id:42 双方:test22 vs test11 游戏othello 进入比赛队列
+contest id:43 双方:teste vs test11 游戏othello 进入比赛队列
+contest id:44 双方:csm1 vs test22 游戏othello 进入比赛队列
+contest id:45 双方:test22 vs teste 游戏othello 进入比赛队列
+contest id:46 双方:test22 vs csm1 游戏othello 进入比赛队列
+contest id:47 双方:zhuxuezhi vs test22 游戏othello 进入比赛队列
+contest id:48 双方:csm1 vs teste 游戏othello 进入比赛队列
+contest id:49 双方:csm10 vs csm1 游戏othello 进入比赛队列
+contest id:50 双方:csm10 vs test11 游戏othello 进入比赛队列
+contest id:51 双方:csm10 vs test22 游戏othello 进入比赛队列
+task id:74 用户:fortest 游戏:othello 开始封装编译
+contest id:52 双方:csm1 vs csm10 游戏othello 进入比赛队列
+contest id:53 双方:csm1 vs test11 游戏othello 进入比赛队列
+contest id:54 双方:csm1 vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:58 双方:ustcliao vs csm10 游戏othello 进入比赛队列
+contest id:59 双方:csm1 vs csm10 游戏othello 进入比赛队列
+contest id:60 双方:csm1 vs csm10 游戏othello 进入比赛队列
+contest id:61 双方:csm1 vs test11 游戏othello 进入比赛队列
+contest id:62 双方:csm1 vs test22 游戏othello 进入比赛队列
+contest id:63 双方:csm1 vs teste 游戏othello 进入比赛队列
+contest id:64 双方:csm1 vs ustcliao 游戏othello 进入比赛队列
+contest id:65 双方:csm1 vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:66 双方:ustcliao vs csm1 游戏othello 进入比赛队列
+contest id:67 双方:ustcliao vs test11 游戏othello 进入比赛队列
+contest id:68 双方:ustcliao vs test11 游戏othello 进入比赛队列
+contest id:69 双方:ustcliao vs test22 游戏othello 进入比赛队列
+contest id:70 双方:ustcliao vs teste 游戏othello 进入比赛队列
+contest id:71 双方:ustcliao vs test22 游戏othello 进入比赛队列
+contest id:72 双方:ustcliao vs csm10 游戏othello 进入比赛队列
+contest id:73 双方:csm1 vs csm10 游戏othello 进入比赛队列
+contest id:74 双方:csm1 vs test11 游戏othello 进入比赛队列
+contest id:75 双方:csm1 vs test22 游戏othello 进入比赛队列
+contest id:76 双方:csm1 vs csm10 游戏othello 进入比赛队列
+contest id:77 双方:ustcliao vs teste 游戏othello 进入比赛队列
+contest id:78 双方:ustcliao vs test11 游戏othello 进入比赛队列
+contest id:79 双方:ustcliao vs csm1 游戏othello 进入比赛队列
+contest id:80 双方:chensimin vs csm1 游戏othello 进入比赛队列
+contest id:81 双方:chengsimin vs chensimin 游戏othello 进入比赛队列
+contest id:82 双方:chengsimin vs csm1 游戏othello 进入比赛队列
+contest id:83 双方:fortest vs chengsimin 游戏othello 进入比赛队列
+contest id:84 双方:cheng2 vs chensimin 游戏othello 进入比赛队列
+contest id:85 双方:cheng2 vs csm1 游戏othello 进入比赛队列
+contest id:86 双方:cheng2 vs fortest 游戏othello 进入比赛队列
+contest id:87 双方:fortest1 vs cheng2 游戏othello 进入比赛队列
+contest id:88 双方:albucs vs cheng2 游戏othello 进入比赛队列
+contest id:89 双方:haiwei623 vs albucs 游戏othello 进入比赛队列
+contest id:90 双方:haiwei623 vs cheng2 游戏othello 进入比赛队列
+contest id:91 双方:haiwei623 vs chensimin 游戏othello 进入比赛队列
+contest id:92 双方:haiwei623 vs csm1 游戏othello 进入比赛队列
+contest id:93 双方:haiwei623 vs csm10 游戏othello 进入比赛队列
+contest id:94 双方:haiwei623 vs fortest 游戏othello 进入比赛队列
+contest id:95 双方:haiwei623 vs test22 游戏othello 进入比赛队列
+contest id:96 双方:yukio vs albucs 游戏othello 进入比赛队列
+contest id:97 双方:haiwei623 vs fortest1 游戏othello 进入比赛队列
+contest id:98 双方:haiwei623 vs hongbing 游戏othello 进入比赛队列
+contest id:99 双方:anyyqds vs albucs 游戏othello 进入比赛队列
+contest id:100 双方:haiwei623 vs anyyqds 游戏othello 进入比赛队列
+contest id:101 双方:haiwei623 vs ustcliao 游戏othello 进入比赛队列
+contest id:102 双方:hongbing vs haiwei623 游戏othello 进入比赛队列
+contest id:103 双方:yukio vs ustcliao 游戏othello 进入比赛队列
+contest id:104 双方:yukio vs haiwei623 游戏othello 进入比赛队列
+contest id:105 双方:hongbing vs ustcliao 游戏othello 进入比赛队列
+contest id:106 双方:ovid vs haiwei623 游戏othello 进入比赛队列
+contest id:107 双方:haiwei623 vs test11 游戏othello 进入比赛队列
+task id:76 用户:fortest1 游戏:othello 开始封装编译
+contest id:108 双方:albucs vs anyyqds 游戏othello 进入比赛队列
+contest id:109 双方:ovid vs hongbing 游戏othello 进入比赛队列
+contest id:110 双方:skyline vs albucs 游戏othello 进入比赛队列
+contest id:111 双方:skyline vs anyyqds 游戏othello 进入比赛队列
+contest id:112 双方:skyline vs cheng2 游戏othello 进入比赛队列
+contest id:113 双方:skyline vs chensimin 游戏othello 进入比赛队列
+contest id:114 双方:skyline vs csm1 游戏othello 进入比赛队列
+contest id:115 双方:skyline vs csm10 游戏othello 进入比赛队列
+contest id:116 双方:skyline vs fortest 游戏othello 进入比赛队列
+contest id:117 双方:haiwei623 vs skyline 游戏othello 进入比赛队列
+contest id:118 双方:ovid vs cheng2 游戏othello 进入比赛队列
+contest id:119 双方:skyline vs fortest1 游戏othello 进入比赛队列
+contest id:120 双方:ovid vs skyline 游戏othello 进入比赛队列
+contest id:121 双方:skyline vs haiwei623 游戏othello 进入比赛队列
+contest id:122 双方:albucs vs chensimin 游戏othello 进入比赛队列
+contest id:123 双方:az1379112 vs albucs 游戏othello 进入比赛队列
+contest id:124 双方:haiwei623 vs skyline 游戏othello 进入比赛队列
+contest id:125 双方:az1379112 vs anyyqds 游戏othello 进入比赛队列
+contest id:126 双方:haiwei623 vs ustcliao 游戏othello 进入比赛队列
+contest id:127 双方:az1379112 vs cheng2 游戏othello 进入比赛队列
+contest id:128 双方:skyline vs ustcliao 游戏othello 进入比赛队列
+contest id:129 双方:Evr vs albucs 游戏othello 进入比赛队列
+contest id:130 双方:haiwei623 vs test22 游戏othello 进入比赛队列
+contest id:131 双方:az1379112 vs chensimin 游戏othello 进入比赛队列
+contest id:132 双方:skyline vs az1379112 游戏othello 进入比赛队列
+contest id:133 双方:az1379112 vs csm1 游戏othello 进入比赛队列
+contest id:134 双方:skyline vs Evr 游戏othello 进入比赛队列
+contest id:135 双方:haiwei623 vs csm10 游戏othello 进入比赛队列
+contest id:136 双方:Evr vs skyline 游戏othello 进入比赛队列
+contest id:137 双方:haiwei623 vs Evr 游戏othello 进入比赛队列
+contest id:138 双方:az1379112 vs csm10 游戏othello 进入比赛队列
+contest id:139 双方:skyline vs haiwei623 游戏othello 进入比赛队列
+contest id:140 双方:az1379112 vs Evr 游戏othello 进入比赛队列
+contest id:141 双方:skyline vs hongbing 游戏othello 进入比赛队列
+contest id:142 双方:Evr vs anyyqds 游戏othello 进入比赛队列
+contest id:143 双方:az1379112 vs fortest 游戏othello 进入比赛队列
+contest id:144 双方:Evr vs az1379112 游戏othello 进入比赛队列
+contest id:145 双方:skyline vs ovid 游戏othello 进入比赛队列
+contest id:146 双方:skyline vs ovid 游戏othello 进入比赛队列
+contest id:147 双方:skyline vs cxk1198 游戏othello 进入比赛队列
+contest id:148 双方:cxk1198 vs albucs 游戏othello 进入比赛队列
+contest id:149 双方:az1379112 vs cxk1198 游戏othello 进入比赛队列
+contest id:150 双方:Evr vs cheng2 游戏othello 进入比赛队列
+contest id:151 双方:az1379112 vs fortest1 游戏othello 进入比赛队列
+contest id:152 双方:az1379112 vs haiwei623 游戏othello 进入比赛队列
+contest id:153 双方:Evr vs chensimin 游戏othello 进入比赛队列
+contest id:154 双方:az1379112 vs hongbing 游戏othello 进入比赛队列
+contest id:155 双方:az1379112 vs ovid 游戏othello 进入比赛队列
+contest id:156 双方:az1379112 vs skyline 游戏othello 进入比赛队列
+contest id:157 双方:az1379112 vs test11 游戏othello 进入比赛队列
+contest id:158 双方:cxk1198 vs albucs 游戏othello 进入比赛队列
+contest id:159 双方:cxk1198 vs anyyqds 游戏othello 进入比赛队列
+task id:78 用户:albucs 游戏:othello 开始封装编译
+contest id:160 双方:ovid vs az1379112 游戏othello 进入比赛队列
+contest id:161 双方:az1379112 vs cxk1198 游戏othello 进入比赛队列
+contest id:162 双方:cxk1198 vs az1379112 游戏othello 进入比赛队列
+contest id:163 双方:ovid vs yukio 游戏othello 进入比赛队列
+contest id:164 双方:az1379112 vs test22 游戏othello 进入比赛队列
+contest id:165 双方:az1379112 vs test22 游戏othello 进入比赛队列
+contest id:166 双方:az1379112 vs teste 游戏othello 进入比赛队列
+contest id:167 双方:yukio vs az1379112 游戏othello 进入比赛队列
+contest id:168 双方:az1379112 vs teste 游戏othello 进入比赛队列
+contest id:169 双方:ovid vs csm10 游戏othello 进入比赛队列
+contest id:170 双方:az1379112 vs teste 游戏othello 进入比赛队列
+contest id:171 双方:yukio vs skyline 游戏othello 进入比赛队列
+contest id:172 双方:az1379112 vs teste 游戏othello 进入比赛队列
+contest id:173 双方:ovid vs cxk1198 游戏othello 进入比赛队列
+contest id:174 双方:Evr vs csm1 游戏othello 进入比赛队列
+contest id:175 双方:az1379112 vs ustcliao 游戏othello 进入比赛队列
+contest id:176 双方:Evr vs csm1 游戏othello 进入比赛队列
+contest id:177 双方:yukio vs test22 游戏othello 进入比赛队列
+contest id:178 双方:az1379112 vs ustcliao 游戏othello 进入比赛队列
+contest id:179 双方:yukio vs Evr 游戏othello 进入比赛队列
+contest id:180 双方:boron vs albucs 游戏othello 进入比赛队列
+contest id:181 双方:boron vs skyline 游戏othello 进入比赛队列
+contest id:182 双方:boron vs ovid 游戏othello 进入比赛队列
+contest id:183 双方:hehe vs csm10 游戏othello 进入比赛队列
+contest id:184 双方:hehe vs Evr 游戏othello 进入比赛队列
+contest id:185 双方:abolo vs az1379112 游戏othello 进入比赛队列
+contest id:186 双方:abolo vs albucs 游戏othello 进入比赛队列
+contest id:187 双方:abolo vs albucs 游戏othello 进入比赛队列
+contest id:188 双方:abolo vs albucs 游戏othello 进入比赛队列
+contest id:189 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:190 双方:boron vs csm10 游戏othello 进入比赛队列
+contest id:191 双方:boron vs az1379112 游戏othello 进入比赛队列
+contest id:192 双方:haiwei623 vs az1379112 游戏othello 进入比赛队列
+contest id:193 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:194 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:195 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:196 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:197 双方:cxk1198 vs Evr 游戏othello 进入比赛队列
+contest id:198 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:199 双方:boron vs test22 游戏othello 进入比赛队列
+contest id:200 双方:oceantears vs abolo 游戏othello 进入比赛队列
+contest id:201 双方:boron vs yukio 游戏othello 进入比赛队列
+contest id:202 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:203 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:204 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:205 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:206 双方:boron vs abolo 游戏othello 进入比赛队列
+contest id:207 双方:boron vs hehe 游戏othello 进入比赛队列
+contest id:208 双方:dongnidamu vs csm10 游戏othello 进入比赛队列
+contest id:209 双方:fch vs abolo 游戏othello 进入比赛队列
+contest id:210 双方:fch vs abolo 游戏othello 进入比赛队列
+contest id:211 双方:xsd vs az1379112 游戏othello 进入比赛队列
+contest id:212 双方:azy1379112 vs abolo 游戏othello 进入比赛队列
+contest id:213 双方:xsd vs abolo 游戏othello 进入比赛队列
+contest id:214 双方:test vs abolo 游戏othello 进入比赛队列
+contest id:215 双方:Evr vs haiwei623 游戏othello 进入比赛队列
+contest id:216 双方:abolo vs albucs 游戏othello 进入比赛队列
+task id:81 用户:yukio 游戏:othello 开始封装编译
+contest id:217 双方:oceantears vs abolo 游戏othello 进入比赛队列
+contest id:218 双方:ovid vs ustcliao 游戏othello 进入比赛队列
+contest id:219 双方:ovid vs test22 游戏othello 进入比赛队列
+contest id:220 双方:ovid vs Evr 游戏othello 进入比赛队列
+contest id:221 双方:ovid vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:222 双方:ovid vs teste 游戏othello 进入比赛队列
+contest id:223 双方:ovid vs abolo 游戏othello 进入比赛队列
+contest id:224 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:225 双方:xxxatt vs abolo 游戏othello 进入比赛队列
+contest id:226 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:227 双方:haiwei624 vs abolo 游戏othello 进入比赛队列
+contest id:228 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:229 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:230 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:231 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:232 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:233 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:234 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:235 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:236 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:237 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:238 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:239 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:240 双方:test vs abolo 游戏othello 进入比赛队列
+contest id:241 双方:nwangwen vs sozw 游戏othello 进入比赛队列
+contest id:242 双方:sozw vs nwangwen 游戏othello 进入比赛队列
+contest id:243 双方:test vs anyyqds 游戏othello 进入比赛队列
+contest id:244 双方:nwangwen vs sozw 游戏othello 进入比赛队列
+contest id:245 双方:chris vs abolo 游戏othello 进入比赛队列
+contest id:246 双方:albucs vs hehe 游戏othello 进入比赛队列
+contest id:247 双方:albucs vs fortest 游戏othello 进入比赛队列
+contest id:248 双方:chris vs csm10 游戏othello 进入比赛队列
+contest id:249 双方:albucs vs csm1 游戏othello 进入比赛队列
+contest id:250 双方:chris vs abolo 游戏othello 进入比赛队列
+contest id:251 双方:chris vs abolo 游戏othello 进入比赛队列
+contest id:252 双方:nwangwen vs abolo 游戏othello 进入比赛队列
+contest id:257 双方:tttttt vs abolo 游戏othello 进入比赛队列
+contest id:262 双方:cheng2 vs simpleAI 游戏othello 进入比赛队列
+contest id:264 双方:cheng2 vs simpleAI 游戏othello 进入比赛队列
+contest id:265 双方:cheng2 vs abolo 游戏othello 进入比赛队列
+contest id:266 双方:cheng2 vs boron 游戏othello 进入比赛队列
+contest id:267 双方:cheng2 vs azy1379112 游戏othello 进入比赛队列
+contest id:268 双方:dane vs abolo 游戏othello 进入比赛队列
+contest id:269 双方:dane vs simpleAI 游戏othello 进入比赛队列
+contest id:270 双方:simpleAI vs dane 游戏othello 进入比赛队列
+contest id:271 双方:dane vs nwangwen 游戏othello 进入比赛队列
+contest id:272 双方:dane vs haiwei623 游戏othello 进入比赛队列
+contest id:273 双方:dane vs boron 游戏othello 进入比赛队列
+contest id:274 双方:dane vs albucs 游戏othello 进入比赛队列
+contest id:275 双方:dane vs az1379112 游戏othello 进入比赛队列
+contest id:276 双方:dane vs anyyqds 游戏othello 进入比赛队列
+contest id:277 双方:dane vs azy1379112 游戏othello 进入比赛队列
+contest id:278 双方:dane vs cheng2 游戏othello 进入比赛队列
+task id:83 用户:hongbing 游戏:othello 开始封装编译
+contest id:279 双方:dane vs chengsimin 游戏othello 进入比赛队列
+contest id:280 双方:dane vs chensimin 游戏othello 进入比赛队列
+contest id:281 双方:dane vs chris 游戏othello 进入比赛队列
+contest id:282 双方:dane vs csm1 游戏othello 进入比赛队列
+contest id:283 双方:dane vs csm10 游戏othello 进入比赛队列
+contest id:284 双方:dane vs cxk1198 游戏othello 进入比赛队列
+contest id:285 双方:dane vs dongnidamu 游戏othello 进入比赛队列
+contest id:286 双方:dane vs Evr 游戏othello 进入比赛队列
+contest id:287 双方:dane vs dane 游戏othello 进入比赛队列
+contest id:288 双方:dane vs fch 游戏othello 进入比赛队列
+contest id:289 双方:dane vs sozw 游戏othello 进入比赛队列
+contest id:290 双方:dane vs ustcliao 游戏othello 进入比赛队列
+contest id:291 双方:cheng2 vs dane 游戏othello 进入比赛队列
+contest id:292 双方:dane vs ovid 游戏othello 进入比赛队列
+contest id:293 双方:dane vs cheng2 游戏othello 进入比赛队列
+contest id:294 双方:cheng2 vs dane 游戏othello 进入比赛队列
+contest id:295 双方:cheng2 vs dane 游戏othello 进入比赛队列
+contest id:296 双方:zhuxuezhi vs boron 游戏othello 进入比赛队列
+contest id:297 双方:zhuxuezhi vs boron 游戏othello 进入比赛队列
+contest id:298 双方:zhuxuezhi vs boron 游戏othello 进入比赛队列
+contest id:299 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:300 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:301 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:302 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:303 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:304 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:305 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:306 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:307 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:308 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:309 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:310 双方:dane vs cheng2 游戏othello 进入比赛队列
+contest id:311 双方:zhuxuezhi vs dane 游戏othello 进入比赛队列
+contest id:312 双方:dane vs fortest 游戏othello 进入比赛队列
+contest id:313 双方:zhuxuezhi vs boron 游戏othello 进入比赛队列
+contest id:314 双方:dane vs yukio 游戏othello 进入比赛队列
+contest id:315 双方:dane vs fortest1 游戏othello 进入比赛队列
+contest id:316 双方:evr vs abolo 游戏othello 进入比赛队列
+contest id:317 双方:liyishuai vs abolo 游戏othello 进入比赛队列
+contest id:318 双方:liyishuai vs simpleAI 游戏othello 进入比赛队列
+contest id:319 双方:liyishuai vs abolo 游戏othello 进入比赛队列
+contest id:320 双方:liyishuai vs simpleAI 游戏othello 进入比赛队列
+task id:86 用户:ovid 游戏:othello 开始封装编译
+contest id:321 双方:liyishuai vs simpleAI 游戏othello 进入比赛队列
+contest id:322 双方:liyishuai vs abolo 游戏othello 进入比赛队列
+contest id:323 双方:liyishuai vs Evr 游戏othello 进入比赛队列
+contest id:324 双方:test vs simpleAI 游戏othello 进入比赛队列
+contest id:325 双方:test vs albucs 游戏othello 进入比赛队列
+contest id:326 双方:test vs anyyqds 游戏othello 进入比赛队列
+contest id:327 双方:test vs liyishuai 游戏othello 进入比赛队列
+contest id:328 双方:test vs az1379112 游戏othello 进入比赛队列
+contest id:329 双方:test vs dane 游戏othello 进入比赛队列
+contest id:330 双方:test vs skyline 游戏othello 进入比赛队列
+contest id:331 双方:test vs haiwei623 游戏othello 进入比赛队列
+contest id:332 双方:test vs nwangwen 游戏othello 进入比赛队列
+contest id:333 双方:test vs boron 游戏othello 进入比赛队列
+contest id:334 双方:test vs azy1379112 游戏othello 进入比赛队列
+contest id:335 双方:test vs ustcliao 游戏othello 进入比赛队列
+contest id:336 双方:test vs ovid 游戏othello 进入比赛队列
+contest id:337 双方:test vs yukio 游戏othello 进入比赛队列
+contest id:338 双方:test vs sozw 游戏othello 进入比赛队列
+contest id:339 双方:test vs chengsimin 游戏othello 进入比赛队列
+contest id:340 双方:test vs Evr 游戏othello 进入比赛队列
+contest id:341 双方:test vs csm1 游戏othello 进入比赛队列
+contest id:342 双方:test vs xsd 游戏othello 进入比赛队列
+contest id:343 双方:test vs oceantears 游戏othello 进入比赛队列
+contest id:344 双方:liyishuai vs albucs 游戏othello 进入比赛队列
+contest id:345 双方:test vs cxk1198 游戏othello 进入比赛队列
+contest id:346 双方:liyishuai vs anyyqds 游戏othello 进入比赛队列
+contest id:347 双方:test vs fch 游戏othello 进入比赛队列
+contest id:348 双方:liyishuai vs az1379112 游戏othello 进入比赛队列
+contest id:349 双方:liyishuai vs azy1379112 游戏othello 进入比赛队列
+contest id:350 双方:liyishuai vs boron 游戏othello 进入比赛队列
+contest id:351 双方:liyishuai vs chengsimin 游戏othello 进入比赛队列
+contest id:352 双方:liyishuai vs chensimin 游戏othello 进入比赛队列
+contest id:353 双方:liyishuai vs chris 游戏othello 进入比赛队列
+contest id:354 双方:liyishuai vs csm1 游戏othello 进入比赛队列
+contest id:355 双方:liyishuai vs csm10 游戏othello 进入比赛队列
+contest id:356 双方:liyishuai vs cxk1198 游戏othello 进入比赛队列
+contest id:357 双方:liyishuai vs dane 游戏othello 进入比赛队列
+contest id:358 双方:liyishuai vs dongnidamu 游戏othello 进入比赛队列
+contest id:359 双方:liyishuai vs fch 游戏othello 进入比赛队列
+contest id:360 双方:test vs chensimin 游戏othello 进入比赛队列
+contest id:361 双方:liyishuai vs fortest 游戏othello 进入比赛队列
+contest id:362 双方:liyishuai vs fortest1 游戏othello 进入比赛队列
+contest id:363 双方:liyishuai vs haiwei623 游戏othello 进入比赛队列
+contest id:364 双方:liyishuai vs haiwei624 游戏othello 进入比赛队列
+contest id:365 双方:liyishuai vs hehe 游戏othello 进入比赛队列
+contest id:366 双方:liyishuai vs hongbing 游戏othello 进入比赛队列
+contest id:367 双方:liyishuai vs nwangwen 游戏othello 进入比赛队列
+contest id:368 双方:liyishuai vs nwangwen 游戏othello 进入比赛队列
+contest id:369 双方:liyishuai vs oceantears 游戏othello 进入比赛队列
+contest id:370 双方:liyishuai vs ovid 游戏othello 进入比赛队列
+contest id:371 双方:test vs chris 游戏othello 进入比赛队列
+contest id:372 双方:liyishuai vs skyline 游戏othello 进入比赛队列
+contest id:373 双方:liyishuai vs sozw 游戏othello 进入比赛队列
+contest id:374 双方:liyishuai vs test 游戏othello 进入比赛队列
+contest id:375 双方:test vs csm10 游戏othello 进入比赛队列
+contest id:376 双方:liyishuai vs test11 游戏othello 进入比赛队列
+contest id:377 双方:test vs dongnidamu 游戏othello 进入比赛队列
+contest id:378 双方:liyishuai vs test22 游戏othello 进入比赛队列
+contest id:379 双方:liyishuai vs teste 游戏othello 进入比赛队列
+task id:87 用户:skyline 游戏:othello 开始封装编译
+contest id:380 双方:liyishuai vs ustcliao 游戏othello 进入比赛队列
+contest id:381 双方:liyishuai vs xsd 游戏othello 进入比赛队列
+contest id:382 双方:liyishuai vs xxxatt 游戏othello 进入比赛队列
+contest id:383 双方:liyishuai vs yukio 游戏othello 进入比赛队列
+contest id:384 双方:liyishuai vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:385 双方:test vs fortest 游戏othello 进入比赛队列
+contest id:386 双方:test vs fortest1 游戏othello 进入比赛队列
+contest id:387 双方:test vs haiwei624 游戏othello 进入比赛队列
+contest id:388 双方:test vs hehe 游戏othello 进入比赛队列
+contest id:389 双方:liyishuai vs abolo 游戏othello 进入比赛队列
+contest id:390 双方:liyishuai vs test 游戏othello 进入比赛队列
+contest id:391 双方:test vs hongbing 游戏othello 进入比赛队列
+contest id:392 双方:liyishuai vs test 游戏othello 进入比赛队列
+contest id:393 双方:liyishuai vs test 游戏othello 进入比赛队列
+contest id:394 双方:liyishuai vs yukio 游戏othello 进入比赛队列
+contest id:395 双方:liyishuai vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:396 双方:test vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:397 双方:test vs liyishuai 游戏othello 进入比赛队列
+contest id:398 双方:test vs test11 游戏othello 进入比赛队列
+contest id:399 双方:test vs test22 游戏othello 进入比赛队列
+contest id:400 双方:test vs teste 游戏othello 进入比赛队列
+contest id:401 双方:test vs xxxatt 游戏othello 进入比赛队列
+contest id:402 双方:dane vs test 游戏othello 进入比赛队列
+contest id:403 双方:kaiki1 vs test 游戏othello 进入比赛队列
+contest id:404 双方:kaiki1 vs test 游戏othello 进入比赛队列
+contest id:405 双方:kaikitest vs simpleAI 游戏othello 进入比赛队列
+contest id:406 双方:kaikitest vs test 游戏othello 进入比赛队列
+contest id:407 双方:kaikitest vs dane 游戏othello 进入比赛队列
+contest id:408 双方:kaikitest vs liyishuai 游戏othello 进入比赛队列
+contest id:409 双方:kaikitest vs boron 游戏othello 进入比赛队列
+contest id:410 双方:kaikitest vs az1379112 游戏othello 进入比赛队列
+contest id:411 双方:test vs kaikitest 游戏othello 进入比赛队列
+contest id:412 双方:test vs liyishuai 游戏othello 进入比赛队列
+contest id:413 双方:kaikitest vs haiwei623 游戏othello 进入比赛队列
+contest id:414 双方:test vs dane 游戏othello 进入比赛队列
+contest id:415 双方:kaikitest vs ovid 游戏othello 进入比赛队列
+contest id:416 双方:kaikitest vs nwangwen 游戏othello 进入比赛队列
+contest id:417 双方:kaikitest vs skyline 游戏othello 进入比赛队列
+contest id:418 双方:kaikitest vs abolo 游戏othello 进入比赛队列
+contest id:419 双方:kaikitest vs albucs 游戏othello 进入比赛队列
+contest id:420 双方:kaikitest vs anyyqds 游戏othello 进入比赛队列
+contest id:421 双方:kaikitest vs azy1379112 游戏othello 进入比赛队列
+contest id:422 双方:kaikitest vs chengsimin 游戏othello 进入比赛队列
+contest id:423 双方:kaikitest vs chensimin 游戏othello 进入比赛队列
+contest id:424 双方:kaikitest vs chris 游戏othello 进入比赛队列
+contest id:425 双方:kaikitest vs ustcliao 游戏othello 进入比赛队列
+contest id:426 双方:kaikitest vs Evr 游戏othello 进入比赛队列
+contest id:427 双方:kaikitest vs csm1 游戏othello 进入比赛队列
+contest id:428 双方:kaikitest vs sozw 游戏othello 进入比赛队列
+contest id:429 双方:kaikitest vs cxk1198 游戏othello 进入比赛队列
+contest id:430 双方:kaikitest vs oceantears 游戏othello 进入比赛队列
+contest id:431 双方:kaikitest vs test11 游戏othello 进入比赛队列
+contest id:432 双方:kaikitest vs hehe 游戏othello 进入比赛队列
+contest id:433 双方:kaikitest vs csm10 游戏othello 进入比赛队列
+contest id:434 双方:kaikitest vs dongnidamu 游戏othello 进入比赛队列
+contest id:435 双方:kaikitest vs fch 游戏othello 进入比赛队列
+contest id:436 双方:kaikitest vs fortest 游戏othello 进入比赛队列
+contest id:437 双方:kaikitest vs fortest1 游戏othello 进入比赛队列
+contest id:438 双方:kaikitest vs haiwei624 游戏othello 进入比赛队列
+contest id:439 双方:kaikitest vs hongbing 游戏othello 进入比赛队列
+contest id:440 双方:kaikitest vs kaiki1 游戏othello 进入比赛队列
+contest id:441 双方:kaikitest vs test 游戏othello 进入比赛队列
+contest id:442 双方:kaikitest vs test22 游戏othello 进入比赛队列
+contest id:443 双方:kaikitest vs teste 游戏othello 进入比赛队列
+contest id:444 双方:test vs abolo 游戏othello 进入比赛队列
+task id:88 用户:az1379112 游戏:othello 开始封装编译
+contest id:445 双方:test vs albucs 游戏othello 进入比赛队列
+contest id:446 双方:kaiki1 vs kaikitest 游戏othello 进入比赛队列
+contest id:447 双方:kaikitest vs xsd 游戏othello 进入比赛队列
+contest id:448 双方:kaikitest vs xxxatt 游戏othello 进入比赛队列
+contest id:449 双方:kaikitest vs yukio 游戏othello 进入比赛队列
+contest id:450 双方:kaikitest vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:451 双方:test vs simpleAI 游戏othello 进入比赛队列
+contest id:452 双方:test vs kaikitest 游戏othello 进入比赛队列
+contest id:453 双方:test vs liyishuai 游戏othello 进入比赛队列
+contest id:454 双方:test vs dane 游戏othello 进入比赛队列
+contest id:455 双方:test vs simpleAI 游戏othello 进入比赛队列
+contest id:456 双方:test vs kaikitest 游戏othello 进入比赛队列
+contest id:457 双方:test vs dane 游戏othello 进入比赛队列
+contest id:42 双方:test22 vs test11 游戏othello 开始封装比赛
+task id:89 用户:haiwei623 游戏:othello 开始封装编译
+contest id:43 双方:teste vs test11 游戏othello 开始封装比赛
+task id:93 用户:cxk1198 游戏:othello 开始封装编译
+task id:94 用户:fch 游戏:othello 开始封装编译
+contest id:44 双方:csm1 vs test22 游戏othello 开始封装比赛
+task id:95 用户:boron 游戏:othello 开始封装编译
+contest id:45 双方:test22 vs teste 游戏othello 开始封装比赛
+task id:96 用户:hehe 游戏:othello 开始封装编译
+task id:97 用户:abolo 游戏:othello 开始封装编译
+contest id:46 双方:test22 vs csm1 游戏othello 开始封装比赛
+task id:100 用户:dongnidamu 游戏:othello 开始封装编译
+contest id:47 双方:zhuxuezhi vs test22 游戏othello 开始封装比赛
+task id:101 用户:xsd 游戏:othello 开始封装编译
+task id:102 用户:azy1379112 游戏:othello 开始封装编译
+task id:105 用户:oceantears 游戏:othello 开始封装编译
+task id:109 用户:sozw 游戏:othello 开始封装编译
+task id:111 用户:xxxatt 游戏:othello 开始封装编译
+task id:112 用户:nwangwen 游戏:othello 开始封装编译
+task id:113 用户:haiwei624 游戏:othello 开始封装编译
+task id:118 用户:chris 游戏:othello 开始封装编译
+task id:121 用户:anyyqds 游戏:othello 开始封装编译
+task id:131 用户:tttttt 游戏:othello 开始封装编译
+contest id:48 双方:csm1 vs teste 游戏othello 开始封装比赛
+task id:139 用户:simpleAI 游戏:othello 开始封装编译
+task id:144 用户:dane 游戏:othello 开始封装编译
+task id:164 用户:zhuxuezhi 游戏:othello 开始封装编译
+contest id:49 双方:csm10 vs csm1 游戏othello 开始封装比赛
+task id:165 用户:cheng2 游戏:othello 开始封装编译
+contest id:50 双方:csm10 vs test11 游戏othello 开始封装比赛
+task id:166 用户:evr 游戏:othello 开始封装编译
+contest id:51 双方:csm10 vs test22 游戏othello 开始封装比赛
+task id:175 用户:liyishuai 游戏:othello 开始封装编译
+contest id:52 双方:csm1 vs csm10 游戏othello 开始封装比赛
+contest id:53 双方:csm1 vs test11 游戏othello 开始封装比赛
+task id:177 用户:kaiki1 游戏:othello 开始封装编译
+contest id:54 双方:csm1 vs zhuxuezhi 游戏othello 开始封装比赛
+task id:178 用户:kaiki 游戏:othello 开始封装编译
+task id:179 用户:kaikitest 游戏:othello 开始封装编译
+task id:182 用户:test 游戏:othello 开始封装编译
+contest id:58 双方:ustcliao vs csm10 游戏othello 开始封装比赛
+contest id:59 双方:csm1 vs csm10 游戏othello 开始封装比赛
+contest id:60 双方:csm1 vs csm10 游戏othello 开始封装比赛
+contest id:61 双方:csm1 vs test11 游戏othello 开始封装比赛
+contest id:62 双方:csm1 vs test22 游戏othello 开始封装比赛
+contest id:63 双方:csm1 vs teste 游戏othello 开始封装比赛
+contest id:64 双方:csm1 vs ustcliao 游戏othello 开始封装比赛
+contest id:65 双方:csm1 vs zhuxuezhi 游戏othello 开始封装比赛
+contest id:66 双方:ustcliao vs csm1 游戏othello 开始封装比赛
+contest id:67 双方:ustcliao vs test11 游戏othello 开始封装比赛
+contest id:68 双方:ustcliao vs test11 游戏othello 开始封装比赛
+contest id:69 双方:ustcliao vs test22 游戏othello 开始封装比赛
+contest id:70 双方:ustcliao vs teste 游戏othello 开始封装比赛
+contest id:71 双方:ustcliao vs test22 游戏othello 开始封装比赛
+contest id:72 双方:ustcliao vs csm10 游戏othello 开始封装比赛
+contest id:73 双方:csm1 vs csm10 游戏othello 开始封装比赛
+contest id:74 双方:csm1 vs test11 游戏othello 开始封装比赛
+contest id:75 双方:csm1 vs test22 游戏othello 开始封装比赛
+contest id:76 双方:csm1 vs csm10 游戏othello 开始封装比赛
+contest id:77 双方:ustcliao vs teste 游戏othello 开始封装比赛
+contest id:78 双方:ustcliao vs test11 游戏othello 开始封装比赛
+contest id:79 双方:ustcliao vs csm1 游戏othello 开始封装比赛
+contest id:80 双方:chensimin vs csm1 游戏othello 开始封装比赛
+contest id:81 双方:chengsimin vs chensimin 游戏othello 开始封装比赛
+contest id:82 双方:chengsimin vs csm1 游戏othello 开始封装比赛
+contest id:83 双方:fortest vs chengsimin 游戏othello 开始封装比赛
+contest id:84 双方:cheng2 vs chensimin 游戏othello 开始封装比赛
+contest id:85 双方:cheng2 vs csm1 游戏othello 开始封装比赛
+contest id:86 双方:cheng2 vs fortest 游戏othello 开始封装比赛
+contest id:87 双方:fortest1 vs cheng2 游戏othello 开始封装比赛
+contest id:88 双方:albucs vs cheng2 游戏othello 开始封装比赛
+contest id:89 双方:haiwei623 vs albucs 游戏othello 开始封装比赛
+contest id:90 双方:haiwei623 vs cheng2 游戏othello 开始封装比赛
+contest id:91 双方:haiwei623 vs chensimin 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-23 23:35:12
+task id:183 用户:mediumAi 游戏:othello 进入编译队列
+task id:183 用户:mediumAi 游戏:othello 开始封装编译
+contest id:92 双方:haiwei623 vs csm1 游戏othello 开始封装比赛
+contest id:93 双方:haiwei623 vs csm10 游戏othello 开始封装比赛
+contest id:94 双方:haiwei623 vs fortest 游戏othello 开始封装比赛
+contest id:95 双方:haiwei623 vs test22 游戏othello 开始封装比赛
+contest id:96 双方:yukio vs albucs 游戏othello 开始封装比赛
+contest id:97 双方:haiwei623 vs fortest1 游戏othello 开始封装比赛
+contest id:98 双方:haiwei623 vs hongbing 游戏othello 开始封装比赛
+contest id:99 双方:anyyqds vs albucs 游戏othello 开始封装比赛
+contest id:100 双方:haiwei623 vs anyyqds 游戏othello 开始封装比赛
+contest id:101 双方:haiwei623 vs ustcliao 游戏othello 开始封装比赛
+contest id:102 双方:hongbing vs haiwei623 游戏othello 开始封装比赛
+contest id:103 双方:yukio vs ustcliao 游戏othello 开始封装比赛
+contest id:104 双方:yukio vs haiwei623 游戏othello 开始封装比赛
+contest id:105 双方:hongbing vs ustcliao 游戏othello 开始封装比赛
+contest id:106 双方:ovid vs haiwei623 游戏othello 开始封装比赛
+contest id:107 双方:haiwei623 vs test11 游戏othello 开始封装比赛
+contest id:108 双方:albucs vs anyyqds 游戏othello 开始封装比赛
+contest id:109 双方:ovid vs hongbing 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-23 23:35:52
+task id:184 用户:strongAi 游戏:othello 进入编译队列
+contest id:110 双方:skyline vs albucs 游戏othello 开始封装比赛
+task id:184 用户:strongAi 游戏:othello 开始封装编译
+contest id:111 双方:skyline vs anyyqds 游戏othello 开始封装比赛
+contest id:112 双方:skyline vs cheng2 游戏othello 开始封装比赛
+contest id:113 双方:skyline vs chensimin 游戏othello 开始封装比赛
+contest id:114 双方:skyline vs csm1 游戏othello 开始封装比赛
+contest id:115 双方:skyline vs csm10 游戏othello 开始封装比赛
+contest id:116 双方:skyline vs fortest 游戏othello 开始封装比赛
+contest id:117 双方:haiwei623 vs skyline 游戏othello 开始封装比赛
+contest id:118 双方:ovid vs cheng2 游戏othello 开始封装比赛
+contest id:119 双方:skyline vs fortest1 游戏othello 开始封装比赛
+contest id:120 双方:ovid vs skyline 游戏othello 开始封装比赛
+contest id:121 双方:skyline vs haiwei623 游戏othello 开始封装比赛
+contest id:122 双方:albucs vs chensimin 游戏othello 开始封装比赛
+contest id:123 双方:az1379112 vs albucs 游戏othello 开始封装比赛
+contest id:124 双方:haiwei623 vs skyline 游戏othello 开始封装比赛
+contest id:125 双方:az1379112 vs anyyqds 游戏othello 开始封装比赛
+contest id:126 双方:haiwei623 vs ustcliao 游戏othello 开始封装比赛
+contest id:127 双方:az1379112 vs cheng2 游戏othello 开始封装比赛
+contest id:128 双方:skyline vs ustcliao 游戏othello 开始封装比赛
+contest id:129 双方:Evr vs albucs 游戏othello 开始封装比赛
+contest id:130 双方:haiwei623 vs test22 游戏othello 开始封装比赛
+contest id:131 双方:az1379112 vs chensimin 游戏othello 开始封装比赛
+contest id:132 双方:skyline vs az1379112 游戏othello 开始封装比赛
+contest id:133 双方:az1379112 vs csm1 游戏othello 开始封装比赛
+contest id:134 双方:skyline vs Evr 游戏othello 开始封装比赛
+contest id:135 双方:haiwei623 vs csm10 游戏othello 开始封装比赛
+contest id:136 双方:Evr vs skyline 游戏othello 开始封装比赛
+contest id:137 双方:haiwei623 vs Evr 游戏othello 开始封装比赛
+contest id:138 双方:az1379112 vs csm10 游戏othello 开始封装比赛
+contest id:139 双方:skyline vs haiwei623 游戏othello 开始封装比赛
+contest id:140 双方:az1379112 vs Evr 游戏othello 开始封装比赛
+contest id:141 双方:skyline vs hongbing 游戏othello 开始封装比赛
+contest id:142 双方:Evr vs anyyqds 游戏othello 开始封装比赛
+contest id:143 双方:az1379112 vs fortest 游戏othello 开始封装比赛
+contest id:144 双方:Evr vs az1379112 游戏othello 开始封装比赛
+contest id:145 双方:skyline vs ovid 游戏othello 开始封装比赛
+contest id:146 双方:skyline vs ovid 游戏othello 开始封装比赛
+contest id:147 双方:skyline vs cxk1198 游戏othello 开始封装比赛
+contest id:148 双方:cxk1198 vs albucs 游戏othello 开始封装比赛
+contest id:149 双方:az1379112 vs cxk1198 游戏othello 开始封装比赛
+contest id:150 双方:Evr vs cheng2 游戏othello 开始封装比赛
+contest id:151 双方:az1379112 vs fortest1 游戏othello 开始封装比赛
+contest id:152 双方:az1379112 vs haiwei623 游戏othello 开始封装比赛
+contest id:153 双方:Evr vs chensimin 游戏othello 开始封装比赛
+contest id:154 双方:az1379112 vs hongbing 游戏othello 开始封装比赛
+contest id:155 双方:az1379112 vs ovid 游戏othello 开始封装比赛
+contest id:156 双方:az1379112 vs skyline 游戏othello 开始封装比赛
+contest id:157 双方:az1379112 vs test11 游戏othello 开始封装比赛
+contest id:158 双方:cxk1198 vs albucs 游戏othello 开始封装比赛
+contest id:159 双方:cxk1198 vs anyyqds 游戏othello 开始封装比赛
+contest id:160 双方:ovid vs az1379112 游戏othello 开始封装比赛
+contest id:161 双方:az1379112 vs cxk1198 游戏othello 开始封装比赛
+contest id:162 双方:cxk1198 vs az1379112 游戏othello 开始封装比赛
+contest id:163 双方:ovid vs yukio 游戏othello 开始封装比赛
+contest id:164 双方:az1379112 vs test22 游戏othello 开始封装比赛
+contest id:165 双方:az1379112 vs test22 游戏othello 开始封装比赛
+contest id:166 双方:az1379112 vs teste 游戏othello 开始封装比赛
+contest id:167 双方:yukio vs az1379112 游戏othello 开始封装比赛
+contest id:168 双方:az1379112 vs teste 游戏othello 开始封装比赛
+contest id:169 双方:ovid vs csm10 游戏othello 开始封装比赛
+contest id:170 双方:az1379112 vs teste 游戏othello 开始封装比赛
+contest id:171 双方:yukio vs skyline 游戏othello 开始封装比赛
+contest id:172 双方:az1379112 vs teste 游戏othello 开始封装比赛
+contest id:173 双方:ovid vs cxk1198 游戏othello 开始封装比赛
+contest id:174 双方:Evr vs csm1 游戏othello 开始封装比赛
+contest id:175 双方:az1379112 vs ustcliao 游戏othello 开始封装比赛
+contest id:176 双方:Evr vs csm1 游戏othello 开始封装比赛
+contest id:177 双方:yukio vs test22 游戏othello 开始封装比赛
+contest id:178 双方:az1379112 vs ustcliao 游戏othello 开始封装比赛
+contest id:179 双方:yukio vs Evr 游戏othello 开始封装比赛
+contest id:180 双方:boron vs albucs 游戏othello 开始封装比赛
+contest id:181 双方:boron vs skyline 游戏othello 开始封装比赛
+contest id:182 双方:boron vs ovid 游戏othello 开始封装比赛
+contest id:183 双方:hehe vs csm10 游戏othello 开始封装比赛
+contest id:184 双方:hehe vs Evr 游戏othello 开始封装比赛
+contest id:185 双方:abolo vs az1379112 游戏othello 开始封装比赛
+contest id:186 双方:abolo vs albucs 游戏othello 开始封装比赛
+contest id:187 双方:abolo vs albucs 游戏othello 开始封装比赛
+contest id:188 双方:abolo vs albucs 游戏othello 开始封装比赛
+contest id:189 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:190 双方:boron vs csm10 游戏othello 开始封装比赛
+contest id:191 双方:boron vs az1379112 游戏othello 开始封装比赛
+contest id:192 双方:haiwei623 vs az1379112 游戏othello 开始封装比赛
+contest id:193 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:194 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:195 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:196 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:197 双方:cxk1198 vs Evr 游戏othello 开始封装比赛
+contest id:198 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:199 双方:boron vs test22 游戏othello 开始封装比赛
+contest id:200 双方:oceantears vs abolo 游戏othello 开始封装比赛
+contest id:201 双方:boron vs yukio 游戏othello 开始封装比赛
+contest id:202 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:203 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:204 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:205 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:206 双方:boron vs abolo 游戏othello 开始封装比赛
+contest id:207 双方:boron vs hehe 游戏othello 开始封装比赛
+contest id:208 双方:dongnidamu vs csm10 游戏othello 开始封装比赛
+contest id:209 双方:fch vs abolo 游戏othello 开始封装比赛
+contest id:210 双方:fch vs abolo 游戏othello 开始封装比赛
+contest id:211 双方:xsd vs az1379112 游戏othello 开始封装比赛
+contest id:212 双方:azy1379112 vs abolo 游戏othello 开始封装比赛
+contest id:213 双方:xsd vs abolo 游戏othello 开始封装比赛
+contest id:214 双方:test vs abolo 游戏othello 开始封装比赛
+contest id:215 双方:Evr vs haiwei623 游戏othello 开始封装比赛
+contest id:216 双方:abolo vs albucs 游戏othello 开始封装比赛
+contest id:217 双方:oceantears vs abolo 游戏othello 开始封装比赛
+contest id:218 双方:ovid vs ustcliao 游戏othello 开始封装比赛
+contest id:219 双方:ovid vs test22 游戏othello 开始封装比赛
+contest id:220 双方:ovid vs Evr 游戏othello 开始封装比赛
+contest id:221 双方:ovid vs zhuxuezhi 游戏othello 开始封装比赛
+contest id:222 双方:ovid vs teste 游戏othello 开始封装比赛
+contest id:223 双方:ovid vs abolo 游戏othello 开始封装比赛
+contest id:224 双方:sozw vs abolo 游戏othello 开始封装比赛
+contest id:225 双方:xxxatt vs abolo 游戏othello 开始封装比赛
+contest id:226 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:227 双方:haiwei624 vs abolo 游戏othello 开始封装比赛
+contest id:228 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:229 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:230 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:231 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:232 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:233 双方:sozw vs abolo 游戏othello 开始封装比赛
+contest id:234 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:235 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:236 双方:sozw vs abolo 游戏othello 开始封装比赛
+contest id:237 双方:sozw vs abolo 游戏othello 开始封装比赛
+contest id:238 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:239 双方:sozw vs abolo 游戏othello 开始封装比赛
+contest id:240 双方:test vs abolo 游戏othello 开始封装比赛
+contest id:241 双方:nwangwen vs sozw 游戏othello 开始封装比赛
+contest id:242 双方:sozw vs nwangwen 游戏othello 开始封装比赛
+contest id:243 双方:test vs anyyqds 游戏othello 开始封装比赛
+contest id:244 双方:nwangwen vs sozw 游戏othello 开始封装比赛
+contest id:245 双方:chris vs abolo 游戏othello 开始封装比赛
+contest id:246 双方:albucs vs hehe 游戏othello 开始封装比赛
+contest id:247 双方:albucs vs fortest 游戏othello 开始封装比赛
+contest id:248 双方:chris vs csm10 游戏othello 开始封装比赛
+contest id:249 双方:albucs vs csm1 游戏othello 开始封装比赛
+contest id:250 双方:chris vs abolo 游戏othello 开始封装比赛
+contest id:251 双方:chris vs abolo 游戏othello 开始封装比赛
+contest id:252 双方:nwangwen vs abolo 游戏othello 开始封装比赛
+contest id:257 双方:tttttt vs abolo 游戏othello 开始封装比赛
+contest id:262 双方:cheng2 vs simpleAI 游戏othello 开始封装比赛
+contest id:264 双方:cheng2 vs simpleAI 游戏othello 开始封装比赛
+contest id:265 双方:cheng2 vs abolo 游戏othello 开始封装比赛
+contest id:266 双方:cheng2 vs boron 游戏othello 开始封装比赛
+contest id:267 双方:cheng2 vs azy1379112 游戏othello 开始封装比赛
+contest id:268 双方:dane vs abolo 游戏othello 开始封装比赛
+contest id:269 双方:dane vs simpleAI 游戏othello 开始封装比赛
+contest id:270 双方:simpleAI vs dane 游戏othello 开始封装比赛
+contest id:271 双方:dane vs nwangwen 游戏othello 开始封装比赛
+contest id:272 双方:dane vs haiwei623 游戏othello 开始封装比赛
+contest id:273 双方:dane vs boron 游戏othello 开始封装比赛
+contest id:274 双方:dane vs albucs 游戏othello 开始封装比赛
+contest id:275 双方:dane vs az1379112 游戏othello 开始封装比赛
+contest id:276 双方:dane vs anyyqds 游戏othello 开始封装比赛
+contest id:277 双方:dane vs azy1379112 游戏othello 开始封装比赛
+contest id:278 双方:dane vs cheng2 游戏othello 开始封装比赛
+contest id:279 双方:dane vs chengsimin 游戏othello 开始封装比赛
+contest id:280 双方:dane vs chensimin 游戏othello 开始封装比赛
+contest id:281 双方:dane vs chris 游戏othello 开始封装比赛
+contest id:282 双方:dane vs csm1 游戏othello 开始封装比赛
+contest id:283 双方:dane vs csm10 游戏othello 开始封装比赛
+contest id:284 双方:dane vs cxk1198 游戏othello 开始封装比赛
+contest id:285 双方:dane vs dongnidamu 游戏othello 开始封装比赛
+contest id:286 双方:dane vs Evr 游戏othello 开始封装比赛
+contest id:287 双方:dane vs dane 游戏othello 开始封装比赛
+contest id:288 双方:dane vs fch 游戏othello 开始封装比赛
+contest id:289 双方:dane vs sozw 游戏othello 开始封装比赛
+contest id:290 双方:dane vs ustcliao 游戏othello 开始封装比赛
+contest id:291 双方:cheng2 vs dane 游戏othello 开始封装比赛
+contest id:292 双方:dane vs ovid 游戏othello 开始封装比赛
+contest id:293 双方:dane vs cheng2 游戏othello 开始封装比赛
+contest id:294 双方:cheng2 vs dane 游戏othello 开始封装比赛
+contest id:295 双方:cheng2 vs dane 游戏othello 开始封装比赛
+contest id:296 双方:zhuxuezhi vs boron 游戏othello 开始封装比赛
+contest id:297 双方:zhuxuezhi vs boron 游戏othello 开始封装比赛
+contest id:298 双方:zhuxuezhi vs boron 游戏othello 开始封装比赛
+contest id:299 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:300 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:301 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:302 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:303 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:304 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:305 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:306 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:307 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:308 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:309 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:310 双方:dane vs cheng2 游戏othello 开始封装比赛
+contest id:311 双方:zhuxuezhi vs dane 游戏othello 开始封装比赛
+contest id:312 双方:dane vs fortest 游戏othello 开始封装比赛
+contest id:313 双方:zhuxuezhi vs boron 游戏othello 开始封装比赛
+contest id:314 双方:dane vs yukio 游戏othello 开始封装比赛
+contest id:315 双方:dane vs fortest1 游戏othello 开始封装比赛
+contest id:316 双方:evr vs abolo 游戏othello 开始封装比赛
+contest id:317 双方:liyishuai vs abolo 游戏othello 开始封装比赛
+contest id:318 双方:liyishuai vs simpleAI 游戏othello 开始封装比赛
+contest id:319 双方:liyishuai vs abolo 游戏othello 开始封装比赛
+contest id:320 双方:liyishuai vs simpleAI 游戏othello 开始封装比赛
+contest id:321 双方:liyishuai vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-23 23:57:56
+contest id:458 双方:kaikitest vs dane 游戏othello 进入比赛队列
+contest id:322 双方:liyishuai vs abolo 游戏othello 开始封装比赛
+contest id:323 双方:liyishuai vs Evr 游戏othello 开始封装比赛
+contest id:324 双方:test vs simpleAI 游戏othello 开始封装比赛
+contest id:325 双方:test vs albucs 游戏othello 开始封装比赛
+contest id:326 双方:test vs anyyqds 游戏othello 开始封装比赛
+contest id:327 双方:test vs liyishuai 游戏othello 开始封装比赛
+contest id:328 双方:test vs az1379112 游戏othello 开始封装比赛
+contest id:329 双方:test vs dane 游戏othello 开始封装比赛
+contest id:330 双方:test vs skyline 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-23 23:59:35
+contest id:459 双方:kaikitest vs boron 游戏othello 进入比赛队列
+contest id:331 双方:test vs haiwei623 游戏othello 开始封装比赛
+contest id:332 双方:test vs nwangwen 游戏othello 开始封装比赛
+contest id:333 双方:test vs boron 游戏othello 开始封装比赛
+contest id:334 双方:test vs azy1379112 游戏othello 开始封装比赛
+contest id:335 双方:test vs ustcliao 游戏othello 开始封装比赛
+contest id:336 双方:test vs ovid 游戏othello 开始封装比赛
+contest id:337 双方:test vs yukio 游戏othello 开始封装比赛
+contest id:338 双方:test vs sozw 游戏othello 开始封装比赛
+contest id:339 双方:test vs chengsimin 游戏othello 开始封装比赛
+contest id:340 双方:test vs Evr 游戏othello 开始封装比赛
+contest id:341 双方:test vs csm1 游戏othello 开始封装比赛
+contest id:342 双方:test vs xsd 游戏othello 开始封装比赛
+contest id:343 双方:test vs oceantears 游戏othello 开始封装比赛
+contest id:344 双方:liyishuai vs albucs 游戏othello 开始封装比赛
+contest id:345 双方:test vs cxk1198 游戏othello 开始封装比赛
+contest id:346 双方:liyishuai vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 00:01:45
+contest id:460 双方:kaikitest vs simpleAI 游戏othello 进入比赛队列
+contest id:347 双方:test vs fch 游戏othello 开始封装比赛
+contest id:348 双方:liyishuai vs az1379112 游戏othello 开始封装比赛
+contest id:349 双方:liyishuai vs azy1379112 游戏othello 开始封装比赛
+contest id:350 双方:liyishuai vs boron 游戏othello 开始封装比赛
+contest id:351 双方:liyishuai vs chengsimin 游戏othello 开始封装比赛
+contest id:352 双方:liyishuai vs chensimin 游戏othello 开始封装比赛
+contest id:353 双方:liyishuai vs chris 游戏othello 开始封装比赛
+contest id:354 双方:liyishuai vs csm1 游戏othello 开始封装比赛
+contest id:355 双方:liyishuai vs csm10 游戏othello 开始封装比赛
+contest id:356 双方:liyishuai vs cxk1198 游戏othello 开始封装比赛
+contest id:357 双方:liyishuai vs dane 游戏othello 开始封装比赛
+contest id:358 双方:liyishuai vs dongnidamu 游戏othello 开始封装比赛
+contest id:359 双方:liyishuai vs fch 游戏othello 开始封装比赛
+contest id:360 双方:test vs chensimin 游戏othello 开始封装比赛
+contest id:361 双方:liyishuai vs fortest 游戏othello 开始封装比赛
+contest id:362 双方:liyishuai vs fortest1 游戏othello 开始封装比赛
+contest id:363 双方:liyishuai vs haiwei623 游戏othello 开始封装比赛
+contest id:364 双方:liyishuai vs haiwei624 游戏othello 开始封装比赛
+contest id:365 双方:liyishuai vs hehe 游戏othello 开始封装比赛
+contest id:366 双方:liyishuai vs hongbing 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 00:08:58
+contest id:461 双方:dane vs strongAi 游戏othello 进入比赛队列
+contest id:367 双方:liyishuai vs nwangwen 游戏othello 开始封装比赛
+contest id:368 双方:liyishuai vs nwangwen 游戏othello 开始封装比赛
+contest id:369 双方:liyishuai vs oceantears 游戏othello 开始封装比赛
+contest id:370 双方:liyishuai vs ovid 游戏othello 开始封装比赛
+contest id:371 双方:test vs chris 游戏othello 开始封装比赛
+contest id:372 双方:liyishuai vs skyline 游戏othello 开始封装比赛
+contest id:373 双方:liyishuai vs sozw 游戏othello 开始封装比赛
+contest id:374 双方:liyishuai vs test 游戏othello 开始封装比赛
+contest id:375 双方:test vs csm10 游戏othello 开始封装比赛
+contest id:376 双方:liyishuai vs test11 游戏othello 开始封装比赛
+contest id:377 双方:test vs dongnidamu 游戏othello 开始封装比赛
+contest id:378 双方:liyishuai vs test22 游戏othello 开始封装比赛
+contest id:379 双方:liyishuai vs teste 游戏othello 开始封装比赛
+contest id:380 双方:liyishuai vs ustcliao 游戏othello 开始封装比赛
+contest id:381 双方:liyishuai vs xsd 游戏othello 开始封装比赛
+contest id:382 双方:liyishuai vs xxxatt 游戏othello 开始封装比赛
+contest id:383 双方:liyishuai vs yukio 游戏othello 开始封装比赛
+contest id:384 双方:liyishuai vs zhuxuezhi 游戏othello 开始封装比赛
+contest id:385 双方:test vs fortest 游戏othello 开始封装比赛
+contest id:386 双方:test vs fortest1 游戏othello 开始封装比赛
+contest id:387 双方:test vs haiwei624 游戏othello 开始封装比赛
+contest id:388 双方:test vs hehe 游戏othello 开始封装比赛
+contest id:389 双方:liyishuai vs abolo 游戏othello 开始封装比赛
+contest id:390 双方:liyishuai vs test 游戏othello 开始封装比赛
+contest id:391 双方:test vs hongbing 游戏othello 开始封装比赛
+contest id:392 双方:liyishuai vs test 游戏othello 开始封装比赛
+contest id:393 双方:liyishuai vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 00:21:56
+task id:185 用户:cheng2 游戏:othello 进入编译队列
+task id:185 用户:cheng2 游戏:othello 开始封装编译
+contest id:394 双方:liyishuai vs yukio 游戏othello 开始封装比赛
+contest id:395 双方:liyishuai vs zhuxuezhi 游戏othello 开始封装比赛
+contest id:396 双方:test vs zhuxuezhi 游戏othello 开始封装比赛
+contest id:397 双方:test vs liyishuai 游戏othello 开始封装比赛
+contest id:398 双方:test vs test11 游戏othello 开始封装比赛
+contest id:399 双方:test vs test22 游戏othello 开始封装比赛
+contest id:400 双方:test vs teste 游戏othello 开始封装比赛
+contest id:401 双方:test vs xxxatt 游戏othello 开始封装比赛
+contest id:402 双方:dane vs test 游戏othello 开始封装比赛
+contest id:403 双方:kaiki1 vs test 游戏othello 开始封装比赛
+contest id:404 双方:kaiki1 vs test 游戏othello 开始封装比赛
+contest id:405 双方:kaikitest vs simpleAI 游戏othello 开始封装比赛
+contest id:406 双方:kaikitest vs test 游戏othello 开始封装比赛
+contest id:407 双方:kaikitest vs dane 游戏othello 开始封装比赛
+contest id:408 双方:kaikitest vs liyishuai 游戏othello 开始封装比赛
+contest id:409 双方:kaikitest vs boron 游戏othello 开始封装比赛
+contest id:410 双方:kaikitest vs az1379112 游戏othello 开始封装比赛
+contest id:411 双方:test vs kaikitest 游戏othello 开始封装比赛
+contest id:412 双方:test vs liyishuai 游戏othello 开始封装比赛
+contest id:413 双方:kaikitest vs haiwei623 游戏othello 开始封装比赛
+contest id:414 双方:test vs dane 游戏othello 开始封装比赛
+contest id:415 双方:kaikitest vs ovid 游戏othello 开始封装比赛
+contest id:416 双方:kaikitest vs nwangwen 游戏othello 开始封装比赛
+contest id:417 双方:kaikitest vs skyline 游戏othello 开始封装比赛
+contest id:418 双方:kaikitest vs abolo 游戏othello 开始封装比赛
+contest id:419 双方:kaikitest vs albucs 游戏othello 开始封装比赛
+contest id:420 双方:kaikitest vs anyyqds 游戏othello 开始封装比赛
+contest id:421 双方:kaikitest vs azy1379112 游戏othello 开始封装比赛
+contest id:422 双方:kaikitest vs chengsimin 游戏othello 开始封装比赛
+contest id:423 双方:kaikitest vs chensimin 游戏othello 开始封装比赛
+contest id:424 双方:kaikitest vs chris 游戏othello 开始封装比赛
+contest id:425 双方:kaikitest vs ustcliao 游戏othello 开始封装比赛
+contest id:426 双方:kaikitest vs Evr 游戏othello 开始封装比赛
+contest id:427 双方:kaikitest vs csm1 游戏othello 开始封装比赛
+contest id:428 双方:kaikitest vs sozw 游戏othello 开始封装比赛
+contest id:429 双方:kaikitest vs cxk1198 游戏othello 开始封装比赛
+contest id:430 双方:kaikitest vs oceantears 游戏othello 开始封装比赛
+contest id:431 双方:kaikitest vs test11 游戏othello 开始封装比赛
+contest id:432 双方:kaikitest vs hehe 游戏othello 开始封装比赛
+contest id:433 双方:kaikitest vs csm10 游戏othello 开始封装比赛
+contest id:434 双方:kaikitest vs dongnidamu 游戏othello 开始封装比赛
+contest id:435 双方:kaikitest vs fch 游戏othello 开始封装比赛
+contest id:436 双方:kaikitest vs fortest 游戏othello 开始封装比赛
+contest id:437 双方:kaikitest vs fortest1 游戏othello 开始封装比赛
+contest id:438 双方:kaikitest vs haiwei624 游戏othello 开始封装比赛
+contest id:439 双方:kaikitest vs hongbing 游戏othello 开始封装比赛
+contest id:440 双方:kaikitest vs kaiki1 游戏othello 开始封装比赛
+contest id:441 双方:kaikitest vs test 游戏othello 开始封装比赛
+contest id:442 双方:kaikitest vs test22 游戏othello 开始封装比赛
+contest id:443 双方:kaikitest vs teste 游戏othello 开始封装比赛
+contest id:444 双方:test vs abolo 游戏othello 开始封装比赛
+contest id:445 双方:test vs albucs 游戏othello 开始封装比赛
+contest id:446 双方:kaiki1 vs kaikitest 游戏othello 开始封装比赛
+contest id:447 双方:kaikitest vs xsd 游戏othello 开始封装比赛
+contest id:448 双方:kaikitest vs xxxatt 游戏othello 开始封装比赛
+contest id:449 双方:kaikitest vs yukio 游戏othello 开始封装比赛
+contest id:450 双方:kaikitest vs zhuxuezhi 游戏othello 开始封装比赛
+contest id:451 双方:test vs simpleAI 游戏othello 开始封装比赛
+contest id:452 双方:test vs kaikitest 游戏othello 开始封装比赛
+contest id:453 双方:test vs liyishuai 游戏othello 开始封装比赛
+contest id:454 双方:test vs dane 游戏othello 开始封装比赛
+contest id:455 双方:test vs simpleAI 游戏othello 开始封装比赛
+contest id:456 双方:test vs kaikitest 游戏othello 开始封装比赛
+contest id:457 双方:test vs dane 游戏othello 开始封装比赛
+contest id:458 双方:kaikitest vs dane 游戏othello 开始封装比赛
+contest id:459 双方:kaikitest vs boron 游戏othello 开始封装比赛
+contest id:460 双方:kaikitest vs simpleAI 游戏othello 开始封装比赛
+contest id:461 双方:dane vs strongAi 游戏othello 开始封装比赛

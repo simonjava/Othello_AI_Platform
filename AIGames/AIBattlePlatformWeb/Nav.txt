@@ -1,0 +1,28 @@
+<nav><!-- top nav -->
+			<div class="menu">
+				<ul>
+					
+					<li>
+						<a href="main.jsp#replay">比赛回放</a>
+					</li>
+					<li>
+						<a href="ai.jsp">电脑AI</a>
+					</li>
+					<li>
+						<a href="submitCode.jsp">提交代码</a>
+					</li>
+					<li>
+						<a href="rank.jsp">所有排名</a>
+					</li>
+					<li>
+						<a href="information.jsp">个人信息</a>
+					</li>
+					<li>
+						<a href="forum.jsp" target="_blank">讨论论坛</a>
+					</li>
+					<li>
+						<a href="login.jsp?quit=1">退 出</a>
+					</li>
+				</ul>
+			</div>
+</nav>

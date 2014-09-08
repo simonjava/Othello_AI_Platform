@@ -1,0 +1,317 @@
+有新的比赛，当前时间：2013-05-24 08:51:18
+contest id:462 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:462 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 08:52:02
+contest id:463 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:463 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:49:48
+contest id:464 双方:dane vs cheng2 游戏othello 进入比赛队列
+contest id:464 双方:dane vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:50:19
+contest id:465 双方:dane vs Evr 游戏othello 进入比赛队列
+contest id:465 双方:dane vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:52:33
+contest id:466 双方:dane vs haiwei624 游戏othello 进入比赛队列
+contest id:466 双方:dane vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:53:45
+contest id:467 双方:dane vs test 游戏othello 进入比赛队列
+contest id:467 双方:dane vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:54:26
+contest id:468 双方:dane vs kaikitest 游戏othello 进入比赛队列
+contest id:468 双方:dane vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:55:10
+contest id:469 双方:dane vs hehe 游戏othello 进入比赛队列
+contest id:469 双方:dane vs hehe 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 11:55:58
+contest id:470 双方:dane vs hongbing 游戏othello 进入比赛队列
+contest id:470 双方:dane vs hongbing 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 12:03:08
+contest id:471 双方:dane vs kaiki1 游戏othello 进入比赛队列
+contest id:471 双方:dane vs kaiki1 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 13:36:17
+task id:186 用户:cheng2 游戏:othello 进入编译队列
+task id:186 用户:cheng2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 13:36:33
+contest id:472 双方:cheng2 vs abolo 游戏othello 进入比赛队列
+contest id:472 双方:cheng2 vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 13:37:27
+task id:187 用户:strongAi 游戏:othello 进入编译队列
+task id:187 用户:strongAi 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 13:49:11
+contest id:461 双方:dane vs strongAi 游戏othello 进入比赛队列
+contest id:463 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:461 双方:dane vs strongAi 游戏othello 开始封装比赛
+contest id:463 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 13:57:32
+contest id:473 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:473 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 14:01:48
+contest id:474 双方:kaikitest vs cheng2 游戏othello 进入比赛队列
+contest id:474 双方:kaikitest vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 14:04:23
+contest id:475 双方:kaikitest vs mediumAi 游戏othello 进入比赛队列
+contest id:475 双方:kaikitest vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 14:08:19
+contest id:476 双方:kaikitest vs test 游戏othello 进入比赛队列
+contest id:476 双方:kaikitest vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 14:16:10
+task id:188 用户:test 游戏:othello 进入编译队列
+task id:188 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 14:16:21
+contest id:477 双方:test vs kaikitest 游戏othello 进入比赛队列
+contest id:477 双方:test vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 14:17:03
+contest id:478 双方:test vs dane 游戏othello 进入比赛队列
+contest id:478 双方:test vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 14:34:31
+contest id:479 双方:kaikitest vs test 游戏othello 进入比赛队列
+contest id:479 双方:kaikitest vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 14:52:02
+task id:189 用户:kaikitest2 游戏:othello 进入编译队列
+task id:189 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 14:52:19
+contest id:480 双方:kaikitest2 vs kaikitest 游戏othello 进入比赛队列
+contest id:480 双方:kaikitest2 vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 14:53:41
+contest id:481 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:481 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:01:22
+task id:190 用户:kaikitest2 游戏:othello 进入编译队列
+task id:190 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:01:36
+contest id:482 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:482 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:08:03
+task id:191 用户:kaikitest2 游戏:othello 进入编译队列
+task id:191 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:08:10
+contest id:483 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:483 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:08:53
+task id:192 用户:kaikitest2 游戏:othello 进入编译队列
+task id:192 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:09:32
+contest id:484 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:484 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:11:13
+task id:193 用户:kaikitest2 游戏:othello 进入编译队列
+task id:193 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:12:41
+contest id:485 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:485 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:15:53
+task id:194 用户:kaikitest2 游戏:othello 进入编译队列
+task id:194 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:16:07
+contest id:486 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:486 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:18:23
+task id:195 用户:kaikitest2 游戏:othello 进入编译队列
+task id:195 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:19:16
+contest id:487 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:487 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:21:14
+task id:196 用户:kaikitest2 游戏:othello 进入编译队列
+task id:196 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:21:21
+contest id:488 双方:kaikitest2 vs kaikitest 游戏othello 进入比赛队列
+contest id:488 双方:kaikitest2 vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:22:07
+contest id:489 双方:kaikitest2 vs strongAi 游戏othello 进入比赛队列
+contest id:489 双方:kaikitest2 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:24:56
+contest id:490 双方:kaikitest2 vs cheng2 游戏othello 进入比赛队列
+contest id:490 双方:kaikitest2 vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 15:27:24
+task id:197 用户:kaikitest2 游戏:othello 进入编译队列
+task id:197 用户:kaikitest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 15:27:38
+contest id:491 双方:kaikitest2 vs kaikitest 游戏othello 进入比赛队列
+contest id:491 双方:kaikitest2 vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:44:46
+contest id:492 双方:kaikitest2 vs dane 游戏othello 进入比赛队列
+contest id:492 双方:kaikitest2 vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:46:20
+contest id:493 双方:kaikitest2 vs liyishuai 游戏othello 进入比赛队列
+contest id:493 双方:kaikitest2 vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:46:52
+contest id:494 双方:kaikitest2 vs abolo 游戏othello 进入比赛队列
+contest id:494 双方:kaikitest2 vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:53:29
+contest id:495 双方:kaikitest2 vs albucs 游戏othello 进入比赛队列
+contest id:495 双方:kaikitest2 vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:54:16
+contest id:496 双方:kaikitest2 vs test 游戏othello 进入比赛队列
+contest id:496 双方:kaikitest2 vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:55:13
+contest id:497 双方:kaikitest2 vs anyyqds 游戏othello 进入比赛队列
+contest id:497 双方:kaikitest2 vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:55:54
+contest id:498 双方:kaikitest2 vs az1379112 游戏othello 进入比赛队列
+contest id:498 双方:kaikitest2 vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:57:13
+contest id:499 双方:kaikitest2 vs azy1379112 游戏othello 进入比赛队列
+contest id:499 双方:kaikitest2 vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 15:58:39
+contest id:500 双方:kaikitest2 vs boron 游戏othello 进入比赛队列
+contest id:500 双方:kaikitest2 vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 16:00:53
+contest id:501 双方:kaikitest2 vs cheng2 游戏othello 进入比赛队列
+contest id:501 双方:kaikitest2 vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 16:01:35
+contest id:502 双方:kaikitest2 vs chengsimin 游戏othello 进入比赛队列
+contest id:502 双方:kaikitest2 vs chengsimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 17:10:10
+contest id:503 双方:test vs cheng2 游戏othello 进入比赛队列
+contest id:503 双方:test vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 17:10:58
+contest id:504 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:504 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 17:48:22
+task id:198 用户:liyishuai 游戏:othello 进入编译队列
+task id:198 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 17:48:52
+contest id:505 双方:liyishuai vs kaikitest 游戏othello 进入比赛队列
+contest id:505 双方:liyishuai vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 17:54:25
+contest id:506 双方:liyishuai vs test 游戏othello 进入比赛队列
+contest id:506 双方:liyishuai vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 17:55:01
+contest id:507 双方:liyishuai vs mediumAi 游戏othello 进入比赛队列
+contest id:507 双方:liyishuai vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 17:58:28
+contest id:508 双方:liyishuai vs kaikitest2 游戏othello 进入比赛队列
+contest id:508 双方:liyishuai vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:01:23
+contest id:509 双方:liyishuai vs cheng2 游戏othello 进入比赛队列
+contest id:509 双方:liyishuai vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 18:06:23
+task id:199 用户:liyishuai 游戏:othello 进入编译队列
+task id:199 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 18:06:31
+contest id:510 双方:liyishuai vs kaikitest 游戏othello 进入比赛队列
+contest id:510 双方:liyishuai vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:08:38
+contest id:511 双方:kaikitest2 vs chensimin 游戏othello 进入比赛队列
+contest id:511 双方:kaikitest2 vs chensimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:09:28
+contest id:512 双方:kaikitest2 vs chris 游戏othello 进入比赛队列
+contest id:512 双方:kaikitest2 vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:11:42
+contest id:513 双方:kaikitest2 vs csm1 游戏othello 进入比赛队列
+contest id:513 双方:kaikitest2 vs csm1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:12:26
+contest id:514 双方:kaikitest2 vs csm10 游戏othello 进入比赛队列
+contest id:514 双方:kaikitest2 vs csm10 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:13:15
+contest id:515 双方:kaikitest2 vs cxk1198 游戏othello 进入比赛队列
+contest id:515 双方:kaikitest2 vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:15:35
+contest id:516 双方:kaikitest2 vs dongnidamu 游戏othello 进入比赛队列
+contest id:516 双方:kaikitest2 vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:16:13
+contest id:517 双方:kaikitest2 vs Evr 游戏othello 进入比赛队列
+contest id:517 双方:kaikitest2 vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:16:58
+contest id:518 双方:kaikitest2 vs fch 游戏othello 进入比赛队列
+contest id:518 双方:kaikitest2 vs fch 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:29:44
+contest id:519 双方:kaikitest vs kaikitest2 游戏othello 进入比赛队列
+contest id:519 双方:kaikitest vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:32:31
+contest id:520 双方:kaikitest vs liyishuai 游戏othello 进入比赛队列
+contest id:520 双方:kaikitest vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:34:06
+contest id:521 双方:kaikitest2 vs liyishuai 游戏othello 进入比赛队列
+contest id:521 双方:kaikitest2 vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:43:53
+contest id:522 双方:dane vs cheng2 游戏othello 进入比赛队列
+contest id:522 双方:dane vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:44:55
+contest id:523 双方:dane vs kaikitest2 游戏othello 进入比赛队列
+contest id:523 双方:dane vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:45:37
+contest id:524 双方:dane vs liyishuai 游戏othello 进入比赛队列
+contest id:524 双方:dane vs liyishuai 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 18:47:05
+task id:200 用户:kaikitest 游戏:othello 进入编译队列
+task id:200 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 18:47:22
+contest id:525 双方:dane vs kaikitest 游戏othello 进入比赛队列
+contest id:525 双方:dane vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 18:47:28
+contest id:526 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:526 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 19:00:50
+contest id:527 双方:kaikitest vs liyishuai 游戏othello 进入比赛队列
+contest id:527 双方:kaikitest vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 21:42:17
+contest id:528 双方:kaikitest2 vs mediumAi 游戏othello 进入比赛队列
+contest id:528 双方:kaikitest2 vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 21:48:05
+task id:201 用户:kaikitest 游戏:othello 进入编译队列
+task id:201 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 21:48:41
+contest id:529 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:529 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 21:51:15
+task id:202 用户:kaikitest 游戏:othello 进入编译队列
+task id:202 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 21:52:22
+contest id:530 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:530 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 21:54:25
+task id:203 用户:kaikitest 游戏:othello 进入编译队列
+task id:203 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 21:54:41
+contest id:531 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:531 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 21:59:25
+task id:204 用户:kaikitest 游戏:othello 进入编译队列
+task id:204 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 21:59:34
+contest id:532 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:532 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 22:01:05
+task id:205 用户:kaikitest 游戏:othello 进入编译队列
+task id:205 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 22:01:53
+contest id:533 双方:kaikitest vs kaikitest2 游戏othello 进入比赛队列
+contest id:533 双方:kaikitest vs kaikitest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 22:06:06
+task id:206 用户:kaikitest 游戏:othello 进入编译队列
+task id:206 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 22:06:11
+contest id:534 双方:kaikitest vs kaikitest2 游戏othello 进入比赛队列
+contest id:534 双方:kaikitest vs kaikitest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 22:09:46
+task id:207 用户:kaikitest 游戏:othello 进入编译队列
+task id:207 用户:kaikitest 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-05-24 22:11:16
+task id:208 用户:kaikitest 游戏:othello 进入编译队列
+task id:208 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 22:12:09
+contest id:535 双方:kaikitest vs kaikitest2 游戏othello 进入比赛队列
+contest id:535 双方:kaikitest vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 22:12:41
+contest id:536 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:536 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-24 22:22:07
+task id:209 用户:kaikitest 游戏:othello 进入编译队列
+task id:209 用户:kaikitest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-24 22:22:36
+contest id:537 双方:kaikitest vs strongAi 游戏othello 进入比赛队列
+contest id:537 双方:kaikitest vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 22:23:28
+contest id:538 双方:kaikitest vs kaikitest2 游戏othello 进入比赛队列
+contest id:538 双方:kaikitest vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-05-24 22:24:24
+contest id:539 双方:kaikitest vs liyishuai 游戏othello 进入比赛队列
+contest id:539 双方:kaikitest vs liyishuai 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-05-25 00:22:22
+task id:210 用户:test 游戏:othello 进入编译队列
+task id:210 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-05-25 00:23:59
+contest id:540 双方:test vs liyishuai 游戏othello 进入比赛队列
+contest id:540 双方:test vs liyishuai 游戏othello 开始封装比赛

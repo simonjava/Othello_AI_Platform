@@ -1,0 +1,4067 @@
+有新的编译，当前时间：2013-06-05 19:52:41
+task id:306 用户:test 游戏:othello 进入编译队列
+task id:306 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 19:52:49
+contest id:733 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:733 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 19:54:41
+task id:307 用户:test 游戏:othello 进入编译队列
+task id:307 用户:test 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-05 20:59:45
+task id:308 用户:test 游戏:othello 进入编译队列
+task id:308 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 20:59:50
+contest id:734 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:734 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:02:45
+task id:309 用户:test 游戏:othello 进入编译队列
+task id:309 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:02:49
+contest id:735 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:735 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-05 21:03:19
+contest id:736 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:736 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:14:05
+task id:310 用户:test 游戏:othello 进入编译队列
+task id:310 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:14:23
+contest id:737 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:737 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:18:16
+task id:311 用户:test 游戏:othello 进入编译队列
+task id:311 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:20:01
+contest id:738 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:738 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:21:26
+task id:312 用户:test 游戏:othello 进入编译队列
+task id:312 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:21:31
+contest id:739 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:739 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:22:26
+task id:313 用户:test 游戏:othello 进入编译队列
+task id:313 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:23:54
+contest id:740 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:740 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:26:56
+task id:314 用户:test 游戏:othello 进入编译队列
+task id:314 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:27:01
+contest id:741 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:741 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 21:49:38
+task id:315 用户:test 游戏:othello 进入编译队列
+task id:315 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 21:49:42
+contest id:742 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:742 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 22:02:09
+task id:316 用户:test 游戏:othello 进入编译队列
+task id:316 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 22:02:11
+contest id:743 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:743 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-05 22:11:14
+contest id:744 双方:test vs abolo 游戏othello 进入比赛队列
+contest id:744 双方:test vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-05 22:12:05
+contest id:745 双方:test vs kaiki 游戏othello 进入比赛队列
+contest id:745 双方:test vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-05 22:13:25
+contest id:746 双方:test vs kaikitest2 游戏othello 进入比赛队列
+contest id:746 双方:test vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-05 22:26:23
+contest id:747 双方:kaikitest3 vs test 游戏othello 进入比赛队列
+contest id:747 双方:kaikitest3 vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 22:50:11
+task id:317 用户:test 游戏:othello 进入编译队列
+task id:317 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 22:50:19
+contest id:748 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:748 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 22:56:22
+task id:318 用户:test 游戏:othello 进入编译队列
+task id:318 用户:test 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-05 22:56:52
+task id:319 用户:test 游戏:othello 进入编译队列
+task id:319 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 22:56:56
+contest id:749 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:749 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-05 22:59:12
+task id:320 用户:test 游戏:othello 进入编译队列
+task id:320 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-05 22:59:25
+contest id:750 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:750 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 00:44:15
+contest id:751 双方:test vs baird 游戏othello 进入比赛队列
+contest id:751 双方:test vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 10:53:26
+contest id:752 双方:oceantears vs albucs 游戏othello 进入比赛队列
+contest id:752 双方:oceantears vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 10:55:00
+contest id:753 双方:oceantears vs kaikitest3 游戏othello 进入比赛队列
+contest id:753 双方:oceantears vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 10:55:34
+contest id:754 双方:oceantears vs anyyqds 游戏othello 进入比赛队列
+contest id:754 双方:oceantears vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 11:13:04
+contest id:755 双方:oceantears vs az1379112 游戏othello 进入比赛队列
+contest id:755 双方:oceantears vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 11:28:41
+contest id:756 双方:oceantears vs azy1379112 游戏othello 进入比赛队列
+contest id:756 双方:oceantears vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 11:31:54
+contest id:757 双方:oceantears vs simpleAI 游戏othello 进入比赛队列
+contest id:757 双方:oceantears vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 16:40:55
+contest id:758 双方:dane vs strongAi 游戏othello 进入比赛队列
+contest id:758 双方:dane vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-06 16:41:31
+contest id:759 双方:dane vs baird 游戏othello 进入比赛队列
+contest id:759 双方:dane vs baird 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 10:37:11
+task id:321 用户:LerenceRay 游戏:othello 进入编译队列
+task id:321 用户:LerenceRay 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-07 10:38:41
+task id:322 用户:LerenceRay 游戏:othello 进入编译队列
+task id:322 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 10:39:00
+contest id:760 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:760 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 10:40:15
+contest id:761 双方:LerenceRay vs albucs 游戏othello 进入比赛队列
+contest id:761 双方:LerenceRay vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 10:41:17
+contest id:762 双方:LerenceRay vs simpleAI 游戏othello 进入比赛队列
+contest id:762 双方:LerenceRay vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 10:42:59
+contest id:763 双方:LerenceRay vs anyyqds 游戏othello 进入比赛队列
+contest id:763 双方:LerenceRay vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 10:44:58
+contest id:764 双方:LerenceRay vs az1379112 游戏othello 进入比赛队列
+contest id:764 双方:LerenceRay vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 10:45:51
+contest id:765 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:765 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:03:24
+contest id:766 双方:LerenceRay vs azy1379112 游戏othello 进入比赛队列
+contest id:766 双方:LerenceRay vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:04:01
+contest id:767 双方:LerenceRay vs baird 游戏othello 进入比赛队列
+contest id:767 双方:LerenceRay vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:05:25
+contest id:768 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:768 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:07:14
+contest id:769 双方:LerenceRay vs boron 游戏othello 进入比赛队列
+contest id:769 双方:LerenceRay vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:08:43
+contest id:770 双方:LerenceRay vs Evr 游戏othello 进入比赛队列
+contest id:770 双方:LerenceRay vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:10:38
+contest id:771 双方:LerenceRay vs chengsimin 游戏othello 进入比赛队列
+contest id:771 双方:LerenceRay vs chengsimin 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 11:16:13
+task id:323 用户:LerenceRay 游戏:othello 进入编译队列
+task id:323 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 11:16:27
+contest id:772 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:772 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:17:48
+contest id:773 双方:LerenceRay vs albucs 游戏othello 进入比赛队列
+contest id:773 双方:LerenceRay vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:18:49
+contest id:774 双方:LerenceRay vs anyyqds 游戏othello 进入比赛队列
+contest id:774 双方:LerenceRay vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:19:24
+contest id:775 双方:LerenceRay vs az1379112 游戏othello 进入比赛队列
+contest id:775 双方:LerenceRay vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:20:09
+contest id:776 双方:LerenceRay vs azy1379112 游戏othello 进入比赛队列
+contest id:776 双方:LerenceRay vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:20:59
+contest id:777 双方:LerenceRay vs baird 游戏othello 进入比赛队列
+contest id:777 双方:LerenceRay vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:22:29
+contest id:778 双方:LerenceRay vs boron 游戏othello 进入比赛队列
+contest id:778 双方:LerenceRay vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:23:10
+contest id:779 双方:LerenceRay vs simpleAI 游戏othello 进入比赛队列
+contest id:779 双方:LerenceRay vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:24:32
+contest id:780 双方:LerenceRay vs mediumAi 游戏othello 进入比赛队列
+contest id:780 双方:LerenceRay vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:25:59
+contest id:781 双方:LerenceRay vs kaiki1 游戏othello 进入比赛队列
+contest id:781 双方:LerenceRay vs kaiki1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:26:35
+contest id:782 双方:LerenceRay vs chris 游戏othello 进入比赛队列
+contest id:782 双方:LerenceRay vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:27:17
+contest id:783 双方:LerenceRay vs liyishuai 游戏othello 进入比赛队列
+contest id:783 双方:LerenceRay vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:29:26
+contest id:784 双方:LerenceRay vs haiwei624 游戏othello 进入比赛队列
+contest id:784 双方:LerenceRay vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:31:44
+contest id:785 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:785 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:32:45
+contest id:786 双方:LerenceRay vs chengsimin 游戏othello 进入比赛队列
+contest id:786 双方:LerenceRay vs chengsimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:33:23
+contest id:787 双方:LerenceRay vs chensimin 游戏othello 进入比赛队列
+contest id:787 双方:LerenceRay vs chensimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:35:19
+contest id:788 双方:LerenceRay vs csm1 游戏othello 进入比赛队列
+contest id:788 双方:LerenceRay vs csm1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:36:48
+contest id:789 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+contest id:789 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:37:57
+contest id:790 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:790 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:38:28
+contest id:791 双方:LerenceRay vs dane 游戏othello 进入比赛队列
+contest id:791 双方:LerenceRay vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:39:33
+contest id:792 双方:LerenceRay vs kaikitest 游戏othello 进入比赛队列
+contest id:792 双方:LerenceRay vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:40:04
+contest id:793 双方:LerenceRay vs csm10 游戏othello 进入比赛队列
+contest id:793 双方:LerenceRay vs csm10 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:41:10
+contest id:794 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:794 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:42:14
+contest id:795 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:795 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:43:11
+contest id:796 双方:LerenceRay vs kaikitest3 游戏othello 进入比赛队列
+contest id:796 双方:LerenceRay vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:49:12
+contest id:797 双方:LerenceRay vs cxk1198 游戏othello 进入比赛队列
+contest id:797 双方:LerenceRay vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:49:50
+contest id:798 双方:LerenceRay vs dongnidamu 游戏othello 进入比赛队列
+contest id:798 双方:LerenceRay vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:50:32
+contest id:799 双方:LerenceRay vs Evr 游戏othello 进入比赛队列
+contest id:799 双方:LerenceRay vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:51:42
+contest id:800 双方:LerenceRay vs fch 游戏othello 进入比赛队列
+contest id:800 双方:LerenceRay vs fch 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:52:18
+contest id:801 双方:LerenceRay vs fortest 游戏othello 进入比赛队列
+contest id:801 双方:LerenceRay vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:53:18
+contest id:802 双方:LerenceRay vs fortest1 游戏othello 进入比赛队列
+contest id:802 双方:LerenceRay vs fortest1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:54:03
+contest id:803 双方:LerenceRay vs haiwei623 游戏othello 进入比赛队列
+contest id:803 双方:LerenceRay vs haiwei623 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:54:43
+contest id:804 双方:LerenceRay vs hehe 游戏othello 进入比赛队列
+contest id:804 双方:LerenceRay vs hehe 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:55:17
+contest id:805 双方:LerenceRay vs hongbing 游戏othello 进入比赛队列
+contest id:805 双方:LerenceRay vs hongbing 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:56:26
+contest id:806 双方:LerenceRay vs nwangwen 游戏othello 进入比赛队列
+contest id:806 双方:LerenceRay vs nwangwen 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 11:57:21
+contest id:807 双方:LerenceRay vs oceantears 游戏othello 进入比赛队列
+contest id:807 双方:LerenceRay vs oceantears 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 13:47:02
+contest id:808 双方:LerenceRay vs ovid 游戏othello 进入比赛队列
+contest id:808 双方:LerenceRay vs ovid 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 14:14:24
+task id:324 用户:LerenceRay 游戏:othello 进入编译队列
+task id:324 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 14:14:32
+contest id:809 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:809 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 14:15:13
+contest id:810 双方:LerenceRay vs liyishuai 游戏othello 进入比赛队列
+contest id:810 双方:LerenceRay vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 14:15:46
+contest id:811 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+有新的比赛，当前时间：2013-06-07 14:16:18
+contest id:812 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:811 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+contest id:812 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 14:16:48
+contest id:813 双方:LerenceRay vs albucs 游戏othello 进入比赛队列
+contest id:813 双方:LerenceRay vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 14:39:46
+task id:325 用户:LerenceRay 游戏:othello 进入编译队列
+task id:325 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 14:39:56
+contest id:814 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:814 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 14:40:26
+contest id:815 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+contest id:815 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 14:40:59
+contest id:816 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:816 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 15:02:50
+contest id:817 双方:LerenceRay vs baird 游戏othello 进入比赛队列
+contest id:817 双方:LerenceRay vs baird 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 15:49:50
+task id:326 用户:LerenceRay 游戏:othello 进入编译队列
+task id:326 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 15:49:56
+contest id:818 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:818 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 15:51:12
+contest id:819 双方:LerenceRay vs kaikitest3 游戏othello 进入比赛队列
+contest id:819 双方:LerenceRay vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 15:51:50
+contest id:820 双方:LerenceRay vs mediumAi 游戏othello 进入比赛队列
+contest id:820 双方:LerenceRay vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 15:53:19
+contest id:821 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:821 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 15:54:32
+contest id:822 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+contest id:822 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 15:55:50
+contest id:823 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:823 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 16:28:02
+task id:327 用户:LerenceRay 游戏:othello 进入编译队列
+task id:327 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 16:38:36
+contest id:824 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+contest id:824 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 16:50:03
+task id:328 用户:LerenceRay 游戏:othello 进入编译队列
+task id:328 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 16:50:10
+contest id:825 双方:LerenceRay vs mediumAi 游戏othello 进入比赛队列
+contest id:825 双方:LerenceRay vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:50:45
+contest id:826 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+contest id:826 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:51:17
+contest id:827 双方:LerenceRay vs baird 游戏othello 进入比赛队列
+contest id:827 双方:LerenceRay vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:51:54
+contest id:828 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:828 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:52:28
+contest id:829 双方:LerenceRay vs dane 游戏othello 进入比赛队列
+contest id:829 双方:LerenceRay vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:53:52
+contest id:830 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:830 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:56:07
+contest id:831 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:831 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:57:37
+contest id:832 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:832 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:58:50
+contest id:833 双方:LerenceRay vs albucs 游戏othello 进入比赛队列
+contest id:833 双方:LerenceRay vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 16:59:27
+contest id:834 双方:LerenceRay vs anyyqds 游戏othello 进入比赛队列
+contest id:834 双方:LerenceRay vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 17:00:06
+contest id:835 双方:LerenceRay vs az1379112 游戏othello 进入比赛队列
+contest id:835 双方:LerenceRay vs az1379112 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 18:32:49
+task id:329 用户:test 游戏:othello 进入编译队列
+task id:329 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 18:33:01
+contest id:836 双方:test vs baird 游戏othello 进入比赛队列
+contest id:836 双方:test vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 18:34:13
+contest id:837 双方:test vs LerenceRay 游戏othello 进入比赛队列
+contest id:837 双方:test vs LerenceRay 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 18:39:59
+task id:330 用户:test 游戏:othello 进入编译队列
+task id:330 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 21:20:25
+contest id:838 双方:LerenceRay vs azy1379112 游戏othello 进入比赛队列
+contest id:838 双方:LerenceRay vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:24:53
+contest id:839 双方:LerenceRay vs liyishuai 游戏othello 进入比赛队列
+contest id:839 双方:LerenceRay vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:25:31
+contest id:840 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:840 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-07 21:36:39
+task id:331 用户:LerenceRay 游戏:othello 进入编译队列
+task id:331 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-07 21:36:48
+contest id:841 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:841 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:37:48
+contest id:842 双方:LerenceRay vs baird 游戏othello 进入比赛队列
+contest id:842 双方:LerenceRay vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:38:22
+contest id:843 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:843 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:39:03
+contest id:844 双方:LerenceRay vs dane 游戏othello 进入比赛队列
+contest id:844 双方:LerenceRay vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:39:33
+contest id:845 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:845 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:39:39
+contest id:846 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:846 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-07 21:40:38
+contest id:847 双方:LerenceRay vs mediumAi 游戏othello 进入比赛队列
+contest id:847 双方:LerenceRay vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 08:41:21
+contest id:848 双方:test vs LerenceRay 游戏othello 进入比赛队列
+contest id:848 双方:test vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 11:14:56
+contest id:849 双方:test vs abolo 游戏othello 进入比赛队列
+contest id:849 双方:test vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 11:16:06
+contest id:850 双方:test vs cheng2 游戏othello 进入比赛队列
+contest id:850 双方:test vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 11:16:46
+contest id:851 双方:test vs dane 游戏othello 进入比赛队列
+contest id:851 双方:test vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-08 14:00:04
+task id:332 用户:hongbing 游戏:othello 进入编译队列
+task id:332 用户:hongbing 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-08 14:00:32
+contest id:852 双方:hongbing vs abolo 游戏othello 进入比赛队列
+contest id:852 双方:hongbing vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 14:01:23
+contest id:853 双方:hongbing vs albucs 游戏othello 进入比赛队列
+contest id:853 双方:hongbing vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 14:02:00
+contest id:854 双方:hongbing vs LerenceRay 游戏othello 进入比赛队列
+contest id:854 双方:hongbing vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 14:02:42
+contest id:855 双方:hongbing vs mediumAi 游戏othello 进入比赛队列
+contest id:855 双方:hongbing vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 14:03:51
+contest id:856 双方:hongbing vs anyyqds 游戏othello 进入比赛队列
+contest id:856 双方:hongbing vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 14:04:29
+contest id:857 双方:hongbing vs simpleAI 游戏othello 进入比赛队列
+contest id:857 双方:hongbing vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 17:00:38
+contest id:858 双方:kaiki vs LerenceRay 游戏othello 进入比赛队列
+contest id:858 双方:kaiki vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 17:01:25
+contest id:859 双方:kaiki vs cheng2 游戏othello 进入比赛队列
+contest id:859 双方:kaiki vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 17:53:13
+contest id:860 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:860 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 20:54:00
+contest id:861 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:861 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-08 23:00:10
+contest id:862 双方:LerenceRay vs kaikitest3 游戏othello 进入比赛队列
+contest id:862 双方:LerenceRay vs kaikitest3 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:19:29
+task id:333 用户:jerrytest2 游戏:othello 进入编译队列
+task id:333 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:19:38
+contest id:863 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:863 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:26:09
+task id:334 用户:jerrytest2 游戏:othello 进入编译队列
+task id:334 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:26:18
+contest id:864 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:864 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:27:19
+task id:335 用户:jerrytest2 游戏:othello 进入编译队列
+task id:335 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:27:23
+contest id:865 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:865 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:29:19
+task id:336 用户:jerrytest2 游戏:othello 进入编译队列
+task id:336 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:29:25
+contest id:866 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:866 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:30:51
+contest id:867 双方:jerrytest2 vs kaikitest2 游戏othello 进入比赛队列
+contest id:867 双方:jerrytest2 vs kaikitest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:31:20
+task id:337 用户:jerrytest2 游戏:othello 进入编译队列
+task id:337 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:31:26
+contest id:868 双方:jerrytest2 vs kaikitest2 游戏othello 进入比赛队列
+contest id:868 双方:jerrytest2 vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:32:32
+contest id:869 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:869 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:32:40
+task id:338 用户:jerrytest2 游戏:othello 进入编译队列
+task id:338 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:33:04
+contest id:870 双方:jerrytest2 vs strongAi 游戏othello 进入比赛队列
+contest id:870 双方:jerrytest2 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:36:30
+task id:339 用户:jerrytest2 游戏:othello 进入编译队列
+task id:339 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:36:38
+contest id:871 双方:jerrytest2 vs strongAi 游戏othello 进入比赛队列
+contest id:871 双方:jerrytest2 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:37:13
+contest id:872 双方:jerrytest2 vs kaikitest2 游戏othello 进入比赛队列
+contest id:872 双方:jerrytest2 vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:39:24
+contest id:873 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:873 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:39:40
+task id:340 用户:jerrytest2 游戏:othello 进入编译队列
+task id:340 用户:jerrytest2 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-09 15:41:00
+task id:341 用户:jerrytest2 游戏:othello 进入编译队列
+task id:341 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:41:07
+contest id:874 双方:jerrytest2 vs kaikitest2 游戏othello 进入比赛队列
+contest id:874 双方:jerrytest2 vs kaikitest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:46:31
+task id:342 用户:jerrytest2 游戏:othello 进入编译队列
+task id:342 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:46:37
+contest id:875 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:875 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:47:11
+task id:343 用户:jerrytest2 游戏:othello 进入编译队列
+task id:343 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:47:21
+contest id:876 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:876 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:48:21
+task id:344 用户:jerrytest2 游戏:othello 进入编译队列
+task id:344 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:48:31
+contest id:877 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:877 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:49:21
+task id:345 用户:jerrytest2 游戏:othello 进入编译队列
+task id:345 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:49:26
+contest id:878 双方:jerrytest2 vs simpleAI 游戏othello 进入比赛队列
+contest id:878 双方:jerrytest2 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:52:33
+contest id:879 双方:jerrytest2 vs mediumAi 游戏othello 进入比赛队列
+contest id:879 双方:jerrytest2 vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:53:06
+contest id:880 双方:jerrytest2 vs strongAi 游戏othello 进入比赛队列
+contest id:880 双方:jerrytest2 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:53:56
+contest id:881 双方:jerrytest2 vs kaikitest2 游戏othello 进入比赛队列
+contest id:881 双方:jerrytest2 vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-09 15:54:33
+contest id:882 双方:jerrytest2 vs kaiki 游戏othello 进入比赛队列
+contest id:882 双方:jerrytest2 vs kaiki 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-09 15:54:51
+task id:346 用户:jerrytest2 游戏:othello 进入编译队列
+task id:346 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-09 15:55:11
+contest id:883 双方:jerrytest2 vs strongAi 游戏othello 进入比赛队列
+contest id:883 双方:jerrytest2 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:30:33
+contest id:884 双方:LerenceRay vs jerrytest2 游戏othello 进入比赛队列
+contest id:884 双方:LerenceRay vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:32:36
+contest id:885 双方:LerenceRay vs haiwei624 游戏othello 进入比赛队列
+contest id:885 双方:LerenceRay vs haiwei624 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 10:37:14
+task id:347 用户:LerenceRay 游戏:othello 进入编译队列
+task id:347 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 10:37:27
+contest id:886 双方:LerenceRay vs haiwei624 游戏othello 进入比赛队列
+contest id:886 双方:LerenceRay vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:38:16
+contest id:887 双方:LerenceRay vs jerrytest2 游戏othello 进入比赛队列
+contest id:887 双方:LerenceRay vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:38:49
+contest id:888 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:888 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:39:23
+contest id:889 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:889 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:40:09
+contest id:890 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:890 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:41:10
+contest id:891 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:891 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 10:42:22
+contest id:892 双方:LerenceRay vs dane 游戏othello 进入比赛队列
+contest id:892 双方:LerenceRay vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 10:56:35
+task id:348 用户:LerenceRay 游戏:othello 进入编译队列
+task id:348 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 10:56:43
+contest id:893 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:893 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 10:58:45
+task id:349 用户:LerenceRay 游戏:othello 进入编译队列
+task id:349 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 10:58:54
+contest id:894 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:894 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 11:05:36
+task id:350 用户:LerenceRay 游戏:othello 进入编译队列
+task id:350 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 11:05:42
+contest id:895 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:895 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 11:13:46
+task id:351 用户:LerenceRay 游戏:othello 进入编译队列
+task id:351 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 11:13:55
+contest id:896 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:896 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 11:17:46
+task id:352 用户:LerenceRay 游戏:othello 进入编译队列
+task id:352 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 11:17:53
+contest id:897 双方:LerenceRay vs jerrytest2 游戏othello 进入比赛队列
+contest id:897 双方:LerenceRay vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 11:20:27
+task id:353 用户:LerenceRay 游戏:othello 进入编译队列
+task id:353 用户:LerenceRay 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 11:20:29
+contest id:898 双方:LerenceRay vs jerrytest2 游戏othello 进入比赛队列
+contest id:898 双方:LerenceRay vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:20:59
+contest id:899 双方:LerenceRay vs strongAi 游戏othello 进入比赛队列
+contest id:899 双方:LerenceRay vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:21:59
+contest id:900 双方:LerenceRay vs cheng2 游戏othello 进入比赛队列
+contest id:900 双方:LerenceRay vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:22:29
+contest id:901 双方:LerenceRay vs kaikitest2 游戏othello 进入比赛队列
+contest id:901 双方:LerenceRay vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:23:19
+contest id:902 双方:LerenceRay vs test 游戏othello 进入比赛队列
+contest id:902 双方:LerenceRay vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:24:33
+contest id:903 双方:LerenceRay vs haiwei624 游戏othello 进入比赛队列
+contest id:903 双方:LerenceRay vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:25:31
+contest id:904 双方:LerenceRay vs baird 游戏othello 进入比赛队列
+contest id:904 双方:LerenceRay vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:27:20
+contest id:905 双方:LerenceRay vs dane 游戏othello 进入比赛队列
+contest id:905 双方:LerenceRay vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 11:28:04
+contest id:906 双方:LerenceRay vs kaiki 游戏othello 进入比赛队列
+contest id:906 双方:LerenceRay vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 13:41:07
+contest id:907 双方:jerrytest2 vs test 游戏othello 进入比赛队列
+contest id:907 双方:jerrytest2 vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 15:34:10
+task id:354 用户:test 游戏:othello 进入编译队列
+task id:354 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 15:34:20
+contest id:908 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:908 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 15:38:51
+task id:355 用户:test 游戏:othello 进入编译队列
+task id:355 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 15:43:13
+contest id:909 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:909 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 15:50:32
+task id:356 用户:test 游戏:othello 进入编译队列
+task id:356 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 15:50:36
+contest id:910 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:910 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 15:54:42
+task id:357 用户:test 游戏:othello 进入编译队列
+task id:357 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 15:54:50
+contest id:911 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:911 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 15:58:32
+task id:358 用户:test 游戏:othello 进入编译队列
+task id:358 用户:test 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-10 15:59:02
+task id:359 用户:test 游戏:othello 进入编译队列
+task id:359 用户:test 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-10 15:59:42
+task id:360 用户:test 游戏:othello 进入编译队列
+task id:360 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 15:59:48
+contest id:912 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:912 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 16:07:23
+task id:361 用户:test 游戏:othello 进入编译队列
+task id:361 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 16:07:27
+contest id:913 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:913 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 16:54:25
+task id:362 用户:test 游戏:othello 进入编译队列
+task id:362 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 16:54:31
+contest id:914 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:914 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:01:06
+task id:363 用户:test 游戏:othello 进入编译队列
+task id:363 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:01:11
+contest id:915 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:915 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 17:02:37
+contest id:916 双方:baird vs cheng2 游戏othello 进入比赛队列
+contest id:916 双方:baird vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 17:03:21
+contest id:917 双方:baird vs kaiki 游戏othello 进入比赛队列
+contest id:917 双方:baird vs kaiki 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:04:36
+task id:364 用户:baird 游戏:othello 进入编译队列
+task id:364 用户:baird 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:04:45
+contest id:918 双方:baird vs LerenceRay 游戏othello 进入比赛队列
+contest id:918 双方:baird vs LerenceRay 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:06:06
+task id:365 用户:test 游戏:othello 进入编译队列
+task id:365 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:06:10
+contest id:919 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:919 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:14:46
+task id:366 用户:test 游戏:othello 进入编译队列
+task id:366 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:14:54
+contest id:920 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:920 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:21:07
+task id:367 用户:test 游戏:othello 进入编译队列
+task id:367 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:21:13
+contest id:921 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:921 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:32:48
+task id:368 用户:test 游戏:othello 进入编译队列
+task id:368 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:32:56
+contest id:922 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:922 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 17:37:08
+task id:369 用户:test 游戏:othello 进入编译队列
+task id:369 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 17:37:15
+contest id:923 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:923 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-10 17:43:49
+contest id:924 双方:test vs cheng2 游戏othello 进入比赛队列
+contest id:924 双方:test vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 18:03:19
+task id:370 用户:test 游戏:othello 进入编译队列
+task id:370 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 18:03:28
+contest id:925 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:925 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 18:09:40
+task id:371 用户:test 游戏:othello 进入编译队列
+task id:371 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 18:09:44
+contest id:926 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:926 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 20:40:48
+task id:372 用户:test 游戏:othello 进入编译队列
+task id:372 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 20:41:06
+contest id:927 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:927 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 20:43:39
+task id:373 用户:test 游戏:othello 进入编译队列
+task id:373 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 20:43:44
+contest id:928 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:928 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 20:48:19
+task id:374 用户:test 游戏:othello 进入编译队列
+task id:374 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 20:48:27
+contest id:929 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:929 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 20:52:29
+task id:375 用户:test 游戏:othello 进入编译队列
+task id:375 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 20:52:35
+contest id:930 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:930 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 21:30:51
+task id:376 用户:test 游戏:othello 进入编译队列
+task id:376 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 21:30:57
+contest id:931 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:931 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 21:33:52
+task id:377 用户:test 游戏:othello 进入编译队列
+task id:377 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 21:33:58
+contest id:932 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:932 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 21:43:12
+task id:378 用户:test 游戏:othello 进入编译队列
+task id:378 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 21:43:35
+contest id:933 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:933 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 21:50:32
+task id:379 用户:test 游戏:othello 进入编译队列
+task id:379 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 21:50:37
+contest id:934 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:934 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:01:03
+task id:380 用户:test 游戏:othello 进入编译队列
+task id:380 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:01:06
+contest id:935 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:935 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:04:43
+task id:381 用户:test 游戏:othello 进入编译队列
+task id:381 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:04:48
+contest id:936 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:936 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:27:15
+task id:382 用户:test 游戏:othello 进入编译队列
+task id:382 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:27:19
+contest id:937 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:937 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:35:35
+task id:383 用户:test 游戏:othello 进入编译队列
+task id:383 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:35:42
+contest id:938 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:938 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:47:26
+task id:384 用户:test 游戏:othello 进入编译队列
+task id:384 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:47:30
+contest id:939 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:939 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:52:16
+task id:385 用户:test 游戏:othello 进入编译队列
+task id:385 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:52:22
+contest id:940 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:940 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:55:46
+task id:386 用户:test 游戏:othello 进入编译队列
+task id:386 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:55:52
+contest id:941 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:941 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-10 22:57:27
+task id:387 用户:test 游戏:othello 进入编译队列
+task id:387 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-10 22:57:32
+contest id:942 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:942 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-11 11:19:59
+task id:388 用户:jerrytest 游戏:othello 进入编译队列
+task id:388 用户:jerrytest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-11 11:20:14
+contest id:943 双方:jerrytest vs mediumAi 游戏othello 进入比赛队列
+contest id:943 双方:jerrytest vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-11 11:21:09
+contest id:944 双方:jerrytest vs jerrytest2 游戏othello 进入比赛队列
+contest id:944 双方:jerrytest vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-11 11:26:19
+task id:389 用户:jerrytest 游戏:othello 进入编译队列
+task id:389 用户:jerrytest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-11 11:26:37
+contest id:945 双方:jerrytest vs jerrytest2 游戏othello 进入比赛队列
+contest id:945 双方:jerrytest vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-11 11:29:04
+contest id:946 双方:jerrytest vs strongAi 游戏othello 进入比赛队列
+contest id:946 双方:jerrytest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-11 11:29:09
+task id:390 用户:jerrytest 游戏:othello 进入编译队列
+task id:390 用户:jerrytest 游戏:othello 有比赛正在进行，暂时不被编译，进入队列末尾
+task id:390 用户:jerrytest 游戏:othello 有比赛正在进行，暂时不被编译，进入队列末尾
+task id:390 用户:jerrytest 游戏:othello 有比赛正在进行，暂时不被编译，进入队列末尾
+task id:390 用户:jerrytest 游戏:othello 有比赛正在进行，暂时不被编译，进入队列末尾
+task id:390 用户:jerrytest 游戏:othello 有比赛正在进行，暂时不被编译，进入队列末尾
+task id:390 用户:jerrytest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-11 11:32:30
+contest id:947 双方:jerrytest vs strongAi 游戏othello 进入比赛队列
+contest id:947 双方:jerrytest vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-11 11:33:40
+task id:391 用户:jerrytest 游戏:othello 进入编译队列
+task id:391 用户:jerrytest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-11 11:33:44
+contest id:948 双方:jerrytest vs test 游戏othello 进入比赛队列
+contest id:948 双方:jerrytest vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-11 21:06:47
+contest id:949 双方:test vs baird 游戏othello 进入比赛队列
+contest id:949 双方:test vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 10:02:43
+contest id:950 双方:kaikitest3 vs jerrytest2 游戏othello 进入比赛队列
+contest id:950 双方:kaikitest3 vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-12 17:30:48
+task id:392 用户:cxk1198 游戏:othello 进入编译队列
+task id:392 用户:cxk1198 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-12 17:32:08
+task id:393 用户:cxk1198 游戏:othello 进入编译队列
+task id:393 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-12 17:32:43
+contest id:951 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:951 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:35:02
+contest id:952 双方:cxk1198 vs abolo 游戏othello 进入比赛队列
+contest id:952 双方:cxk1198 vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:36:06
+contest id:953 双方:cxk1198 vs hongbing 游戏othello 进入比赛队列
+contest id:953 双方:cxk1198 vs hongbing 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:37:20
+contest id:954 双方:cxk1198 vs Evr 游戏othello 进入比赛队列
+contest id:954 双方:cxk1198 vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:38:25
+contest id:955 双方:cxk1198 vs yukio 游戏othello 进入比赛队列
+contest id:955 双方:cxk1198 vs yukio 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:39:25
+contest id:956 双方:cxk1198 vs nwangwen 游戏othello 进入比赛队列
+contest id:956 双方:cxk1198 vs nwangwen 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:40:01
+contest id:957 双方:cxk1198 vs haiwei623 游戏othello 进入比赛队列
+contest id:957 双方:cxk1198 vs haiwei623 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:40:49
+contest id:958 双方:cxk1198 vs skyline 游戏othello 进入比赛队列
+contest id:958 双方:cxk1198 vs skyline 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:41:25
+contest id:959 双方:cxk1198 vs ustcliao 游戏othello 进入比赛队列
+contest id:959 双方:cxk1198 vs ustcliao 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:41:55
+contest id:960 双方:cxk1198 vs dongnidamu 游戏othello 进入比赛队列
+contest id:960 双方:cxk1198 vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:43:28
+contest id:961 双方:cxk1198 vs xxxatt 游戏othello 进入比赛队列
+contest id:961 双方:cxk1198 vs xxxatt 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:44:14
+contest id:962 双方:cxk1198 vs ovid 游戏othello 进入比赛队列
+contest id:962 双方:cxk1198 vs ovid 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-12 17:44:56
+contest id:963 双方:cxk1198 vs chensimin 游戏othello 进入比赛队列
+contest id:963 双方:cxk1198 vs chensimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 12:52:09
+contest id:964 双方:cxk1198 vs anyyqds 游戏othello 进入比赛队列
+contest id:964 双方:cxk1198 vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 12:56:17
+contest id:965 双方:cxk1198 vs oceantears 游戏othello 进入比赛队列
+contest id:965 双方:cxk1198 vs oceantears 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 12:58:18
+contest id:966 双方:cxk1198 vs albucs 游戏othello 进入比赛队列
+contest id:966 双方:cxk1198 vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 12:59:27
+contest id:967 双方:cxk1198 vs test22 游戏othello 进入比赛队列
+contest id:967 双方:cxk1198 vs test22 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 13:01:01
+contest id:968 双方:cxk1198 vs test11 游戏othello 进入比赛队列
+contest id:968 双方:cxk1198 vs test11 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 13:02:33
+contest id:969 双方:baird vs Evr 游戏othello 进入比赛队列
+contest id:969 双方:baird vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-13 13:09:16
+contest id:970 双方:baird vs kaikitest2 游戏othello 进入比赛队列
+contest id:970 双方:baird vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 12:10:29
+contest id:971 双方:abolo vs xxxatt 游戏othello 进入比赛队列
+contest id:971 双方:abolo vs xxxatt 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 12:40:00
+task id:394 用户:abolo 游戏:othello 进入编译队列
+task id:394 用户:abolo 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-16 12:40:20
+task id:395 用户:abolo 游戏:othello 进入编译队列
+task id:395 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 12:40:35
+contest id:972 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:972 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 13:05:12
+task id:396 用户:abolo 游戏:othello 进入编译队列
+task id:396 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 13:05:24
+contest id:973 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:973 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 13:16:43
+task id:397 用户:abolo 游戏:othello 进入编译队列
+task id:397 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 13:16:50
+contest id:974 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:974 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:18:00
+contest id:975 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:975 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 13:26:34
+task id:398 用户:abolo 游戏:othello 进入编译队列
+task id:398 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 13:26:42
+contest id:976 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:976 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:27:51
+contest id:977 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:977 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:29:27
+contest id:978 双方:abolo vs xxxatt 游戏othello 进入比赛队列
+contest id:978 双方:abolo vs xxxatt 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 13:33:04
+task id:399 用户:abolo 游戏:othello 进入编译队列
+task id:399 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 13:33:13
+contest id:979 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:979 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:33:44
+contest id:980 双方:abolo vs albucs 游戏othello 进入比赛队列
+contest id:980 双方:abolo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:34:16
+contest id:981 双方:abolo vs jerrytest2 游戏othello 进入比赛队列
+contest id:981 双方:abolo vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:35:52
+contest id:982 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:982 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 13:43:25
+task id:400 用户:abolo 游戏:othello 进入编译队列
+task id:400 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 13:43:30
+contest id:983 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:983 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:44:17
+contest id:984 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:984 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:45:00
+contest id:985 双方:abolo vs jerrytest 游戏othello 进入比赛队列
+contest id:985 双方:abolo vs jerrytest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 13:47:40
+contest id:986 双方:abolo vs albucs 游戏othello 进入比赛队列
+contest id:986 双方:abolo vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 13:55:46
+task id:401 用户:ZHUI 游戏:othello 进入编译队列
+task id:401 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 13:56:01
+contest id:987 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:987 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 14:06:17
+task id:402 用户:abolo 游戏:othello 进入编译队列
+task id:402 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 14:06:27
+contest id:988 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:988 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 14:07:15
+contest id:989 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:989 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 14:28:18
+task id:403 用户:abolo 游戏:othello 进入编译队列
+task id:403 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 14:28:25
+contest id:990 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:990 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 14:29:04
+contest id:991 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:991 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 14:32:19
+task id:404 用户:abolo 游戏:othello 进入编译队列
+task id:404 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 14:32:25
+contest id:992 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:992 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 14:40:19
+task id:405 用户:abolo 游戏:othello 进入编译队列
+task id:405 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 14:40:25
+contest id:993 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:993 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 14:48:20
+task id:406 用户:abolo 游戏:othello 进入编译队列
+task id:406 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 14:48:26
+contest id:994 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:994 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 14:54:41
+task id:407 用户:abolo 游戏:othello 进入编译队列
+task id:407 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 14:55:15
+contest id:995 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:995 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 14:57:45
+contest id:996 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:996 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:01:41
+task id:408 用户:abolo 游戏:othello 进入编译队列
+task id:408 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:01:44
+contest id:997 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:997 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:06:32
+task id:409 用户:abolo 游戏:othello 进入编译队列
+task id:409 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:06:38
+contest id:998 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:998 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:09:25
+contest id:999 双方:abolo vs haiwei624 游戏othello 进入比赛队列
+contest id:999 双方:abolo vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:09:57
+contest id:1000 双方:abolo vs kaikitest2 游戏othello 进入比赛队列
+contest id:1000 双方:abolo vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:10:29
+contest id:1001 双方:abolo vs kaiki 游戏othello 进入比赛队列
+contest id:1001 双方:abolo vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:11:02
+contest id:1002 双方:abolo vs cheng2 游戏othello 进入比赛队列
+contest id:1002 双方:abolo vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:19:43
+task id:410 用户:abolo 游戏:othello 进入编译队列
+task id:410 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:19:49
+contest id:1003 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1003 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:41:14
+task id:411 用户:abolo 游戏:othello 进入编译队列
+task id:411 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:41:30
+contest id:1004 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:1004 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:43:14
+task id:412 用户:abolo 游戏:othello 进入编译队列
+task id:412 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:43:27
+contest id:1005 双方:abolo vs mediumAi 游戏othello 进入比赛队列
+contest id:1005 双方:abolo vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:44:07
+contest id:1006 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1006 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:49:15
+task id:413 用户:abolo 游戏:othello 进入编译队列
+task id:413 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:49:37
+contest id:1007 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1007 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:51:05
+contest id:1008 双方:abolo vs test 游戏othello 进入比赛队列
+contest id:1008 双方:abolo vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 15:52:02
+contest id:1009 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:1009 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 15:55:15
+task id:414 用户:abolo 游戏:othello 进入编译队列
+task id:414 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 15:55:39
+contest id:1010 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1010 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 16:29:06
+contest id:1011 双方:jerrytest2 vs cheng2 游戏othello 进入比赛队列
+contest id:1011 双方:jerrytest2 vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-16 16:42:59
+task id:415 用户:ZHUI 游戏:othello 进入编译队列
+task id:415 用户:ZHUI 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-16 22:11:24
+task id:416 用户:ZHUI 游戏:othello 进入编译队列
+task id:416 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-16 22:11:39
+contest id:1012 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1012 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 22:20:04
+contest id:1013 双方:ZHUI vs jerrytest2 游戏othello 进入比赛队列
+contest id:1013 双方:ZHUI vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 22:28:17
+contest id:1014 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1014 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 23:17:10
+contest id:1015 双方:ZHUI vs simpleAI 游戏othello 进入比赛队列
+contest id:1015 双方:ZHUI vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-16 23:19:39
+contest id:1016 双方:ZHUI vs test 游戏othello 进入比赛队列
+contest id:1016 双方:ZHUI vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 18:18:41
+task id:417 用户:abolo 游戏:othello 进入编译队列
+task id:417 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 18:18:54
+contest id:1017 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1017 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 18:24:02
+task id:418 用户:abolo 游戏:othello 进入编译队列
+task id:418 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 18:24:08
+contest id:1018 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1018 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:26:04
+contest id:1019 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:1019 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 18:38:43
+task id:419 用户:abolo 游戏:othello 进入编译队列
+task id:419 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 18:38:54
+contest id:1020 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:1020 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:39:28
+contest id:1021 双方:abolo vs strongAi 游戏othello 进入比赛队列
+contest id:1021 双方:abolo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:41:28
+contest id:1022 双方:abolo vs test 游戏othello 进入比赛队列
+contest id:1022 双方:abolo vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 18:44:43
+task id:420 用户:ZHUI 游戏:othello 进入编译队列
+task id:420 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 18:44:54
+contest id:1023 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1023 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:45:49
+contest id:1024 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1024 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:47:10
+contest id:1025 双方:ZHUI vs test 游戏othello 进入比赛队列
+contest id:1025 双方:ZHUI vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:48:18
+contest id:1026 双方:ZHUI vs cheng2 游戏othello 进入比赛队列
+contest id:1026 双方:ZHUI vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 18:55:34
+task id:421 用户:abolo 游戏:othello 进入编译队列
+task id:421 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 18:56:08
+contest id:1027 双方:abolo vs simpleAI 游戏othello 进入比赛队列
+contest id:1027 双方:abolo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 18:56:39
+contest id:1028 双方:abolo vs ZHUI 游戏othello 进入比赛队列
+contest id:1028 双方:abolo vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 18:58:25
+task id:422 用户:abolo 游戏:othello 进入编译队列
+task id:422 用户:abolo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 18:58:29
+contest id:1029 双方:abolo vs ZHUI 游戏othello 进入比赛队列
+contest id:1029 双方:abolo vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 19:16:30
+contest id:1030 双方:ZHUI vs baird 游戏othello 进入比赛队列
+contest id:1030 双方:ZHUI vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 19:30:27
+contest id:1031 双方:ZHUI vs liyishuai 游戏othello 进入比赛队列
+contest id:1031 双方:ZHUI vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 19:31:05
+contest id:1032 双方:ZHUI vs hongbing 游戏othello 进入比赛队列
+contest id:1032 双方:ZHUI vs hongbing 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 19:31:34
+contest id:1033 双方:ZHUI vs test11 游戏othello 进入比赛队列
+contest id:1033 双方:ZHUI vs test11 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 19:32:31
+contest id:1034 双方:ZHUI vs simpleAI 游戏othello 进入比赛队列
+contest id:1034 双方:ZHUI vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 19:33:48
+contest id:1035 双方:ZHUI vs dane 游戏othello 进入比赛队列
+contest id:1035 双方:ZHUI vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 20:06:59
+contest id:1036 双方:ZHUI vs kaiki 游戏othello 进入比赛队列
+contest id:1036 双方:ZHUI vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 20:07:41
+contest id:1037 双方:ZHUI vs LerenceRay 游戏othello 进入比赛队列
+contest id:1037 双方:ZHUI vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 20:08:23
+contest id:1038 双方:ZHUI vs kaikitest2 游戏othello 进入比赛队列
+contest id:1038 双方:ZHUI vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 20:08:53
+contest id:1039 双方:ZHUI vs haiwei624 游戏othello 进入比赛队列
+contest id:1039 双方:ZHUI vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 20:09:32
+contest id:1040 双方:ZHUI vs jerrytest 游戏othello 进入比赛队列
+contest id:1040 双方:ZHUI vs jerrytest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 20:19:57
+contest id:1041 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1041 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-17 22:03:19
+task id:423 用户:ZHUI 游戏:othello 进入编译队列
+task id:423 用户:ZHUI 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-17 23:35:46
+task id:424 用户:ZHUI 游戏:othello 进入编译队列
+task id:424 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-17 23:35:57
+contest id:1042 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1042 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 23:53:07
+contest id:1043 双方:LerenceRay vs abolo 游戏othello 进入比赛队列
+contest id:1043 双方:LerenceRay vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-17 23:54:15
+contest id:1044 双方:LerenceRay vs ZHUI 游戏othello 进入比赛队列
+contest id:1044 双方:LerenceRay vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 08:45:04
+task id:425 用户:halloween 游戏:othello 进入编译队列
+task id:425 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 08:45:45
+contest id:1045 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1045 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 08:47:19
+contest id:1046 双方:halloween vs simpleAI 游戏othello 进入比赛队列
+contest id:1046 双方:halloween vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 08:49:25
+contest id:1047 双方:ZHUI vs LerenceRay 游戏othello 进入比赛队列
+contest id:1047 双方:ZHUI vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 08:50:49
+contest id:1048 双方:ZHUI vs mediumAi 游戏othello 进入比赛队列
+contest id:1048 双方:ZHUI vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 08:57:15
+task id:426 用户:halloween 游戏:othello 进入编译队列
+task id:426 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 08:58:14
+contest id:1049 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1049 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 08:59:15
+task id:427 用户:halloween 游戏:othello 进入编译队列
+task id:427 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 08:59:21
+contest id:1050 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1050 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 09:04:35
+task id:428 用户:halloween 游戏:othello 进入编译队列
+task id:428 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 09:04:43
+contest id:1051 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1051 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 09:06:55
+task id:429 用户:halloween 游戏:othello 进入编译队列
+task id:429 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-18 09:07:56
+task id:430 用户:halloween 游戏:othello 进入编译队列
+task id:430 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 09:08:28
+contest id:1052 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1052 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 09:10:46
+task id:431 用户:halloween 游戏:othello 进入编译队列
+task id:431 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 09:10:50
+contest id:1053 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1053 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 09:13:56
+task id:432 用户:halloween 游戏:othello 进入编译队列
+task id:432 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 09:14:09
+contest id:1054 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1054 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 09:25:17
+task id:433 用户:halloween 游戏:othello 进入编译队列
+task id:433 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 09:25:22
+contest id:1055 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1055 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 09:26:35
+contest id:1056 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1056 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 09:27:36
+contest id:1057 双方:halloween vs strongAi 游戏othello 进入比赛队列
+contest id:1057 双方:halloween vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 09:29:00
+contest id:1058 双方:halloween vs LerenceRay 游戏othello 进入比赛队列
+contest id:1058 双方:halloween vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 09:33:54
+contest id:1059 双方:ZHUI vs albucs 游戏othello 进入比赛队列
+contest id:1059 双方:ZHUI vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 09:34:39
+contest id:1060 双方:ZHUI vs halloween 游戏othello 进入比赛队列
+contest id:1060 双方:ZHUI vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 09:35:42
+contest id:1061 双方:ZHUI vs anyyqds 游戏othello 进入比赛队列
+contest id:1061 双方:ZHUI vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 10:14:17
+contest id:1062 双方:jerrytest2 vs ZHUI 游戏othello 进入比赛队列
+contest id:1062 双方:jerrytest2 vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 10:20:27
+contest id:1063 双方:jerrytest2 vs test 游戏othello 进入比赛队列
+contest id:1063 双方:jerrytest2 vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 10:22:10
+task id:434 用户:jerrytest2 游戏:othello 进入编译队列
+task id:434 用户:jerrytest2 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 10:22:21
+contest id:1064 双方:jerrytest2 vs strongAi 游戏othello 进入比赛队列
+contest id:1064 双方:jerrytest2 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 10:52:51
+contest id:1065 双方:test vs ZHUI 游戏othello 进入比赛队列
+contest id:1065 双方:test vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 11:20:14
+task id:435 用户:halloween 游戏:othello 进入编译队列
+task id:435 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-18 11:23:15
+task id:436 用户:halloween 游戏:othello 进入编译队列
+task id:436 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 11:23:21
+contest id:1066 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1066 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 11:30:35
+task id:437 用户:smooth 游戏:othello 进入编译队列
+task id:437 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 11:30:45
+contest id:1067 双方:smooth vs ZHUI 游戏othello 进入比赛队列
+contest id:1067 双方:smooth vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 11:33:22
+contest id:1068 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1068 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 11:35:55
+task id:438 用户:smooth 游戏:othello 进入编译队列
+task id:438 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 11:36:05
+contest id:1069 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1069 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 11:43:56
+task id:439 用户:halloween 游戏:othello 进入编译队列
+task id:439 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 11:44:03
+contest id:1070 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1070 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 11:49:36
+task id:440 用户:halloween 游戏:othello 进入编译队列
+task id:440 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 11:49:45
+contest id:1071 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1071 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 11:58:37
+task id:441 用户:halloween 游戏:othello 进入编译队列
+task id:441 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 11:58:42
+contest id:1072 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1072 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:16:38
+task id:442 用户:halloween 游戏:othello 进入编译队列
+task id:442 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:16:44
+contest id:1073 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1073 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:17:58
+task id:443 用户:halloween 游戏:othello 进入编译队列
+task id:443 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:18:04
+contest id:1074 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1074 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:23:48
+task id:444 用户:halloween 游戏:othello 进入编译队列
+task id:444 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:23:52
+contest id:1075 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1075 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:27:59
+task id:445 用户:halloween 游戏:othello 进入编译队列
+task id:445 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:28:03
+contest id:1076 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1076 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:28:39
+task id:446 用户:halloween 游戏:othello 进入编译队列
+task id:446 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:28:47
+contest id:1077 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1077 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:39:29
+task id:447 用户:halloween 游戏:othello 进入编译队列
+task id:447 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:39:33
+contest id:1078 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1078 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 12:44:40
+task id:448 用户:halloween 游戏:othello 进入编译队列
+task id:448 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-18 12:44:50
+task id:449 用户:halloween 游戏:othello 进入编译队列
+task id:449 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 12:44:55
+contest id:1079 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1079 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 12:47:48
+contest id:1080 双方:smooth vs jerrytest2 游戏othello 进入比赛队列
+contest id:1080 双方:smooth vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 13:05:31
+task id:450 用户:smooth 游戏:othello 进入编译队列
+task id:450 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 13:05:37
+contest id:1081 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1081 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 13:26:23
+task id:451 用户:smooth 游戏:othello 进入编译队列
+task id:451 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 13:26:30
+contest id:1082 双方:smooth vs halloween 游戏othello 进入比赛队列
+contest id:1082 双方:smooth vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 13:27:48
+contest id:1083 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1083 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 13:29:43
+contest id:1084 双方:smooth vs strongAi 游戏othello 进入比赛队列
+contest id:1084 双方:smooth vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 13:31:55
+contest id:1085 双方:smooth vs jerrytest2 游戏othello 进入比赛队列
+contest id:1085 双方:smooth vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 13:34:37
+contest id:1086 双方:smooth vs ZHUI 游戏othello 进入比赛队列
+contest id:1086 双方:smooth vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 14:20:36
+task id:452 用户:smooth 游戏:othello 进入编译队列
+task id:452 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 14:20:45
+contest id:1087 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1087 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:22:29
+contest id:1088 双方:smooth vs ZHUI 游戏othello 进入比赛队列
+contest id:1088 双方:smooth vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:23:29
+contest id:1089 双方:smooth vs halloween 游戏othello 进入比赛队列
+contest id:1089 双方:smooth vs halloween 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 14:35:37
+task id:453 用户:smooth 游戏:othello 进入编译队列
+task id:453 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 14:35:43
+contest id:1090 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1090 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 14:36:37
+task id:454 用户:smooth 游戏:othello 进入编译队列
+task id:454 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 14:36:43
+contest id:1091 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1091 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:37:40
+contest id:1092 双方:smooth vs strongAi 游戏othello 进入比赛队列
+contest id:1092 双方:smooth vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:39:31
+contest id:1093 双方:smooth vs jerrytest2 游戏othello 进入比赛队列
+contest id:1093 双方:smooth vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:40:18
+contest id:1094 双方:smooth vs jerrytest 游戏othello 进入比赛队列
+contest id:1094 双方:smooth vs jerrytest 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 14:44:48
+task id:455 用户:smooth 游戏:othello 进入编译队列
+task id:455 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 14:44:57
+contest id:1095 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1095 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:45:36
+contest id:1096 双方:smooth vs jerrytest 游戏othello 进入比赛队列
+contest id:1096 双方:smooth vs jerrytest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:48:09
+contest id:1097 双方:smooth vs ZHUI 游戏othello 进入比赛队列
+contest id:1097 双方:smooth vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:53:10
+contest id:1098 双方:smooth vs halloween 游戏othello 进入比赛队列
+contest id:1098 双方:smooth vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 14:54:22
+contest id:1099 双方:smooth vs LerenceRay 游戏othello 进入比赛队列
+contest id:1099 双方:smooth vs LerenceRay 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 15:36:02
+task id:456 用户:halloween 游戏:othello 进入编译队列
+task id:456 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-18 15:38:42
+task id:457 用户:halloween 游戏:othello 进入编译队列
+task id:457 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 15:38:45
+contest id:1100 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1100 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 15:41:57
+contest id:1101 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1101 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 15:47:33
+task id:458 用户:halloween 游戏:othello 进入编译队列
+task id:458 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-18 15:49:13
+task id:459 用户:halloween 游戏:othello 进入编译队列
+task id:459 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 15:49:18
+contest id:1102 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1102 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 15:49:57
+contest id:1103 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1103 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 15:51:03
+contest id:1104 双方:halloween vs kaiki 游戏othello 进入比赛队列
+contest id:1104 双方:halloween vs kaiki 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 15:54:43
+task id:460 用户:halloween 游戏:othello 进入编译队列
+task id:460 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 15:54:54
+contest id:1105 双方:halloween vs kaiki 游戏othello 进入比赛队列
+contest id:1105 双方:halloween vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 15:55:54
+contest id:1106 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1106 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 15:59:02
+contest id:1107 双方:halloween vs LerenceRay 游戏othello 进入比赛队列
+contest id:1107 双方:halloween vs LerenceRay 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-18 16:02:44
+task id:461 用户:halloween 游戏:othello 进入编译队列
+task id:461 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-18 16:02:54
+contest id:1108 双方:halloween vs abolo 游戏othello 进入比赛队列
+contest id:1108 双方:halloween vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 16:03:37
+contest id:1109 双方:halloween vs simpleAI 游戏othello 进入比赛队列
+contest id:1109 双方:halloween vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 16:04:09
+contest id:1110 双方:halloween vs mediumAi 游戏othello 进入比赛队列
+contest id:1110 双方:halloween vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 16:04:59
+contest id:1111 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1111 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-18 16:06:21
+contest id:1112 双方:halloween vs LerenceRay 游戏othello 进入比赛队列
+contest id:1112 双方:halloween vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-19 14:32:35
+contest id:1113 双方:test vs LerenceRay 游戏othello 进入比赛队列
+contest id:1113 双方:test vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-19 14:33:27
+contest id:1114 双方:test vs halloween 游戏othello 进入比赛队列
+contest id:1114 双方:test vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-19 21:31:24
+contest id:1115 双方:dane vs jerrytest2 游戏othello 进入比赛队列
+contest id:1115 双方:dane vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-20 21:41:14
+task id:462 用户:cxk1198 游戏:othello 进入编译队列
+task id:462 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-20 21:42:56
+contest id:1116 双方:cxk1198 vs albucs 游戏othello 进入比赛队列
+contest id:1116 双方:cxk1198 vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 21:47:10
+contest id:1117 双方:cxk1198 vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:1117 双方:cxk1198 vs zhuxuezhi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-20 22:44:17
+task id:463 用户:cxk1198 游戏:othello 进入编译队列
+task id:463 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-20 22:44:38
+contest id:1118 双方:cxk1198 vs albucs 游戏othello 进入比赛队列
+contest id:1118 双方:cxk1198 vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 22:45:32
+contest id:1119 双方:cxk1198 vs kaiki1 游戏othello 进入比赛队列
+contest id:1119 双方:cxk1198 vs kaiki1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 22:46:13
+contest id:1120 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:1120 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 22:46:58
+contest id:1121 双方:cxk1198 vs mediumAi 游戏othello 进入比赛队列
+contest id:1121 双方:cxk1198 vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-20 22:48:48
+task id:464 用户:cxk1198 游戏:othello 进入编译队列
+task id:464 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-20 22:48:59
+contest id:1122 双方:cxk1198 vs strongAi 游戏othello 进入比赛队列
+contest id:1122 双方:cxk1198 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 22:50:34
+contest id:1123 双方:cxk1198 vs boron 游戏othello 进入比赛队列
+contest id:1123 双方:cxk1198 vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 22:53:10
+contest id:1124 双方:cxk1198 vs jerrytest2 游戏othello 进入比赛队列
+contest id:1124 双方:cxk1198 vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 23:03:36
+contest id:1125 双方:ZHUI vs halloween 游戏othello 进入比赛队列
+contest id:1125 双方:ZHUI vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 23:07:21
+contest id:1126 双方:cxk1198 vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:1126 双方:cxk1198 vs zhuxuezhi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 23:21:36
+contest id:1127 双方:ZHUI vs jerrytest2 游戏othello 进入比赛队列
+contest id:1127 双方:ZHUI vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-20 23:24:00
+contest id:1128 双方:ZHUI vs cxk1198 游戏othello 进入比赛队列
+contest id:1128 双方:ZHUI vs cxk1198 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-21 10:04:10
+task id:465 用户:dane 游戏:othello 进入编译队列
+task id:465 用户:dane 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-21 10:04:23
+contest id:1129 双方:dane vs jerrytest2 游戏othello 进入比赛队列
+contest id:1129 双方:dane vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-21 15:02:07
+contest id:1130 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1130 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-21 18:45:16
+contest id:1131 双方:cxk1198 vs ZHUI 游戏othello 进入比赛队列
+contest id:1131 双方:cxk1198 vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-21 23:34:59
+contest id:1132 双方:halloween vs cxk1198 游戏othello 进入比赛队列
+contest id:1132 双方:halloween vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-21 23:36:16
+contest id:1133 双方:halloween vs dane 游戏othello 进入比赛队列
+contest id:1133 双方:halloween vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 15:28:03
+contest id:1134 双方:dane vs halloween 游戏othello 进入比赛队列
+contest id:1134 双方:dane vs halloween 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-22 15:35:44
+task id:466 用户:kaikitest3 游戏:othello 进入编译队列
+task id:466 用户:kaikitest3 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-22 15:35:52
+contest id:1135 双方:kaikitest3 vs jerrytest2 游戏othello 进入比赛队列
+contest id:1135 双方:kaikitest3 vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 15:37:26
+contest id:1136 双方:kaikitest3 vs strongAi 游戏othello 进入比赛队列
+contest id:1136 双方:kaikitest3 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 15:39:17
+contest id:1137 双方:kaikitest3 vs dane 游戏othello 进入比赛队列
+contest id:1137 双方:kaikitest3 vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 17:39:03
+contest id:1138 双方:baird vs smooth 游戏othello 进入比赛队列
+contest id:1138 双方:baird vs smooth 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-22 18:37:34
+task id:467 用户:ustczz 游戏:othello 进入编译队列
+task id:467 用户:ustczz 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-22 18:39:04
+task id:468 用户:ustczz 游戏:othello 进入编译队列
+task id:468 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-22 18:39:15
+contest id:1139 双方:ustczz vs abolo 游戏othello 进入比赛队列
+contest id:1139 双方:ustczz vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:40:45
+contest id:1140 双方:ustczz vs simpleAI 游戏othello 进入比赛队列
+contest id:1140 双方:ustczz vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-22 18:42:44
+task id:469 用户:ustczz 游戏:othello 进入编译队列
+task id:469 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-22 18:42:56
+contest id:1141 双方:ustczz vs simpleAI 游戏othello 进入比赛队列
+contest id:1141 双方:ustczz vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:43:29
+contest id:1142 双方:ustczz vs abolo 游戏othello 进入比赛队列
+contest id:1142 双方:ustczz vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:48:48
+contest id:1143 双方:ustczz vs albucs 游戏othello 进入比赛队列
+contest id:1143 双方:ustczz vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:55:13
+contest id:1144 双方:ustczz vs anyyqds 游戏othello 进入比赛队列
+contest id:1144 双方:ustczz vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:57:24
+contest id:1145 双方:ustczz vs az1379112 游戏othello 进入比赛队列
+contest id:1145 双方:ustczz vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:58:46
+contest id:1146 双方:ustczz vs azy1379112 游戏othello 进入比赛队列
+contest id:1146 双方:ustczz vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 18:59:21
+contest id:1147 双方:ustczz vs baird 游戏othello 进入比赛队列
+contest id:1147 双方:ustczz vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 19:00:24
+contest id:1148 双方:ustczz vs strongAi 游戏othello 进入比赛队列
+contest id:1148 双方:ustczz vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 19:01:55
+contest id:1149 双方:ustczz vs mediumAi 游戏othello 进入比赛队列
+contest id:1149 双方:ustczz vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 19:02:09
+contest id:1150 双方:halloween vs kaikitest3 游戏othello 进入比赛队列
+contest id:1150 双方:halloween vs kaikitest3 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-22 19:11:16
+task id:470 用户:ustczz 游戏:othello 进入编译队列
+task id:470 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-22 19:11:27
+contest id:1151 双方:ustczz vs simpleAI 游戏othello 进入比赛队列
+contest id:1151 双方:ustczz vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 19:47:37
+contest id:1152 双方:ustczz vs strongAi 游戏othello 进入比赛队列
+contest id:1152 双方:ustczz vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 19:49:19
+contest id:1153 双方:ustczz vs abolo 游戏othello 进入比赛队列
+contest id:1153 双方:ustczz vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 19:59:00
+contest id:1154 双方:ustczz vs albucs 游戏othello 进入比赛队列
+contest id:1154 双方:ustczz vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 20:00:26
+contest id:1155 双方:ustczz vs anyyqds 游戏othello 进入比赛队列
+contest id:1155 双方:ustczz vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 20:23:00
+contest id:1156 双方:ustczz vs az1379112 游戏othello 进入比赛队列
+contest id:1156 双方:ustczz vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-22 23:40:38
+contest id:1157 双方:test vs cxk1198 游戏othello 进入比赛队列
+contest id:1157 双方:test vs cxk1198 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 11:34:28
+task id:471 用户:APOLLO 游戏:othello 进入编译队列
+task id:471 用户:APOLLO 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 11:34:59
+contest id:1158 双方:APOLLO vs simpleAI 游戏othello 进入比赛队列
+contest id:1158 双方:APOLLO vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 11:54:20
+task id:472 用户:APOLLO 游戏:othello 进入编译队列
+task id:472 用户:APOLLO 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 11:54:46
+contest id:1159 双方:APOLLO vs mediumAi 游戏othello 进入比赛队列
+contest id:1159 双方:APOLLO vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 11:55:41
+contest id:1160 双方:APOLLO vs anyyqds 游戏othello 进入比赛队列
+contest id:1160 双方:APOLLO vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 11:57:11
+contest id:1161 双方:APOLLO vs cxk1198 游戏othello 进入比赛队列
+contest id:1161 双方:APOLLO vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 11:58:20
+contest id:1162 双方:APOLLO vs abolo 游戏othello 进入比赛队列
+contest id:1162 双方:APOLLO vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 11:59:08
+contest id:1163 双方:APOLLO vs ZHUI 游戏othello 进入比赛队列
+contest id:1163 双方:APOLLO vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 16:31:55
+task id:473 用户:sagitrs 游戏:othello 进入编译队列
+task id:473 用户:sagitrs 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-24 16:32:15
+task id:474 用户:sagitrs 游戏:othello 进入编译队列
+task id:474 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 16:33:03
+contest id:1164 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1164 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 16:34:06
+task id:475 用户:ZHUI 游戏:othello 进入编译队列
+task id:475 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 16:34:12
+contest id:1165 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1165 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:34:20
+contest id:1166 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1166 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 16:46:06
+task id:476 用户:sagitrs 游戏:othello 进入编译队列
+task id:476 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 16:46:22
+contest id:1167 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1167 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 16:46:36
+task id:477 用户:ZHUI 游戏:othello 进入编译队列
+task id:477 用户:ZHUI 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-24 16:47:16
+task id:478 用户:ZHUI 游戏:othello 进入编译队列
+task id:478 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 16:47:41
+contest id:1168 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1168 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:47:46
+contest id:1169 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1169 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:48:30
+contest id:1170 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1170 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 16:48:57
+task id:479 用户:sagitrs 游戏:othello 进入编译队列
+task id:479 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 16:49:14
+contest id:1171 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1171 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:51:16
+contest id:1172 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1172 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:52:08
+contest id:1173 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1173 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:52:42
+contest id:1174 双方:sagitrs vs halloween 游戏othello 进入比赛队列
+contest id:1174 双方:sagitrs vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:55:33
+contest id:1175 双方:sagitrs vs anyyqds 游戏othello 进入比赛队列
+contest id:1175 双方:sagitrs vs anyyqds 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 16:55:37
+task id:480 用户:ZHUI 游戏:othello 进入编译队列
+task id:480 用户:ZHUI 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-24 16:56:27
+task id:481 用户:ZHUI 游戏:othello 进入编译队列
+task id:481 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 16:58:29
+contest id:1176 双方:ZHUI vs halloween 游戏othello 进入比赛队列
+contest id:1176 双方:ZHUI vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:59:00
+contest id:1177 双方:sagitrs vs APOLLO 游戏othello 进入比赛队列
+contest id:1177 双方:sagitrs vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 16:59:38
+contest id:1178 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1178 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:04:32
+contest id:1179 双方:ZHUI vs dane 游戏othello 进入比赛队列
+contest id:1179 双方:ZHUI vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:06:03
+contest id:1180 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1180 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:07:01
+contest id:1181 双方:ZHUI vs jerrytest2 游戏othello 进入比赛队列
+contest id:1181 双方:ZHUI vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 17:11:18
+task id:482 用户:ZHUI 游戏:othello 进入编译队列
+task id:482 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 17:11:28
+contest id:1182 双方:ZHUI vs jerrytest2 游戏othello 进入比赛队列
+contest id:1182 双方:ZHUI vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:12:38
+contest id:1183 双方:ZHUI vs dane 游戏othello 进入比赛队列
+contest id:1183 双方:ZHUI vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:13:57
+contest id:1184 双方:ZHUI vs kaikitest3 游戏othello 进入比赛队列
+contest id:1184 双方:ZHUI vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:13:59
+contest id:1185 双方:sagitrs vs az1379112 游戏othello 进入比赛队列
+contest id:1185 双方:sagitrs vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:14:43
+contest id:1186 双方:ZHUI vs APOLLO 游戏othello 进入比赛队列
+contest id:1186 双方:ZHUI vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 17:17:28
+task id:483 用户:sagitrs 游戏:othello 进入编译队列
+task id:483 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 17:17:38
+contest id:1187 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1187 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:19:01
+contest id:1188 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1188 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:20:31
+contest id:1189 双方:sagitrs vs kaikitest3 游戏othello 进入比赛队列
+contest id:1189 双方:sagitrs vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:27:05
+contest id:1190 双方:cxk1198 vs az1379112 游戏othello 进入比赛队列
+contest id:1190 双方:cxk1198 vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:27:55
+contest id:1191 双方:cxk1198 vs halloween 游戏othello 进入比赛队列
+contest id:1191 双方:cxk1198 vs halloween 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 17:27:59
+task id:484 用户:sagitrs 游戏:othello 进入编译队列
+task id:484 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 17:28:10
+contest id:1192 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1192 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:28:27
+contest id:1193 双方:cxk1198 vs dane 游戏othello 进入比赛队列
+contest id:1193 双方:cxk1198 vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:29:00
+contest id:1194 双方:cxk1198 vs APOLLO 游戏othello 进入比赛队列
+contest id:1194 双方:cxk1198 vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:30:08
+contest id:1195 双方:sagitrs vs APOLLO 游戏othello 进入比赛队列
+contest id:1195 双方:sagitrs vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:41:10
+contest id:1196 双方:sagitrs vs cxk1198 游戏othello 进入比赛队列
+contest id:1196 双方:sagitrs vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 17:58:11
+contest id:1197 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1197 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 17:59:01
+task id:485 用户:sagitrs 游戏:othello 进入编译队列
+task id:485 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 17:59:18
+contest id:1198 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1198 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:00:44
+contest id:1199 双方:sagitrs vs cxk1198 游戏othello 进入比赛队列
+contest id:1199 双方:sagitrs vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:04:03
+contest id:1200 双方:sagitrs vs strongAi 游戏othello 进入比赛队列
+contest id:1200 双方:sagitrs vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 18:05:21
+task id:486 用户:ZHUI 游戏:othello 进入编译队列
+task id:486 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 18:05:32
+contest id:1201 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1201 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:05:33
+contest id:1202 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1202 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:06:21
+contest id:1203 双方:sagitrs vs kaikitest3 游戏othello 进入比赛队列
+contest id:1203 双方:sagitrs vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:07:27
+contest id:1204 双方:sagitrs vs simpleAI 游戏othello 进入比赛队列
+contest id:1204 双方:sagitrs vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 18:08:01
+task id:487 用户:ZHUI 游戏:othello 进入编译队列
+task id:487 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 18:08:09
+contest id:1205 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1206 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1205 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+contest id:1206 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:10:57
+contest id:1207 双方:sagitrs vs APOLLO 游戏othello 进入比赛队列
+contest id:1207 双方:sagitrs vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:11:10
+contest id:1208 双方:ZHUI vs kaikitest3 游戏othello 进入比赛队列
+contest id:1208 双方:ZHUI vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:11:45
+contest id:1209 双方:ZHUI vs APOLLO 游戏othello 进入比赛队列
+contest id:1209 双方:ZHUI vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:12:04
+contest id:1210 双方:sagitrs vs jerrytest2 游戏othello 进入比赛队列
+contest id:1210 双方:sagitrs vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:12:28
+contest id:1211 双方:ZHUI vs cxk1198 游戏othello 进入比赛队列
+contest id:1211 双方:ZHUI vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:13:04
+contest id:1212 双方:ZHUI vs jerrytest2 游戏othello 进入比赛队列
+contest id:1212 双方:ZHUI vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:13:40
+contest id:1213 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1213 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:13:59
+contest id:1214 双方:sagitrs vs dane 游戏othello 进入比赛队列
+contest id:1214 双方:sagitrs vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:14:10
+contest id:1215 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1215 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:14:52
+contest id:1216 双方:ZHUI vs albucs 游戏othello 进入比赛队列
+contest id:1216 双方:ZHUI vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:16:53
+contest id:1217 双方:ZHUI vs anyyqds 游戏othello 进入比赛队列
+contest id:1217 双方:ZHUI vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:18:20
+contest id:1218 双方:ZHUI vs az1379112 游戏othello 进入比赛队列
+contest id:1218 双方:ZHUI vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:18:57
+contest id:1219 双方:ZHUI vs azy1379112 游戏othello 进入比赛队列
+contest id:1219 双方:ZHUI vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:22:41
+contest id:1220 双方:ZHUI vs baird 游戏othello 进入比赛队列
+contest id:1220 双方:ZHUI vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:22:51
+contest id:1221 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1221 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:23:22
+contest id:1222 双方:sagitrs vs halloween 游戏othello 进入比赛队列
+contest id:1222 双方:sagitrs vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:23:32
+contest id:1223 双方:ZHUI vs halloween 游戏othello 进入比赛队列
+contest id:1223 双方:ZHUI vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:24:09
+contest id:1224 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1224 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-24 18:24:52
+task id:488 用户:ZHUI 游戏:othello 进入编译队列
+task id:488 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-24 18:25:01
+contest id:1225 双方:ZHUI vs halloween 游戏othello 进入比赛队列
+contest id:1225 双方:ZHUI vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:25:18
+contest id:1226 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1226 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 18:25:44
+contest id:1227 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1227 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 20:10:46
+contest id:1228 双方:cxk1198 vs sagitrs 游戏othello 进入比赛队列
+contest id:1228 双方:cxk1198 vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 22:08:22
+contest id:1229 双方:test vs APOLLO 游戏othello 进入比赛队列
+contest id:1229 双方:test vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-24 22:08:52
+contest id:1230 双方:test vs sagitrs 游戏othello 进入比赛队列
+contest id:1230 双方:test vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:06:01
+contest id:1231 双方:sagitrs vs anyyqds 游戏othello 进入比赛队列
+contest id:1231 双方:sagitrs vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:07:37
+contest id:1232 双方:sagitrs vs az1379112 游戏othello 进入比赛队列
+contest id:1232 双方:sagitrs vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:08:35
+contest id:1233 双方:sagitrs vs azy1379112 游戏othello 进入比赛队列
+contest id:1233 双方:sagitrs vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:10:37
+contest id:1234 双方:sagitrs vs baird 游戏othello 进入比赛队列
+contest id:1234 双方:sagitrs vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:11:48
+contest id:1235 双方:sagitrs vs boron 游戏othello 进入比赛队列
+contest id:1235 双方:sagitrs vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:12:56
+contest id:1236 双方:sagitrs vs cheng2 游戏othello 进入比赛队列
+contest id:1236 双方:sagitrs vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:13:54
+contest id:1237 双方:sagitrs vs chengsimin 游戏othello 进入比赛队列
+contest id:1237 双方:sagitrs vs chengsimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:33:01
+contest id:1238 双方:sagitrs vs chensimin 游戏othello 进入比赛队列
+contest id:1238 双方:sagitrs vs chensimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:33:45
+contest id:1239 双方:sagitrs vs chris 游戏othello 进入比赛队列
+contest id:1239 双方:sagitrs vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:34:26
+contest id:1240 双方:sagitrs vs csm1 游戏othello 进入比赛队列
+contest id:1240 双方:sagitrs vs csm1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:35:39
+contest id:1241 双方:sagitrs vs csm10 游戏othello 进入比赛队列
+contest id:1241 双方:sagitrs vs csm10 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:48:01
+contest id:1242 双方:sagitrs vs dongnidamu 游戏othello 进入比赛队列
+contest id:1242 双方:sagitrs vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 09:50:56
+contest id:1243 双方:sagitrs vs Evr 游戏othello 进入比赛队列
+contest id:1243 双方:sagitrs vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 10:19:05
+contest id:1244 双方:sagitrs vs fch 游戏othello 进入比赛队列
+contest id:1244 双方:sagitrs vs fch 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 10:19:37
+contest id:1245 双方:sagitrs vs fortest 游戏othello 进入比赛队列
+contest id:1245 双方:sagitrs vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 10:20:34
+contest id:1246 双方:sagitrs vs fortest1 游戏othello 进入比赛队列
+contest id:1246 双方:sagitrs vs fortest1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 10:27:39
+contest id:1247 双方:sagitrs vs haiwei623 游戏othello 进入比赛队列
+contest id:1247 双方:sagitrs vs haiwei623 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 10:30:07
+task id:489 用户:sagitrs 游戏:othello 进入编译队列
+task id:489 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 12:48:38
+contest id:1248 双方:halloween vs chris 游戏othello 进入比赛队列
+contest id:1248 双方:halloween vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 12:49:41
+contest id:1249 双方:halloween vs haiwei623 游戏othello 进入比赛队列
+contest id:1249 双方:halloween vs haiwei623 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 12:51:05
+contest id:1250 双方:halloween vs fortest 游戏othello 进入比赛队列
+contest id:1250 双方:halloween vs fortest 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 12:54:35
+task id:490 用户:halloween 游戏:othello 进入编译队列
+task id:490 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 12:54:57
+contest id:1251 双方:halloween vs dane 游戏othello 进入比赛队列
+contest id:1251 双方:halloween vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 12:56:09
+contest id:1252 双方:halloween vs simpleAI 游戏othello 进入比赛队列
+contest id:1252 双方:halloween vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 12:57:41
+contest id:1253 双方:halloween vs cxk1198 游戏othello 进入比赛队列
+contest id:1253 双方:halloween vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 12:59:11
+contest id:1254 双方:halloween vs mediumAi 游戏othello 进入比赛队列
+contest id:1254 双方:halloween vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:03:41
+contest id:1255 双方:ZHUI vs mediumAi 游戏othello 进入比赛队列
+contest id:1255 双方:ZHUI vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:04:57
+contest id:1256 双方:ZHUI vs fortest 游戏othello 进入比赛队列
+contest id:1256 双方:ZHUI vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:05:41
+contest id:1257 双方:ZHUI vs cheng2 游戏othello 进入比赛队列
+contest id:1257 双方:ZHUI vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 13:07:16
+task id:491 用户:halloween 游戏:othello 进入编译队列
+task id:491 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 13:07:38
+contest id:1258 双方:halloween vs mediumAi 游戏othello 进入比赛队列
+contest id:1258 双方:halloween vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 13:09:06
+task id:492 用户:ZHUI 游戏:othello 进入编译队列
+task id:492 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 13:09:15
+contest id:1259 双方:ZHUI vs cheng2 游戏othello 进入比赛队列
+contest id:1259 双方:ZHUI vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:10:16
+contest id:1260 双方:ZHUI vs mediumAi 游戏othello 进入比赛队列
+contest id:1260 双方:ZHUI vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:11:04
+contest id:1261 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1261 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:11:31
+contest id:1262 双方:halloween vs cheng2 游戏othello 进入比赛队列
+contest id:1262 双方:halloween vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:11:37
+contest id:1263 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1263 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:12:26
+contest id:1264 双方:ZHUI vs halloween 游戏othello 进入比赛队列
+contest id:1264 双方:ZHUI vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:13:00
+contest id:1265 双方:ZHUI vs jerrytest2 游戏othello 进入比赛队列
+contest id:1265 双方:ZHUI vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:13:26
+contest id:1266 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1266 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:14:03
+contest id:1267 双方:ZHUI vs fortest 游戏othello 进入比赛队列
+contest id:1267 双方:ZHUI vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:15:25
+contest id:1268 双方:halloween vs strongAi 游戏othello 进入比赛队列
+contest id:1268 双方:halloween vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 13:20:17
+task id:493 用户:smooth 游戏:othello 进入编译队列
+task id:493 用户:smooth 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-25 13:21:47
+task id:494 用户:smooth 游戏:othello 进入编译队列
+task id:494 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 13:22:10
+contest id:1269 双方:smooth vs ZHUI 游戏othello 进入比赛队列
+contest id:1269 双方:smooth vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 13:45:28
+task id:495 用户:sagitrs 游戏:othello 进入编译队列
+task id:495 用户:sagitrs 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-25 13:47:08
+task id:496 用户:sagitrs 游戏:othello 进入编译队列
+task id:496 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 13:47:21
+contest id:1270 双方:sagitrs vs smooth 游戏othello 进入比赛队列
+contest id:1270 双方:sagitrs vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:48:02
+contest id:1271 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1271 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:48:45
+contest id:1272 双方:sagitrs vs jerrytest2 游戏othello 进入比赛队列
+contest id:1272 双方:sagitrs vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:49:29
+contest id:1273 双方:sagitrs vs strongAi 游戏othello 进入比赛队列
+contest id:1273 双方:sagitrs vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:50:12
+contest id:1274 双方:sagitrs vs mediumAi 游戏othello 进入比赛队列
+contest id:1274 双方:sagitrs vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:50:51
+contest id:1275 双方:sagitrs vs cheng2 游戏othello 进入比赛队列
+contest id:1275 双方:sagitrs vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:52:09
+contest id:1276 双方:sagitrs vs halloween 游戏othello 进入比赛队列
+contest id:1276 双方:sagitrs vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:53:13
+contest id:1277 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1277 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 13:53:59
+contest id:1278 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1278 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:10:30
+task id:497 用户:haiwei624! 游戏:othello 进入编译队列
+task id:497 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:10:46
+contest id:1279 双方:haiwei624! vs simpleAI 游戏othello 进入比赛队列
+contest id:1279 双方:haiwei624! vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:11:56
+contest id:1280 双方:haiwei624! vs mediumAi 游戏othello 进入比赛队列
+contest id:1280 双方:haiwei624! vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:16:04
+contest id:1281 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1281 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:17:20
+contest id:1282 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1282 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:19:36
+contest id:1283 双方:smooth vs haiwei624! 游戏othello 进入比赛队列
+contest id:1283 双方:smooth vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:24:50
+task id:498 用户:halloween 游戏:othello 进入编译队列
+task id:498 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:28:17
+contest id:1284 双方:sagitrs vs haiwei624! 游戏othello 进入比赛队列
+contest id:1284 双方:sagitrs vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:28:48
+contest id:1285 双方:halloween vs haiwei624! 游戏othello 进入比赛队列
+contest id:1285 双方:halloween vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:30:21
+contest id:1286 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1286 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:35:16
+contest id:1287 双方:smooth vs cheng2 游戏othello 进入比赛队列
+contest id:1287 双方:smooth vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:37:20
+contest id:1288 双方:smooth vs abolo 游戏othello 进入比赛队列
+contest id:1288 双方:smooth vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:37:37
+contest id:1289 双方:test vs sagitrs 游戏othello 进入比赛队列
+contest id:1289 双方:test vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:38:11
+task id:499 用户:haiwei624! 游戏:othello 进入编译队列
+task id:499 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:38:28
+contest id:1290 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1290 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:39:06
+contest id:1291 双方:haiwei624! vs test 游戏othello 进入比赛队列
+contest id:1291 双方:haiwei624! vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:40:57
+contest id:1292 双方:test vs smooth 游戏othello 进入比赛队列
+contest id:1292 双方:test vs smooth 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:41:02
+task id:500 用户:sagitrs 游戏:othello 进入编译队列
+task id:500 用户:sagitrs 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-25 14:41:12
+task id:501 用户:haiwei624! 游戏:othello 进入编译队列
+task id:501 用户:haiwei624! 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-25 14:41:22
+task id:502 用户:sagitrs 游戏:othello 进入编译队列
+task id:502 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:41:31
+contest id:1293 双方:sagitrs vs haiwei624! 游戏othello 进入比赛队列
+contest id:1293 双方:sagitrs vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:41:32
+contest id:1294 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1294 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:41:52
+task id:503 用户:sagitrs 游戏:othello 进入编译队列
+task id:503 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:42:17
+contest id:1295 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1295 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:42:54
+contest id:1296 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1296 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:43:14
+contest id:1297 双方:test vs sagitrs 游戏othello 进入比赛队列
+contest id:1297 双方:test vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:43:43
+contest id:1298 双方:sagitrs vs strongAi 游戏othello 进入比赛队列
+contest id:1298 双方:sagitrs vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:44:29
+contest id:1299 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:1299 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:44:54
+contest id:1300 双方:sagitrs vs anyyqds 游戏othello 进入比赛队列
+contest id:1300 双方:sagitrs vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:45:49
+contest id:1301 双方:sagitrs vs test 游戏othello 进入比赛队列
+contest id:1301 双方:sagitrs vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:45:57
+contest id:1302 双方:test vs ZHUI 游戏othello 进入比赛队列
+contest id:1302 双方:test vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:46:22
+task id:504 用户:ustczz 游戏:othello 进入编译队列
+task id:504 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:46:36
+contest id:1303 双方:sagitrs vs APOLLO 游戏othello 进入比赛队列
+contest id:1303 双方:sagitrs vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:48:01
+contest id:1304 双方:sagitrs vs az1379112 游戏othello 进入比赛队列
+contest id:1304 双方:sagitrs vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 14:48:10
+contest id:1305 双方:ustczz vs simpleAI 游戏othello 进入比赛队列
+contest id:1305 双方:ustczz vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 14:53:53
+task id:505 用户:ustczz 游戏:othello 进入编译队列
+task id:505 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 14:56:29
+contest id:1306 双方:sagitrs vs azy1379112 游戏othello 进入比赛队列
+contest id:1306 双方:sagitrs vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:00:09
+contest id:1307 双方:sagitrs vs baird 游戏othello 进入比赛队列
+contest id:1307 双方:sagitrs vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:03:19
+contest id:1308 双方:ustczz vs mediumAi 游戏othello 进入比赛队列
+contest id:1308 双方:ustczz vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:04:03
+task id:506 用户:haiwei624! 游戏:othello 进入编译队列
+task id:506 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:04:12
+contest id:1309 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1309 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:04:23
+contest id:1310 双方:ustczz vs test 游戏othello 进入比赛队列
+contest id:1310 双方:ustczz vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:06:01
+contest id:1311 双方:ustczz vs sagitrs 游戏othello 进入比赛队列
+contest id:1311 双方:ustczz vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:06:09
+contest id:1312 双方:sagitrs vs ustczz 游戏othello 进入比赛队列
+contest id:1312 双方:sagitrs vs ustczz 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:07:14
+task id:507 用户:haiwei624! 游戏:othello 进入编译队列
+task id:507 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:07:21
+contest id:1313 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1313 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:08:04
+contest id:1314 双方:sagitrs vs boron 游戏othello 进入比赛队列
+contest id:1314 双方:sagitrs vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:15:18
+contest id:1315 双方:cxk1198 vs abolo 游戏othello 进入比赛队列
+contest id:1315 双方:cxk1198 vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:15:54
+task id:508 用户:sagitrs 游戏:othello 进入编译队列
+task id:508 用户:sagitrs 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:16:02
+contest id:1316 双方:sagitrs vs abolo 游戏othello 进入比赛队列
+contest id:1316 双方:sagitrs vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:16:35
+contest id:1317 双方:sagitrs vs strongAi 游戏othello 进入比赛队列
+contest id:1317 双方:sagitrs vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:18:18
+contest id:1318 双方:test vs sagitrs 游戏othello 进入比赛队列
+contest id:1318 双方:test vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:19:04
+task id:509 用户:cxk1198 游戏:othello 进入编译队列
+task id:509 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:19:21
+contest id:1319 双方:cxk1198 vs strongAi 游戏othello 进入比赛队列
+contest id:1319 双方:cxk1198 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:19:52
+contest id:1320 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:1320 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:20:33
+contest id:1321 双方:cxk1198 vs chris 游戏othello 进入比赛队列
+contest id:1321 双方:cxk1198 vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:20:39
+contest id:1322 双方:sagitrs vs test 游戏othello 进入比赛队列
+contest id:1322 双方:sagitrs vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:21:24
+task id:510 用户:cxk1198 游戏:othello 进入编译队列
+task id:510 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:23:21
+contest id:1323 双方:sagitrs vs albucs 游戏othello 进入比赛队列
+contest id:1323 双方:sagitrs vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:24:17
+contest id:1324 双方:sagitrs vs anyyqds 游戏othello 进入比赛队列
+contest id:1324 双方:sagitrs vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:25:36
+contest id:1325 双方:test vs jerrytest2 游戏othello 进入比赛队列
+contest id:1325 双方:test vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:25:48
+contest id:1326 双方:sagitrs vs APOLLO 游戏othello 进入比赛队列
+contest id:1326 双方:sagitrs vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:26:45
+task id:511 用户:cxk1198 游戏:othello 进入编译队列
+task id:511 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:27:09
+contest id:1327 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1327 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:27:15
+task id:512 用户:cxk1198 游戏:othello 进入编译队列
+task id:512 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:27:25
+contest id:1328 双方:cxk1198 vs jerrytest2 游戏othello 进入比赛队列
+contest id:1328 双方:cxk1198 vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:27:30
+contest id:1329 双方:test vs fortest 游戏othello 进入比赛队列
+contest id:1329 双方:test vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:28:48
+contest id:1330 双方:cxk1198 vs APOLLO 游戏othello 进入比赛队列
+contest id:1330 双方:cxk1198 vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:30:02
+contest id:1331 双方:sagitrs vs az1379112 游戏othello 进入比赛队列
+contest id:1331 双方:sagitrs vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:30:48
+contest id:1332 双方:test vs az1379112 游戏othello 进入比赛队列
+contest id:1332 双方:test vs az1379112 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:33:05
+task id:513 用户:cxk1198 游戏:othello 进入编译队列
+task id:513 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:33:12
+contest id:1333 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:1333 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:33:55
+task id:514 用户:cxk1198 游戏:othello 进入编译队列
+task id:514 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:34:02
+contest id:1334 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:1334 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:35:15
+task id:515 用户:cxk1198 游戏:othello 进入编译队列
+task id:515 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:35:23
+contest id:1335 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:1335 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:35:56
+contest id:1336 双方:cxk1198 vs mediumAi 游戏othello 进入比赛队列
+contest id:1336 双方:cxk1198 vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:36:55
+contest id:1337 双方:cxk1198 vs smooth 游戏othello 进入比赛队列
+contest id:1337 双方:cxk1198 vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:37:27
+contest id:1338 双方:cxk1198 vs haiwei624 游戏othello 进入比赛队列
+contest id:1338 双方:cxk1198 vs haiwei624 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:40:36
+task id:516 用户:haiwei624! 游戏:othello 进入编译队列
+task id:516 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:40:45
+contest id:1339 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1339 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:41:33
+contest id:1340 双方:sagitrs vs azy1379112 游戏othello 进入比赛队列
+contest id:1340 双方:sagitrs vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:47:15
+contest id:1341 双方:ZHUI vs az1379112 游戏othello 进入比赛队列
+contest id:1341 双方:ZHUI vs az1379112 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:48:26
+task id:517 用户:haiwei624! 游戏:othello 进入编译队列
+task id:517 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:48:35
+contest id:1342 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1342 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:49:56
+task id:518 用户:liyishuai 游戏:othello 进入编译队列
+task id:518 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:50:21
+contest id:1343 双方:liyishuai vs ZHUI 游戏othello 进入比赛队列
+contest id:1343 双方:liyishuai vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:51:25
+contest id:1344 双方:sagitrs vs ZHUI 游戏othello 进入比赛队列
+contest id:1344 双方:sagitrs vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:51:36
+task id:519 用户:liyishuai 游戏:othello 进入编译队列
+task id:519 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:51:43
+contest id:1345 双方:liyishuai vs sagitrs 游戏othello 进入比赛队列
+contest id:1345 双方:liyishuai vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 15:52:16
+task id:520 用户:ZHUI 游戏:othello 进入编译队列
+task id:520 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 15:52:39
+contest id:1346 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1346 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 15:55:27
+contest id:1347 双方:ZHUI vs test 游戏othello 进入比赛队列
+contest id:1347 双方:ZHUI vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:01:17
+task id:521 用户:ustczz 游戏:othello 进入编译队列
+task id:521 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:01:27
+contest id:1348 双方:ustczz vs simpleAI 游戏othello 进入比赛队列
+contest id:1348 双方:ustczz vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:01:57
+task id:522 用户:haiwei624! 游戏:othello 进入编译队列
+task id:522 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:02:06
+contest id:1349 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1349 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:02:27
+task id:523 用户:ustczz 游戏:othello 进入编译队列
+task id:523 用户:ustczz 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:02:59
+contest id:1350 双方:ustczz vs simpleAI 游戏othello 进入比赛队列
+contest id:1350 双方:ustczz vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:03:36
+contest id:1351 双方:ustczz vs strongAi 游戏othello 进入比赛队列
+contest id:1351 双方:ustczz vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:03:47
+task id:524 用户:haiwei624! 游戏:othello 进入编译队列
+task id:525 用户:ZHUI 游戏:othello 进入编译队列
+task id:524 用户:haiwei624! 游戏:othello 开始封装编译
+task id:525 用户:ZHUI 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:03:52
+contest id:1352 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+有新的比赛，当前时间：2013-06-25 16:03:55
+contest id:1353 双方:ZHUI vs sagitrs 游戏othello 进入比赛队列
+contest id:1352 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+contest id:1353 双方:ZHUI vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:04:36
+contest id:1354 双方:ZHUI vs simpleAI 游戏othello 进入比赛队列
+contest id:1354 双方:ZHUI vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:05:07
+contest id:1355 双方:ZHUI vs test 游戏othello 进入比赛队列
+contest id:1355 双方:ZHUI vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:05:22
+contest id:1356 双方:ustczz vs abolo 游戏othello 进入比赛队列
+contest id:1356 双方:ustczz vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:05:49
+contest id:1357 双方:ZHUI vs abolo 游戏othello 进入比赛队列
+contest id:1357 双方:ZHUI vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:06:07
+task id:526 用户:haiwei624! 游戏:othello 进入编译队列
+task id:526 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:06:20
+contest id:1358 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1358 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:07:31
+contest id:1359 双方:smooth vs sagitrs 游戏othello 进入比赛队列
+contest id:1359 双方:smooth vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:08:38
+task id:527 用户:haiwei624! 游戏:othello 进入编译队列
+task id:527 用户:haiwei624! 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-25 16:08:58
+task id:528 用户:haiwei624! 游戏:othello 进入编译队列
+task id:528 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:09:05
+contest id:1360 双方:haiwei624! vs simpleAI 游戏othello 进入比赛队列
+contest id:1360 双方:haiwei624! vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:09:49
+contest id:1361 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1361 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:10:35
+contest id:1362 双方:haiwei624! vs smooth 游戏othello 进入比赛队列
+contest id:1362 双方:haiwei624! vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:11:42
+contest id:1363 双方:haiwei624! vs ZHUI 游戏othello 进入比赛队列
+contest id:1363 双方:haiwei624! vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:12:48
+contest id:1364 双方:haiwei624! vs test 游戏othello 进入比赛队列
+contest id:1364 双方:haiwei624! vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:14:50
+contest id:1365 双方:sagitrs vs baird 游戏othello 进入比赛队列
+contest id:1365 双方:sagitrs vs baird 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:15:18
+task id:529 用户:haiwei624! 游戏:othello 进入编译队列
+task id:529 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:15:26
+contest id:1366 双方:haiwei624! vs test 游戏othello 进入比赛队列
+contest id:1366 双方:haiwei624! vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:16:16
+contest id:1367 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1367 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:19:48
+task id:530 用户:haiwei624! 游戏:othello 进入编译队列
+task id:530 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:19:55
+contest id:1368 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1368 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:22:29
+task id:531 用户:liyishuai 游戏:othello 进入编译队列
+task id:531 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:22:32
+contest id:1369 双方:liyishuai vs sagitrs 游戏othello 进入比赛队列
+contest id:1369 双方:liyishuai vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:24:09
+task id:532 用户:haiwei624! 游戏:othello 进入编译队列
+task id:532 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:24:18
+contest id:1370 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1370 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:25:09
+task id:533 用户:liyishuai 游戏:othello 进入编译队列
+task id:533 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:25:14
+contest id:1371 双方:liyishuai vs haiwei624! 游戏othello 进入比赛队列
+contest id:1371 双方:liyishuai vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:26:19
+task id:534 用户:haiwei624! 游戏:othello 进入编译队列
+task id:534 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:26:38
+contest id:1372 双方:liyishuai vs sagitrs 游戏othello 进入比赛队列
+contest id:1372 双方:liyishuai vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:26:44
+contest id:1373 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1373 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:28:08
+contest id:1374 双方:ZHUI vs liyishuai 游戏othello 进入比赛队列
+contest id:1374 双方:ZHUI vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:28:21
+contest id:1375 双方:liyishuai vs simpleAI 游戏othello 进入比赛队列
+contest id:1375 双方:liyishuai vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:29:49
+task id:535 用户:haiwei624! 游戏:othello 进入编译队列
+task id:535 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:30:06
+contest id:1376 双方:ZHUI vs strongAi 游戏othello 进入比赛队列
+contest id:1376 双方:ZHUI vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:30:26
+contest id:1377 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1377 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:30:34
+contest id:1378 双方:liyishuai vs strongAi 游戏othello 进入比赛队列
+contest id:1378 双方:liyishuai vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:31:18
+contest id:1379 双方:sagitrs vs simpleAI 游戏othello 进入比赛队列
+contest id:1379 双方:sagitrs vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:31:56
+contest id:1380 双方:liyishuai vs ZHUI 游戏othello 进入比赛队列
+contest id:1380 双方:liyishuai vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:38:26
+contest id:1381 双方:liyishuai vs mediumAi 游戏othello 进入比赛队列
+contest id:1381 双方:liyishuai vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:39:31
+contest id:1382 双方:sagitrs vs boron 游戏othello 进入比赛队列
+contest id:1382 双方:sagitrs vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:40:06
+contest id:1383 双方:sagitrs vs cheng2 游戏othello 进入比赛队列
+contest id:1383 双方:sagitrs vs cheng2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:44:30
+task id:536 用户:haiwei624! 游戏:othello 进入编译队列
+task id:536 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:44:47
+contest id:1384 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1384 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:48:50
+task id:537 用户:haiwei624! 游戏:othello 进入编译队列
+task id:537 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:49:11
+contest id:1385 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1385 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 16:52:01
+task id:538 用户:haiwei624! 游戏:othello 进入编译队列
+task id:538 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 16:52:32
+contest id:1386 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1386 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:53:13
+contest id:1387 双方:ZHUI vs cheng2 游戏othello 进入比赛队列
+contest id:1387 双方:ZHUI vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:53:55
+contest id:1388 双方:haiwei624! vs cheng2 游戏othello 进入比赛队列
+contest id:1388 双方:haiwei624! vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 16:55:16
+contest id:1389 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1389 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:01:15
+contest id:1390 双方:sagitrs vs chengsimin 游戏othello 进入比赛队列
+contest id:1390 双方:sagitrs vs chengsimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:02:10
+contest id:1391 双方:sagitrs vs chensimin 游戏othello 进入比赛队列
+contest id:1391 双方:sagitrs vs chensimin 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 17:05:31
+task id:539 用户:haiwei624! 游戏:othello 进入编译队列
+task id:539 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 17:05:48
+contest id:1392 双方:haiwei624! vs simpleAI 游戏othello 进入比赛队列
+contest id:1392 双方:haiwei624! vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 17:06:31
+task id:540 用户:haiwei624! 游戏:othello 进入编译队列
+task id:540 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 17:06:40
+contest id:1393 双方:haiwei624! vs simpleAI 游戏othello 进入比赛队列
+contest id:1393 双方:haiwei624! vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 17:08:02
+task id:541 用户:haiwei624! 游戏:othello 进入编译队列
+task id:541 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 17:08:09
+contest id:1394 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1394 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:09:20
+contest id:1395 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1395 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 17:12:12
+task id:542 用户:haiwei624! 游戏:othello 进入编译队列
+task id:542 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 17:12:24
+contest id:1396 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1396 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 17:14:12
+task id:543 用户:haiwei624! 游戏:othello 进入编译队列
+task id:543 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 17:14:18
+contest id:1397 双方:haiwei624! vs strongAi 游戏othello 进入比赛队列
+contest id:1397 双方:haiwei624! vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:15:28
+contest id:1398 双方:haiwei624! vs cheng2 游戏othello 进入比赛队列
+contest id:1398 双方:haiwei624! vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:16:03
+contest id:1399 双方:haiwei624! vs sagitrs 游戏othello 进入比赛队列
+contest id:1399 双方:haiwei624! vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:24:44
+contest id:1400 双方:test vs haiwei624! 游戏othello 进入比赛队列
+contest id:1400 双方:test vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:25:30
+contest id:1401 双方:test vs liyishuai 游戏othello 进入比赛队列
+contest id:1401 双方:test vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:45:52
+contest id:1402 双方:smooth vs haiwei624! 游戏othello 进入比赛队列
+contest id:1402 双方:smooth vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:49:22
+contest id:1403 双方:smooth vs ZHUI 游戏othello 进入比赛队列
+contest id:1403 双方:smooth vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:55:49
+contest id:1404 双方:smooth vs liyishuai 游戏othello 进入比赛队列
+contest id:1404 双方:smooth vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 17:59:29
+contest id:1405 双方:smooth vs test 游戏othello 进入比赛队列
+contest id:1405 双方:smooth vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 18:22:16
+task id:544 用户:smooth 游戏:othello 进入编译队列
+task id:544 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 18:22:51
+contest id:1406 双方:smooth vs sagitrs 游戏othello 进入比赛队列
+contest id:1406 双方:smooth vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 18:23:43
+contest id:1407 双方:smooth vs test 游戏othello 进入比赛队列
+contest id:1407 双方:smooth vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 18:48:20
+contest id:1408 双方:APOLLO vs ustczz 游戏othello 进入比赛队列
+contest id:1408 双方:APOLLO vs ustczz 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 18:49:38
+contest id:1409 双方:APOLLO vs az1379112 游戏othello 进入比赛队列
+contest id:1409 双方:APOLLO vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 18:50:08
+contest id:1410 双方:APOLLO vs liyishuai 游戏othello 进入比赛队列
+contest id:1410 双方:APOLLO vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 18:51:19
+contest id:1411 双方:APOLLO vs strongAi 游戏othello 进入比赛队列
+contest id:1411 双方:APOLLO vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 19:12:33
+contest id:1412 双方:haiwei624! vs test 游戏othello 进入比赛队列
+contest id:1412 双方:haiwei624! vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 20:32:40
+contest id:1413 双方:APOLLO vs simpleAI 游戏othello 进入比赛队列
+contest id:1413 双方:APOLLO vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 20:35:22
+contest id:1414 双方:APOLLO vs fortest 游戏othello 进入比赛队列
+contest id:1414 双方:APOLLO vs fortest 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 20:52:54
+task id:545 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:545 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 20:53:04
+contest id:1415 双方:xuzhenbo vs smooth 游戏othello 进入比赛队列
+contest id:1415 双方:xuzhenbo vs smooth 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 20:54:14
+task id:546 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:546 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 20:54:21
+contest id:1416 双方:xuzhenbo vs smooth 游戏othello 进入比赛队列
+contest id:1416 双方:xuzhenbo vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 20:55:49
+contest id:1417 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1417 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 20:58:10
+contest id:1418 双方:xuzhenbo vs simpleAI 游戏othello 进入比赛队列
+contest id:1418 双方:xuzhenbo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:00:12
+contest id:1419 双方:xuzhenbo vs sagitrs 游戏othello 进入比赛队列
+contest id:1419 双方:xuzhenbo vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:01:52
+contest id:1420 双方:xuzhenbo vs ZHUI 游戏othello 进入比赛队列
+contest id:1420 双方:xuzhenbo vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:02:30
+contest id:1421 双方:xuzhenbo vs chris 游戏othello 进入比赛队列
+contest id:1421 双方:xuzhenbo vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:03:02
+contest id:1422 双方:xuzhenbo vs LerenceRay 游戏othello 进入比赛队列
+contest id:1422 双方:xuzhenbo vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:03:34
+contest id:1423 双方:xuzhenbo vs anyyqds 游戏othello 进入比赛队列
+contest id:1423 双方:xuzhenbo vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:04:15
+contest id:1424 双方:xuzhenbo vs baird 游戏othello 进入比赛队列
+contest id:1424 双方:xuzhenbo vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:06:17
+contest id:1425 双方:xuzhenbo vs haiwei624! 游戏othello 进入比赛队列
+contest id:1425 双方:xuzhenbo vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:08:44
+contest id:1426 双方:xuzhenbo vs ustczz 游戏othello 进入比赛队列
+contest id:1426 双方:xuzhenbo vs ustczz 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:09:35
+contest id:1427 双方:xuzhenbo vs az1379112 游戏othello 进入比赛队列
+contest id:1427 双方:xuzhenbo vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:10:34
+contest id:1428 双方:xuzhenbo vs liyishuai 游戏othello 进入比赛队列
+contest id:1428 双方:xuzhenbo vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:12:30
+contest id:1429 双方:xuzhenbo vs cheng2 游戏othello 进入比赛队列
+contest id:1429 双方:xuzhenbo vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:13:08
+contest id:1430 双方:xuzhenbo vs test 游戏othello 进入比赛队列
+contest id:1430 双方:xuzhenbo vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 21:17:56
+task id:547 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:547 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 21:18:05
+contest id:1431 双方:xuzhenbo vs smooth 游戏othello 进入比赛队列
+contest id:1431 双方:xuzhenbo vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:20:22
+contest id:1432 双方:xuzhenbo vs ZHUI 游戏othello 进入比赛队列
+contest id:1432 双方:xuzhenbo vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 21:24:06
+task id:548 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:548 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 21:24:59
+contest id:1433 双方:xuzhenbo vs ZHUI 游戏othello 进入比赛队列
+contest id:1433 双方:xuzhenbo vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:26:05
+contest id:1434 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1434 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:26:54
+contest id:1435 双方:xuzhenbo vs simpleAI 游戏othello 进入比赛队列
+contest id:1435 双方:xuzhenbo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:27:24
+contest id:1436 双方:xuzhenbo vs halloween 游戏othello 进入比赛队列
+contest id:1436 双方:xuzhenbo vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:28:21
+contest id:1437 双方:xuzhenbo vs mediumAi 游戏othello 进入比赛队列
+contest id:1437 双方:xuzhenbo vs mediumAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 21:31:27
+task id:549 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:549 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 21:31:51
+contest id:1438 双方:xuzhenbo vs simpleAI 游戏othello 进入比赛队列
+contest id:1438 双方:xuzhenbo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:32:29
+contest id:1439 双方:xuzhenbo vs ZHUI 游戏othello 进入比赛队列
+contest id:1439 双方:xuzhenbo vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:33:11
+contest id:1440 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1440 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:34:18
+contest id:1441 双方:xuzhenbo vs halloween 游戏othello 进入比赛队列
+contest id:1441 双方:xuzhenbo vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:34:56
+contest id:1442 双方:xuzhenbo vs liyishuai 游戏othello 进入比赛队列
+contest id:1442 双方:xuzhenbo vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:43:06
+contest id:1443 双方:xuzhenbo vs smooth 游戏othello 进入比赛队列
+contest id:1443 双方:xuzhenbo vs smooth 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 21:47:28
+task id:550 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:550 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 21:47:35
+contest id:1444 双方:xuzhenbo vs mediumAi 游戏othello 进入比赛队列
+contest id:1444 双方:xuzhenbo vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:48:24
+contest id:1445 双方:xuzhenbo vs smooth 游戏othello 进入比赛队列
+contest id:1445 双方:xuzhenbo vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:51:33
+contest id:1446 双方:xuzhenbo vs strongAi 游戏othello 进入比赛队列
+contest id:1446 双方:xuzhenbo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:52:11
+contest id:1447 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1447 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 21:55:49
+task id:551 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:551 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 21:56:03
+contest id:1448 双方:xuzhenbo vs simpleAI 游戏othello 进入比赛队列
+contest id:1448 双方:xuzhenbo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 21:59:54
+contest id:1449 双方:xuzhenbo vs az1379112 游戏othello 进入比赛队列
+contest id:1449 双方:xuzhenbo vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 22:03:59
+contest id:1450 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1450 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 22:04:31
+contest id:1451 双方:xuzhenbo vs jerrytest2 游戏othello 进入比赛队列
+contest id:1451 双方:xuzhenbo vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 22:05:21
+contest id:1452 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1452 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 23:33:24
+task id:552 用户:halloween 游戏:othello 进入编译队列
+task id:552 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 23:33:31
+contest id:1453 双方:halloween vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1453 双方:halloween vs xuzhenbo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 23:36:34
+task id:553 用户:halloween 游戏:othello 进入编译队列
+task id:553 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 23:36:44
+contest id:1454 双方:halloween vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1454 双方:halloween vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 23:38:21
+contest id:1455 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1455 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 23:41:24
+task id:554 用户:halloween 游戏:othello 进入编译队列
+task id:554 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 23:41:32
+contest id:1456 双方:halloween vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1456 双方:halloween vs xuzhenbo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-25 23:43:55
+task id:555 用户:halloween 游戏:othello 进入编译队列
+task id:555 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-25 23:44:07
+contest id:1457 双方:halloween vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1457 双方:halloween vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 23:44:59
+contest id:1458 双方:halloween vs test 游戏othello 进入比赛队列
+contest id:1458 双方:halloween vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-25 23:47:23
+contest id:1459 双方:halloween vs haiwei624! 游戏othello 进入比赛队列
+contest id:1459 双方:halloween vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 12:03:12
+task id:556 用户:halloween 游戏:othello 进入编译队列
+task id:556 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-26 12:04:00
+task id:557 用户:halloween 游戏:othello 进入编译队列
+task id:557 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-26 12:50:32
+task id:558 用户:halloween 游戏:othello 进入编译队列
+task id:558 用户:halloween 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-26 12:55:01
+task id:559 用户:halloween 游戏:othello 进入编译队列
+有新的编译，当前时间：2013-06-26 14:35:32
+task id:560 用户:halloween 游戏:othello 进入编译队列
+task id:560 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 14:35:44
+contest id:1460 双方:halloween vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1460 双方:halloween vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 14:37:20
+contest id:1461 双方:halloween vs haiwei624! 游戏othello 进入比赛队列
+contest id:1461 双方:halloween vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 14:39:50
+contest id:1462 双方:halloween vs smooth 游戏othello 进入比赛队列
+contest id:1462 双方:halloween vs smooth 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 14:41:42
+task id:561 用户:halloween 游戏:othello 进入编译队列
+task id:561 用户:halloween 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 14:42:09
+contest id:1463 双方:halloween vs ZHUI 游戏othello 进入比赛队列
+contest id:1463 双方:halloween vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 14:43:12
+contest id:1464 双方:halloween vs LerenceRay 游戏othello 进入比赛队列
+contest id:1464 双方:halloween vs LerenceRay 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 14:54:13
+task id:562 用户:smooth 游戏:othello 进入编译队列
+task id:562 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 14:54:22
+contest id:1465 双方:smooth vs halloween 游戏othello 进入比赛队列
+contest id:1465 双方:smooth vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 14:56:28
+contest id:1466 双方:smooth vs mediumAi 游戏othello 进入比赛队列
+contest id:1466 双方:smooth vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 14:57:40
+contest id:1467 双方:smooth vs strongAi 游戏othello 进入比赛队列
+contest id:1467 双方:smooth vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:02:36
+contest id:1468 双方:smooth vs LerenceRay 游戏othello 进入比赛队列
+contest id:1468 双方:smooth vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:03:41
+contest id:1469 双方:APOLLO vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1469 双方:APOLLO vs xuzhenbo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 15:11:24
+task id:563 用户:smooth 游戏:othello 进入编译队列
+task id:563 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 15:11:27
+contest id:1470 双方:smooth vs halloween 游戏othello 进入比赛队列
+contest id:1470 双方:smooth vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:13:15
+contest id:1471 双方:smooth vs strongAi 游戏othello 进入比赛队列
+contest id:1471 双方:smooth vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:14:11
+contest id:1472 双方:smooth vs test 游戏othello 进入比赛队列
+contest id:1472 双方:smooth vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:15:17
+contest id:1473 双方:smooth vs haiwei624! 游戏othello 进入比赛队列
+contest id:1473 双方:smooth vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 15:20:24
+task id:564 用户:smooth 游戏:othello 进入编译队列
+task id:564 用户:smooth 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 15:20:52
+contest id:1474 双方:smooth vs haiwei624! 游戏othello 进入比赛队列
+contest id:1474 双方:smooth vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 15:29:35
+task id:565 用户:APOLLO2 游戏:othello 进入编译队列
+task id:565 用户:APOLLO2 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-06-26 15:30:45
+task id:566 用户:APOLLO 游戏:othello 进入编译队列
+task id:566 用户:APOLLO 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 15:30:59
+contest id:1475 双方:APOLLO vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1475 双方:APOLLO vs xuzhenbo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 15:35:25
+task id:567 用户:APOLLO 游戏:othello 进入编译队列
+task id:567 用户:APOLLO 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 15:35:42
+contest id:1476 双方:APOLLO vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1476 双方:APOLLO vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:37:22
+contest id:1477 双方:APOLLO vs abolo 游戏othello 进入比赛队列
+contest id:1477 双方:APOLLO vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 15:39:49
+contest id:1478 双方:APOLLO vs smooth 游戏othello 进入比赛队列
+contest id:1478 双方:APOLLO vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 16:22:56
+contest id:1479 双方:sozw vs simpleAI 游戏othello 进入比赛队列
+contest id:1479 双方:sozw vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 16:26:48
+task id:568 用户:APOLLO 游戏:othello 进入编译队列
+task id:568 用户:APOLLO 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 16:26:59
+contest id:1480 双方:APOLLO vs cheng2 游戏othello 进入比赛队列
+contest id:1480 双方:APOLLO vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:40:38
+contest id:1481 双方:sagitrs vs LerenceRay 游戏othello 进入比赛队列
+contest id:1481 双方:sagitrs vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:41:12
+contest id:1482 双方:sagitrs vs halloween 游戏othello 进入比赛队列
+contest id:1482 双方:sagitrs vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:45:57
+contest id:1483 双方:sagitrs vs haiwei624! 游戏othello 进入比赛队列
+contest id:1483 双方:sagitrs vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:46:40
+contest id:1484 双方:sagitrs vs APOLLO 游戏othello 进入比赛队列
+contest id:1484 双方:sagitrs vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:50:08
+contest id:1485 双方:sagitrs vs APOLLO2 游戏othello 进入比赛队列
+contest id:1485 双方:sagitrs vs APOLLO2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:50:51
+contest id:1486 双方:sagitrs vs chris 游戏othello 进入比赛队列
+contest id:1486 双方:sagitrs vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 17:53:23
+contest id:1487 双方:sagitrs vs smooth 游戏othello 进入比赛队列
+contest id:1487 双方:sagitrs vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 18:53:45
+contest id:1488 双方:liyishuai vs jerrytest2 游戏othello 进入比赛队列
+contest id:1488 双方:liyishuai vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 18:54:22
+contest id:1489 双方:liyishuai vs APOLLO 游戏othello 进入比赛队列
+contest id:1489 双方:liyishuai vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 18:55:01
+contest id:1490 双方:liyishuai vs cheng2 游戏othello 进入比赛队列
+contest id:1490 双方:liyishuai vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 20:24:00
+contest id:1491 双方:test vs smooth 游戏othello 进入比赛队列
+contest id:1491 双方:test vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:43:06
+contest id:1492 双方:cxk1198 vs ustczz 游戏othello 进入比赛队列
+contest id:1492 双方:cxk1198 vs ustczz 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-26 21:44:38
+task id:569 用户:cxk1198 游戏:othello 进入编译队列
+task id:569 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-26 21:44:59
+contest id:1493 双方:cxk1198 vs simpleAI 游戏othello 进入比赛队列
+contest id:1493 双方:cxk1198 vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:45:38
+contest id:1494 双方:cxk1198 vs mediumAi 游戏othello 进入比赛队列
+contest id:1494 双方:cxk1198 vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:46:28
+contest id:1495 双方:cxk1198 vs liyishuai 游戏othello 进入比赛队列
+contest id:1495 双方:cxk1198 vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:47:02
+contest id:1496 双方:cxk1198 vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1496 双方:cxk1198 vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:47:47
+contest id:1497 双方:cxk1198 vs APOLLO 游戏othello 进入比赛队列
+contest id:1497 双方:cxk1198 vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:48:19
+contest id:1498 双方:cxk1198 vs LerenceRay 游戏othello 进入比赛队列
+contest id:1498 双方:cxk1198 vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-26 21:48:54
+contest id:1499 双方:cxk1198 vs haiwei624! 游戏othello 进入比赛队列
+contest id:1499 双方:cxk1198 vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-27 20:44:40
+task id:570 用户:haiwei624! 游戏:othello 进入编译队列
+task id:570 用户:haiwei624! 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-27 20:44:50
+contest id:1500 双方:haiwei624! vs test 游戏othello 进入比赛队列
+contest id:1500 双方:haiwei624! vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 10:53:23
+contest id:1501 双方:test vs haiwei624! 游戏othello 进入比赛队列
+contest id:1501 双方:test vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 10:53:55
+contest id:1502 双方:test vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1502 双方:test vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 10:57:44
+contest id:1503 双方:test vs cxk1198 游戏othello 进入比赛队列
+contest id:1503 双方:test vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 13:58:06
+contest id:1504 双方:sagitrs vs haiwei624! 游戏othello 进入比赛队列
+contest id:1504 双方:sagitrs vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 13:58:44
+contest id:1505 双方:sagitrs vs csm1 游戏othello 进入比赛队列
+contest id:1505 双方:sagitrs vs csm1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:00:05
+contest id:1506 双方:sagitrs vs csm10 游戏othello 进入比赛队列
+contest id:1506 双方:sagitrs vs csm10 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:00:38
+contest id:1507 双方:sagitrs vs cxk1198 游戏othello 进入比赛队列
+contest id:1507 双方:sagitrs vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:09:22
+contest id:1508 双方:sagitrs vs dane 游戏othello 进入比赛队列
+contest id:1508 双方:sagitrs vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:17:17
+contest id:1509 双方:xuzhenbo vs dane 游戏othello 进入比赛队列
+contest id:1509 双方:xuzhenbo vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:17:48
+contest id:1510 双方:xuzhenbo vs fortest1 游戏othello 进入比赛队列
+contest id:1510 双方:xuzhenbo vs fortest1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:18:28
+contest id:1511 双方:xuzhenbo vs haiwei624 游戏othello 进入比赛队列
+contest id:1511 双方:xuzhenbo vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:19:20
+contest id:1512 双方:xuzhenbo vs teste 游戏othello 进入比赛队列
+contest id:1512 双方:xuzhenbo vs teste 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:20:05
+contest id:1513 双方:xuzhenbo vs Evr 游戏othello 进入比赛队列
+contest id:1513 双方:xuzhenbo vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:21:17
+contest id:1514 双方:xuzhenbo vs test11 游戏othello 进入比赛队列
+contest id:1514 双方:xuzhenbo vs test11 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 14:29:05
+task id:571 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:571 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 14:29:24
+contest id:1515 双方:xuzhenbo vs dane 游戏othello 进入比赛队列
+contest id:1515 双方:xuzhenbo vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 14:29:59
+contest id:1516 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1516 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 14:32:35
+task id:572 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:572 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 14:32:44
+contest id:1517 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1517 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 14:37:56
+task id:573 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:573 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 14:38:05
+contest id:1518 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1518 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 17:12:15
+task id:574 用户:test 游戏:othello 进入编译队列
+task id:574 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 17:12:37
+contest id:1519 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:1519 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 17:13:08
+contest id:1520 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:1520 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 17:14:45
+task id:575 用户:test 游戏:othello 进入编译队列
+task id:575 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 17:16:03
+contest id:1521 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:1521 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 17:18:23
+contest id:1522 双方:test vs APOLLO 游戏othello 进入比赛队列
+contest id:1522 双方:test vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 19:37:03
+task id:576 用户:null 游戏:othello 进入编译队列
+有新的编译，当前时间：2013-06-28 19:37:23
+task id:577 用户:jerrytest3 游戏:othello 进入编译队列
+task id:577 用户:jerrytest3 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 19:40:05
+contest id:1523 双方:jerrytest vs test 游戏othello 进入比赛队列
+contest id:1523 双方:jerrytest vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-28 19:41:55
+contest id:1524 双方:jerrytest vs smooth 游戏othello 进入比赛队列
+contest id:1524 双方:jerrytest vs smooth 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-28 19:42:14
+task id:578 用户:jerrytest 游戏:othello 进入编译队列
+task id:578 用户:jerrytest 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-28 19:42:46
+contest id:1525 双方:jerrytest vs jerrytest2 游戏othello 进入比赛队列
+contest id:1525 双方:jerrytest vs jerrytest2 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 11:29:07
+task id:579 用户:zym 游戏:othello 进入编译队列
+task id:579 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 11:29:23
+contest id:1526 双方:zym vs abolo 游戏othello 进入比赛队列
+contest id:1526 双方:zym vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 11:32:18
+task id:580 用户:zym 游戏:othello 进入编译队列
+task id:580 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 11:32:29
+contest id:1527 双方:zym vs abolo 游戏othello 进入比赛队列
+contest id:1527 双方:zym vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 11:39:03
+contest id:1528 双方:zym vs albucs 游戏othello 进入比赛队列
+contest id:1528 双方:zym vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 11:39:18
+task id:581 用户:zym 游戏:othello 进入编译队列
+task id:581 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 11:39:46
+contest id:1529 双方:zym vs abolo 游戏othello 进入比赛队列
+contest id:1529 双方:zym vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 11:41:02
+contest id:1530 双方:zym vs albucs 游戏othello 进入比赛队列
+contest id:1530 双方:zym vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 11:44:29
+task id:582 用户:zym 游戏:othello 进入编译队列
+task id:582 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 11:44:37
+contest id:1531 双方:zym vs abolo 游戏othello 进入比赛队列
+contest id:1531 双方:zym vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 12:02:00
+task id:583 用户:zym 游戏:othello 进入编译队列
+task id:583 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 12:02:06
+contest id:1532 双方:zym vs abolo 游戏othello 进入比赛队列
+contest id:1532 双方:zym vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 12:06:20
+task id:584 用户:zym 游戏:othello 进入编译队列
+task id:584 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 12:06:25
+contest id:1533 双方:zym vs abolo 游戏othello 进入比赛队列
+contest id:1533 双方:zym vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 12:09:20
+task id:585 用户:zym 游戏:othello 进入编译队列
+task id:585 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 12:09:28
+contest id:1534 双方:zym vs haiwei624! 游戏othello 进入比赛队列
+contest id:1534 双方:zym vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 12:12:00
+task id:586 用户:zym 游戏:othello 进入编译队列
+task id:586 用户:zym 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 12:12:30
+contest id:1535 双方:zym vs haiwei624 游戏othello 进入比赛队列
+contest id:1535 双方:zym vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 12:14:39
+contest id:1536 双方:zym vs fortest 游戏othello 进入比赛队列
+contest id:1536 双方:zym vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 12:57:58
+contest id:1537 双方:smooth vs strongAi 游戏othello 进入比赛队列
+contest id:1537 双方:smooth vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 14:45:39
+task id:587 用户:cxk1198 游戏:othello 进入编译队列
+task id:587 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 14:45:44
+contest id:1538 双方:cxk1198 vs APOLLO 游戏othello 进入比赛队列
+contest id:1538 双方:cxk1198 vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:03:31
+contest id:1539 双方:sagitrs vs cxk1198 游戏othello 进入比赛队列
+contest id:1539 双方:sagitrs vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:04:16
+contest id:1540 双方:ZHUI vs smooth 游戏othello 进入比赛队列
+contest id:1540 双方:ZHUI vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:05:26
+contest id:1541 双方:sagitrs vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1541 双方:sagitrs vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:09:57
+contest id:1542 双方:LerenceRay vs cxk1198 游戏othello 进入比赛队列
+contest id:1542 双方:LerenceRay vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:12:42
+contest id:1543 双方:LerenceRay vs sagitrs 游戏othello 进入比赛队列
+contest id:1543 双方:LerenceRay vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:13:35
+contest id:1544 双方:LerenceRay vs ZHUI 游戏othello 进入比赛队列
+contest id:1544 双方:LerenceRay vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:14:30
+contest id:1545 双方:LerenceRay vs smooth 游戏othello 进入比赛队列
+contest id:1545 双方:LerenceRay vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 18:50:31
+contest id:1546 双方:ZHUI vs haiwei624! 游戏othello 进入比赛队列
+contest id:1546 双方:ZHUI vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 20:33:58
+task id:588 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:588 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 20:34:07
+contest id:1547 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1547 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 20:34:37
+contest id:1548 双方:xuzhenbo vs ustcliao 游戏othello 进入比赛队列
+contest id:1548 双方:xuzhenbo vs ustcliao 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 20:35:12
+contest id:1549 双方:xuzhenbo vs dongnidamu 游戏othello 进入比赛队列
+contest id:1549 双方:xuzhenbo vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 20:35:45
+contest id:1550 双方:xuzhenbo vs sagitrs 游戏othello 进入比赛队列
+contest id:1550 双方:xuzhenbo vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 20:39:28
+task id:589 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:589 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 20:39:35
+contest id:1551 双方:xuzhenbo vs sagitrs 游戏othello 进入比赛队列
+contest id:1551 双方:xuzhenbo vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 21:25:11
+task id:590 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:590 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 21:25:20
+contest id:1552 双方:xuzhenbo vs sagitrs 游戏othello 进入比赛队列
+contest id:1552 双方:xuzhenbo vs sagitrs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 21:58:56
+contest id:1553 双方:xuzhenbo vs simpleAI 游戏othello 进入比赛队列
+contest id:1553 双方:xuzhenbo vs simpleAI 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 22:04:33
+task id:591 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:591 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 22:04:52
+contest id:1554 双方:xuzhenbo vs simpleAI 游戏othello 进入比赛队列
+contest id:1554 双方:xuzhenbo vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:05:39
+contest id:1555 双方:xuzhenbo vs ustczz 游戏othello 进入比赛队列
+contest id:1555 双方:xuzhenbo vs ustczz 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:06:35
+contest id:1556 双方:xuzhenbo vs liyishuai 游戏othello 进入比赛队列
+contest id:1556 双方:xuzhenbo vs liyishuai 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:16:51
+contest id:1557 双方:xuzhenbo vs dongnidamu 游戏othello 进入比赛队列
+contest id:1557 双方:xuzhenbo vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:26:22
+contest id:1558 双方:xuzhenbo vs kaikitest3 游戏othello 进入比赛队列
+contest id:1558 双方:xuzhenbo vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:27:28
+contest id:1559 双方:xuzhenbo vs fch 游戏othello 进入比赛队列
+contest id:1559 双方:xuzhenbo vs fch 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:29:09
+contest id:1560 双方:xuzhenbo vs anyyqds 游戏othello 进入比赛队列
+contest id:1560 双方:xuzhenbo vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:29:44
+contest id:1561 双方:xuzhenbo vs chris 游戏othello 进入比赛队列
+contest id:1561 双方:xuzhenbo vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:30:45
+contest id:1562 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1562 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 22:31:54
+contest id:1563 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1563 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-29 22:36:25
+task id:592 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:592 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-29 22:36:32
+contest id:1564 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1564 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-29 23:05:53
+contest id:1565 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1565 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:22:21
+contest id:1566 双方:xuzhenbo vs anyyqds 游戏othello 进入比赛队列
+contest id:1566 双方:xuzhenbo vs anyyqds 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 07:28:11
+task id:593 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:593 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 07:28:18
+contest id:1567 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1567 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:29:22
+contest id:1568 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1568 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:30:18
+contest id:1569 双方:xuzhenbo vs anyyqds 游戏othello 进入比赛队列
+contest id:1569 双方:xuzhenbo vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:32:25
+contest id:1570 双方:xuzhenbo vs strongAi 游戏othello 进入比赛队列
+contest id:1570 双方:xuzhenbo vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 07:44:22
+task id:594 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:594 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 07:44:29
+contest id:1571 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1571 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:46:00
+contest id:1572 双方:xuzhenbo vs strongAi 游戏othello 进入比赛队列
+contest id:1572 双方:xuzhenbo vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:51:55
+contest id:1573 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1573 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:52:51
+contest id:1574 双方:xuzhenbo vs LerenceRay 游戏othello 进入比赛队列
+contest id:1574 双方:xuzhenbo vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 07:59:27
+contest id:1575 双方:smooth vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1575 双方:smooth vs xuzhenbo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 07:59:53
+task id:595 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:595 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 08:00:03
+contest id:1576 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1576 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:00:07
+contest id:1577 双方:smooth vs LerenceRay 游戏othello 进入比赛队列
+contest id:1577 双方:smooth vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:00:47
+contest id:1578 双方:xuzhenbo vs smooth 游戏othello 进入比赛队列
+contest id:1578 双方:xuzhenbo vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:02:36
+contest id:1579 双方:xuzhenbo vs LerenceRay 游戏othello 进入比赛队列
+contest id:1579 双方:xuzhenbo vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:03:12
+contest id:1580 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1580 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:05:13
+contest id:1581 双方:xuzhenbo vs haiwei624! 游戏othello 进入比赛队列
+contest id:1581 双方:xuzhenbo vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:05:17
+contest id:1582 双方:halloween vs strongAi 游戏othello 进入比赛队列
+contest id:1582 双方:halloween vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:06:00
+contest id:1583 双方:halloween vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1583 双方:halloween vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:06:45
+contest id:1584 双方:xuzhenbo vs anyyqds 游戏othello 进入比赛队列
+contest id:1584 双方:xuzhenbo vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 08:07:45
+contest id:1585 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1585 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 11:40:39
+contest id:1586 双方:dane vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1586 双方:dane vs xuzhenbo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 12:17:57
+task id:596 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:596 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 12:18:03
+contest id:1587 双方:xuzhenbo vs dane 游戏othello 进入比赛队列
+contest id:1587 双方:xuzhenbo vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 12:21:57
+task id:597 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:597 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 12:22:03
+contest id:1588 双方:xuzhenbo vs dane 游戏othello 进入比赛队列
+contest id:1588 双方:xuzhenbo vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 12:34:32
+contest id:1589 双方:cxk1198 vs xxxatt 游戏othello 进入比赛队列
+contest id:1589 双方:cxk1198 vs xxxatt 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 12:55:19
+task id:598 用户:cxk1198 游戏:othello 进入编译队列
+task id:598 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 12:56:31
+contest id:1590 双方:cxk1198 vs xxxatt 游戏othello 进入比赛队列
+contest id:1590 双方:cxk1198 vs xxxatt 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 12:57:10
+contest id:1591 双方:cxk1198 vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1591 双方:cxk1198 vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 12:57:42
+contest id:1592 双方:cxk1198 vs strongAi 游戏othello 进入比赛队列
+contest id:1592 双方:cxk1198 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 12:58:11
+contest id:1593 双方:cxk1198 vs halloween 游戏othello 进入比赛队列
+contest id:1593 双方:cxk1198 vs halloween 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 13:00:19
+task id:599 用户:cxk1198 游戏:othello 进入编译队列
+task id:599 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 13:00:38
+contest id:1594 双方:cxk1198 vs xxxatt 游戏othello 进入比赛队列
+contest id:1594 双方:cxk1198 vs xxxatt 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 13:04:48
+contest id:1595 双方:test vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1595 双方:test vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 13:05:20
+contest id:1596 双方:test vs halloween 游戏othello 进入比赛队列
+contest id:1596 双方:test vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 14:17:25
+contest id:1597 双方:cxk1198 vs test 游戏othello 进入比赛队列
+contest id:1597 双方:cxk1198 vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 14:17:57
+contest id:1598 双方:cxk1198 vs zhuxuezhi 游戏othello 进入比赛队列
+contest id:1598 双方:cxk1198 vs zhuxuezhi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 14:22:14
+task id:600 用户:cxk1198 游戏:othello 进入编译队列
+task id:600 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 14:22:27
+contest id:1599 双方:cxk1198 vs smooth 游戏othello 进入比赛队列
+contest id:1599 双方:cxk1198 vs smooth 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 14:23:01
+contest id:1600 双方:cxk1198 vs xxxatt 游戏othello 进入比赛队列
+contest id:1600 双方:cxk1198 vs xxxatt 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 14:24:14
+contest id:1601 双方:cxk1198 vs strongAi 游戏othello 进入比赛队列
+contest id:1601 双方:cxk1198 vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 14:52:26
+task id:601 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:601 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 14:52:39
+contest id:1602 双方:xuzhenbo vs dane 游戏othello 进入比赛队列
+contest id:1602 双方:xuzhenbo vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 14:53:46
+task id:602 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:602 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 14:53:52
+contest id:1603 双方:xuzhenbo vs dane 游戏othello 进入比赛队列
+contest id:1603 双方:xuzhenbo vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 14:55:43
+contest id:1604 双方:xuzhenbo vs ZHUI 游戏othello 进入比赛队列
+contest id:1604 双方:xuzhenbo vs ZHUI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 14:57:44
+contest id:1605 双方:xuzhenbo vs test 游戏othello 进入比赛队列
+contest id:1605 双方:xuzhenbo vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-06-30 15:12:07
+task id:603 用户:xuzhenbo 游戏:othello 进入编译队列
+task id:603 用户:xuzhenbo 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-06-30 15:12:40
+contest id:1606 双方:xuzhenbo vs abolo 游戏othello 进入比赛队列
+contest id:1606 双方:xuzhenbo vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 15:13:51
+contest id:1607 双方:xuzhenbo vs albucs 游戏othello 进入比赛队列
+contest id:1607 双方:xuzhenbo vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 15:14:45
+contest id:1608 双方:xuzhenbo vs anyyqds 游戏othello 进入比赛队列
+contest id:1608 双方:xuzhenbo vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 19:05:23
+contest id:1609 双方:LerenceRay vs haiwei624! 游戏othello 进入比赛队列
+contest id:1609 双方:LerenceRay vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-06-30 19:05:56
+contest id:1610 双方:LerenceRay vs xuzhenbo 游戏othello 进入比赛队列
+contest id:1610 双方:LerenceRay vs xuzhenbo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-01 09:09:29
+contest id:1611 双方:xuzhenbo vs APOLLO 游戏othello 进入比赛队列
+contest id:1611 双方:xuzhenbo vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-01 09:12:03
+contest id:1612 双方:xuzhenbo vs APOLLO2 游戏othello 进入比赛队列
+contest id:1612 双方:xuzhenbo vs APOLLO2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-01 09:12:50
+contest id:1613 双方:xuzhenbo vs baird 游戏othello 进入比赛队列
+contest id:1613 双方:xuzhenbo vs baird 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-01 13:19:36
+task id:604 用户:jerrytest3 游戏:othello 进入编译队列
+task id:604 用户:jerrytest3 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-01 13:19:46
+contest id:1614 双方:jerrytest3 vs dane 游戏othello 进入比赛队列
+contest id:1614 双方:jerrytest3 vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-01 13:20:27
+task id:605 用户:jerrytest3 游戏:othello 进入编译队列
+task id:605 用户:jerrytest3 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-01 13:20:56
+contest id:1615 双方:jerrytest3 vs dane 游戏othello 进入比赛队列
+contest id:1615 双方:jerrytest3 vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-01 13:22:47
+task id:606 用户:jerrytest4 游戏:othello 进入编译队列
+task id:606 用户:jerrytest4 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-01 13:23:04
+contest id:1616 双方:jerrytest4 vs test 游戏othello 进入比赛队列
+contest id:1616 双方:jerrytest4 vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-01 13:24:37
+task id:607 用户:jerrytest4 游戏:othello 进入编译队列
+task id:607 用户:jerrytest4 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-01 13:24:41
+contest id:1617 双方:jerrytest4 vs test 游戏othello 进入比赛队列
+contest id:1617 双方:jerrytest4 vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-01 13:26:37
+task id:608 用户:jerrytest4 游戏:othello 进入编译队列
+task id:608 用户:jerrytest4 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-01 13:26:44
+contest id:1618 双方:jerrytest4 vs APOLLO 游戏othello 进入比赛队列
+contest id:1618 双方:jerrytest4 vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-01 19:04:54
+contest id:1619 双方:cxk1198 vs APOLLO 游戏othello 进入比赛队列
+contest id:1619 双方:cxk1198 vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-01 23:10:35
+contest id:1620 双方:test vs jerrytest3 游戏othello 进入比赛队列
+contest id:1620 双方:test vs jerrytest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 14:43:50
+contest id:1621 双方:jerrytest3 vs cxk1198 游戏othello 进入比赛队列
+contest id:1621 双方:jerrytest3 vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:29:14
+contest id:1622 双方:halloween vs jerrytest3 游戏othello 进入比赛队列
+contest id:1622 双方:halloween vs jerrytest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:29:26
+contest id:1623 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1623 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:30:22
+contest id:1624 双方:halloween vs test 游戏othello 进入比赛队列
+contest id:1624 双方:halloween vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:30:56
+contest id:1625 双方:halloween vs cxk1198 游戏othello 进入比赛队列
+contest id:1625 双方:halloween vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:31:07
+contest id:1626 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1626 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:32:52
+contest id:1627 双方:sozw vs test 游戏othello 进入比赛队列
+contest id:1627 双方:sozw vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 16:35:45
+contest id:1628 双方:sozw vs APOLLO 游戏othello 进入比赛队列
+contest id:1628 双方:sozw vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 18:06:23
+task id:609 用户:sozw 游戏:othello 进入编译队列
+task id:609 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 18:06:49
+contest id:1629 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1629 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:07:46
+contest id:1630 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1630 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:09:18
+contest id:1631 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1631 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:11:25
+contest id:1632 双方:sozw vs APOLLO 游戏othello 进入比赛队列
+contest id:1632 双方:sozw vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:13:46
+contest id:1633 双方:sozw vs APOLLO2 游戏othello 进入比赛队列
+contest id:1633 双方:sozw vs APOLLO2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:16:47
+contest id:1634 双方:sozw vs az1379112 游戏othello 进入比赛队列
+contest id:1634 双方:sozw vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:20:56
+contest id:1635 双方:sozw vs azy1379112 游戏othello 进入比赛队列
+contest id:1635 双方:sozw vs azy1379112 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 18:34:36
+task id:610 用户:sozw 游戏:othello 进入编译队列
+task id:610 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 18:35:09
+contest id:1636 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1636 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:48:45
+contest id:1637 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1637 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:50:55
+contest id:1638 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1638 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:53:33
+contest id:1639 双方:sozw vs APOLLO 游戏othello 进入比赛队列
+contest id:1639 双方:sozw vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 18:55:05
+contest id:1640 双方:sozw vs APOLLO2 游戏othello 进入比赛队列
+contest id:1640 双方:sozw vs APOLLO2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:04:23
+contest id:1641 双方:sozw vs az1379112 游戏othello 进入比赛队列
+contest id:1641 双方:sozw vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:07:09
+contest id:1642 双方:sozw vs azy1379112 游戏othello 进入比赛队列
+contest id:1642 双方:sozw vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:09:52
+contest id:1643 双方:sozw vs baird 游戏othello 进入比赛队列
+contest id:1643 双方:sozw vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:10:56
+contest id:1644 双方:sozw vs boron 游戏othello 进入比赛队列
+contest id:1644 双方:sozw vs boron 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 19:13:48
+task id:611 用户:sozw 游戏:othello 进入编译队列
+task id:611 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 19:14:27
+contest id:1645 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1645 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:15:14
+contest id:1646 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1646 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:16:42
+contest id:1647 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1647 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:18:02
+contest id:1648 双方:sozw vs APOLLO 游戏othello 进入比赛队列
+contest id:1648 双方:sozw vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:22:38
+contest id:1649 双方:sozw vs APOLLO2 游戏othello 进入比赛队列
+contest id:1649 双方:sozw vs APOLLO2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:27:37
+contest id:1650 双方:sozw vs az1379112 游戏othello 进入比赛队列
+contest id:1650 双方:sozw vs az1379112 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 19:43:20
+task id:612 用户:sozw 游戏:othello 进入编译队列
+task id:612 用户:sozw 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-02 19:47:10
+task id:613 用户:sozw 游戏:othello 进入编译队列
+task id:613 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 19:47:22
+contest id:1651 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1651 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 19:48:58
+contest id:1652 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1652 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 19:55:40
+task id:614 用户:sozw 游戏:othello 进入编译队列
+task id:614 用户:sozw 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-02 19:57:31
+task id:615 用户:sozw 游戏:othello 进入编译队列
+task id:615 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 19:57:45
+contest id:1653 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1653 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:00:08
+contest id:1654 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1654 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:01:07
+contest id:1655 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1655 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 20:02:41
+task id:616 用户:sozw 游戏:othello 进入编译队列
+task id:616 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 20:03:05
+contest id:1656 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1656 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:05:51
+contest id:1657 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1657 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:07:57
+contest id:1658 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1658 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-02 20:11:42
+task id:617 用户:sozw 游戏:othello 进入编译队列
+task id:617 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-02 20:12:26
+contest id:1659 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1659 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:14:11
+contest id:1660 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1660 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:15:35
+contest id:1661 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1661 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:16:25
+contest id:1662 双方:sozw vs APOLLO 游戏othello 进入比赛队列
+contest id:1662 双方:sozw vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:18:26
+contest id:1663 双方:sozw vs APOLLO2 游戏othello 进入比赛队列
+contest id:1663 双方:sozw vs APOLLO2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:20:00
+contest id:1664 双方:sozw vs az1379112 游戏othello 进入比赛队列
+contest id:1664 双方:sozw vs az1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:22:19
+contest id:1665 双方:sozw vs azy1379112 游戏othello 进入比赛队列
+contest id:1665 双方:sozw vs azy1379112 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:23:44
+contest id:1666 双方:sozw vs baird 游戏othello 进入比赛队列
+contest id:1666 双方:sozw vs baird 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:26:05
+contest id:1667 双方:sozw vs strongAi 游戏othello 进入比赛队列
+contest id:1667 双方:sozw vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:26:41
+contest id:1668 双方:sozw vs simpleAI 游戏othello 进入比赛队列
+contest id:1668 双方:sozw vs simpleAI 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:27:22
+contest id:1669 双方:sozw vs mediumAi 游戏othello 进入比赛队列
+contest id:1669 双方:sozw vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:28:21
+contest id:1670 双方:sozw vs boron 游戏othello 进入比赛队列
+contest id:1670 双方:sozw vs boron 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:29:04
+contest id:1671 双方:sozw vs cheng2 游戏othello 进入比赛队列
+contest id:1671 双方:sozw vs cheng2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:30:37
+contest id:1672 双方:sozw vs chengsimin 游戏othello 进入比赛队列
+contest id:1672 双方:sozw vs chengsimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:31:35
+contest id:1673 双方:sozw vs chensimin 游戏othello 进入比赛队列
+contest id:1673 双方:sozw vs chensimin 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:32:21
+contest id:1674 双方:sozw vs chris 游戏othello 进入比赛队列
+contest id:1674 双方:sozw vs chris 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:33:10
+contest id:1675 双方:sozw vs csm1 游戏othello 进入比赛队列
+contest id:1675 双方:sozw vs csm1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:33:48
+contest id:1676 双方:sozw vs csm10 游戏othello 进入比赛队列
+contest id:1676 双方:sozw vs csm10 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:36:01
+contest id:1677 双方:sozw vs cxk1198 游戏othello 进入比赛队列
+contest id:1677 双方:sozw vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:37:32
+contest id:1678 双方:sozw vs dane 游戏othello 进入比赛队列
+contest id:1678 双方:sozw vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:38:25
+contest id:1679 双方:sozw vs halloween 游戏othello 进入比赛队列
+contest id:1679 双方:sozw vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:39:51
+contest id:1680 双方:sozw vs dongnidamu 游戏othello 进入比赛队列
+contest id:1680 双方:sozw vs dongnidamu 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:40:37
+contest id:1681 双方:sozw vs Evr 游戏othello 进入比赛队列
+contest id:1681 双方:sozw vs Evr 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-02 20:41:54
+contest id:1682 双方:sozw vs fch 游戏othello 进入比赛队列
+contest id:1682 双方:sozw vs fch 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:19:47
+contest id:1683 双方:sozw vs fortest 游戏othello 进入比赛队列
+contest id:1683 双方:sozw vs fortest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:21:39
+contest id:1684 双方:sozw vs fortest1 游戏othello 进入比赛队列
+contest id:1684 双方:sozw vs fortest1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:23:31
+contest id:1685 双方:sozw vs haiwei623 游戏othello 进入比赛队列
+contest id:1685 双方:sozw vs haiwei623 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:24:17
+contest id:1686 双方:sozw vs haiwei624 游戏othello 进入比赛队列
+contest id:1686 双方:sozw vs haiwei624 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:24:57
+contest id:1687 双方:sozw vs haiwei624! 游戏othello 进入比赛队列
+contest id:1687 双方:sozw vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:25:52
+contest id:1688 双方:sozw vs hehe 游戏othello 进入比赛队列
+contest id:1688 双方:sozw vs hehe 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 02:26:45
+contest id:1689 双方:sozw vs hongbing 游戏othello 进入比赛队列
+contest id:1689 双方:sozw vs hongbing 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 11:36:00
+contest id:1690 双方:test vs sozw 游戏othello 进入比赛队列
+contest id:1690 双方:test vs sozw 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:04:09
+contest id:1691 双方:sozw vs jerrytest 游戏othello 进入比赛队列
+contest id:1691 双方:sozw vs jerrytest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:06:04
+contest id:1692 双方:sozw vs jerrytest2 游戏othello 进入比赛队列
+contest id:1692 双方:sozw vs jerrytest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:07:41
+contest id:1693 双方:sozw vs jerrytest3 游戏othello 进入比赛队列
+contest id:1693 双方:sozw vs jerrytest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:09:23
+contest id:1694 双方:sozw vs jerrytest4 游戏othello 进入比赛队列
+contest id:1694 双方:sozw vs jerrytest4 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:11:01
+contest id:1695 双方:sozw vs kaiki 游戏othello 进入比赛队列
+contest id:1695 双方:sozw vs kaiki 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:13:27
+contest id:1696 双方:sozw vs LerenceRay 游戏othello 进入比赛队列
+contest id:1696 双方:sozw vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:14:17
+contest id:1697 双方:sozw vs kaiki1 游戏othello 进入比赛队列
+contest id:1697 双方:sozw vs kaiki1 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:16:11
+contest id:1698 双方:sozw vs kaikitest 游戏othello 进入比赛队列
+contest id:1698 双方:sozw vs kaikitest 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:17:18
+contest id:1699 双方:sozw vs kaikitest2 游戏othello 进入比赛队列
+contest id:1699 双方:sozw vs kaikitest2 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:18:09
+contest id:1700 双方:sozw vs kaikitest3 游戏othello 进入比赛队列
+contest id:1700 双方:sozw vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 17:25:46
+contest id:1701 双方:test vs kaikitest3 游戏othello 进入比赛队列
+contest id:1701 双方:test vs kaikitest3 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-03 21:35:24
+task id:618 用户:liyishuai 游戏:othello 进入编译队列
+task id:618 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-03 21:35:44
+contest id:1702 双方:liyishuai vs halloween 游戏othello 进入比赛队列
+contest id:1702 双方:liyishuai vs halloween 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-03 21:36:45
+task id:619 用户:liyishuai 游戏:othello 进入编译队列
+task id:619 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-03 21:36:56
+contest id:1703 双方:liyishuai vs cxk1198 游戏othello 进入比赛队列
+contest id:1703 双方:liyishuai vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 21:37:35
+contest id:1704 双方:liyishuai vs haiwei624! 游戏othello 进入比赛队列
+contest id:1704 双方:liyishuai vs haiwei624! 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 21:38:13
+contest id:1705 双方:liyishuai vs jerrytest 游戏othello 进入比赛队列
+contest id:1705 双方:liyishuai vs jerrytest 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-03 21:40:45
+task id:620 用户:liyishuai 游戏:othello 进入编译队列
+task id:620 用户:liyishuai 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-03 21:40:55
+contest id:1706 双方:liyishuai vs LerenceRay 游戏othello 进入比赛队列
+contest id:1706 双方:liyishuai vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-03 21:42:26
+contest id:1707 双方:liyishuai vs kaikitest3 游戏othello 进入比赛队列
+contest id:1707 双方:liyishuai vs kaikitest3 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 12:31:45
+contest id:1708 双方:LerenceRay vs sozw 游戏othello 进入比赛队列
+contest id:1708 双方:LerenceRay vs sozw 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 12:33:08
+contest id:1709 双方:LerenceRay vs halloween 游戏othello 进入比赛队列
+contest id:1709 双方:LerenceRay vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 13:31:24
+contest id:1710 双方:test vs LerenceRay 游戏othello 进入比赛队列
+有新的比赛，当前时间：2013-07-04 13:32:45
+contest id:1711 双方:test vs LerenceRay 游戏othello 进入比赛队列
+contest id:1711 双方:test vs LerenceRay 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 20:11:35
+contest id:1712 双方:cxk1198 vs sozw 游戏othello 进入比赛队列
+contest id:1712 双方:cxk1198 vs sozw 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-04 22:47:52
+task id:621 用户:sozw 游戏:othello 进入编译队列
+task id:621 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-04 22:49:07
+contest id:1713 双方:sozw vs halloween 游戏othello 进入比赛队列
+contest id:1713 双方:sozw vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 22:56:00
+contest id:1714 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1714 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-04 23:07:04
+task id:622 用户:sozw 游戏:othello 进入编译队列
+task id:622 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-04 23:08:01
+contest id:1715 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1715 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:09:05
+contest id:1716 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1716 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-04 23:16:24
+task id:623 用户:sozw 游戏:othello 进入编译队列
+task id:623 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-04 23:16:32
+contest id:1717 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1717 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:17:19
+contest id:1718 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1718 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:17:51
+contest id:1719 双方:sozw vs halloween 游戏othello 进入比赛队列
+contest id:1719 双方:sozw vs halloween 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:18:42
+contest id:1720 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1720 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:19:20
+contest id:1721 双方:sozw vs APOLLO 游戏othello 进入比赛队列
+contest id:1721 双方:sozw vs APOLLO 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-04 23:20:45
+task id:624 用户:sozw 游戏:othello 进入编译队列
+task id:624 用户:sozw 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-04 23:21:16
+contest id:1722 双方:sozw vs abolo 游戏othello 进入比赛队列
+contest id:1722 双方:sozw vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:21:54
+contest id:1723 双方:sozw vs albucs 游戏othello 进入比赛队列
+contest id:1723 双方:sozw vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-04 23:22:52
+contest id:1724 双方:sozw vs anyyqds 游戏othello 进入比赛队列
+contest id:1724 双方:sozw vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-05 11:12:35
+contest id:1725 双方:LerenceRay vs anyyqds 游戏othello 进入比赛队列
+contest id:1725 双方:LerenceRay vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-05 17:24:14
+contest id:1726 双方:test vs anyyqds 游戏othello 进入比赛队列
+contest id:1726 双方:test vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-05 17:24:46
+contest id:1727 双方:test vs albucs 游戏othello 进入比赛队列
+contest id:1727 双方:test vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-07 12:52:18
+contest id:1728 双方:dane vs test 游戏othello 进入比赛队列
+contest id:1728 双方:dane vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-08 14:48:03
+contest id:1729 双方:cxk1198 vs sozw 游戏othello 进入比赛队列
+contest id:1729 双方:cxk1198 vs sozw 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-09 17:25:43
+contest id:1730 双方:ZHUI vs dane 游戏othello 进入比赛队列
+contest id:1730 双方:ZHUI vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-09 17:26:13
+contest id:1731 双方:ZHUI vs test 游戏othello 进入比赛队列
+contest id:1731 双方:ZHUI vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-09 17:27:01
+contest id:1732 双方:ZHUI vs cxk1198 游戏othello 进入比赛队列
+contest id:1732 双方:ZHUI vs cxk1198 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-11 16:44:14
+contest id:1733 双方:haiwei624! vs dane 游戏othello 进入比赛队列
+contest id:1733 双方:haiwei624! vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-13 08:58:11
+task id:625 用户:qyzhang 游戏:othello 进入编译队列
+task id:625 用户:qyzhang 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-13 09:01:31
+task id:626 用户:qyzhang 游戏:othello 进入编译队列
+task id:626 用户:qyzhang 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-13 09:04:42
+task id:627 用户:qyzhang 游戏:othello 进入编译队列
+task id:627 用户:qyzhang 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-13 09:07:32
+task id:628 用户:qyzhang 游戏:othello 进入编译队列
+task id:628 用户:qyzhang 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-13 09:07:50
+contest id:1734 双方:qyzhang vs abolo 游戏othello 进入比赛队列
+contest id:1735 双方:qyzhang vs abolo 游戏othello 进入比赛队列
+contest id:1734 双方:qyzhang vs abolo 游戏othello 开始封装比赛
+contest id:1735 双方:qyzhang vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 09:08:30
+contest id:1736 双方:qyzhang vs albucs 游戏othello 进入比赛队列
+contest id:1736 双方:qyzhang vs albucs 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 09:13:59
+contest id:1737 双方:qyzhang vs anyyqds 游戏othello 进入比赛队列
+contest id:1737 双方:qyzhang vs anyyqds 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 09:18:29
+contest id:1738 双方:qyzhang vs APOLLO 游戏othello 进入比赛队列
+contest id:1738 双方:qyzhang vs APOLLO 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 12:05:39
+contest id:1739 双方:dane vs haiwei624! 游戏othello 进入比赛队列
+contest id:1739 双方:dane vs haiwei624! 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-13 12:09:42
+task id:629 用户:csm100 游戏:othello 进入编译队列
+task id:629 用户:csm100 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-13 12:09:51
+contest id:1740 双方:csm100 vs dane 游戏othello 进入比赛队列
+contest id:1740 双方:csm100 vs dane 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 12:10:39
+contest id:1741 双方:csm100 vs strongAi 游戏othello 进入比赛队列
+contest id:1741 双方:csm100 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 13:38:48
+contest id:1742 双方:ustczz vs mediumAi 游戏othello 进入比赛队列
+contest id:1742 双方:ustczz vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 15:44:23
+contest id:1743 双方:dane vs strongAi 游戏othello 进入比赛队列
+contest id:1743 双方:dane vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 15:44:58
+contest id:1744 双方:dane vs csm100 游戏othello 进入比赛队列
+contest id:1744 双方:dane vs csm100 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 15:45:36
+contest id:1745 双方:dane vs abolo 游戏othello 进入比赛队列
+contest id:1745 双方:dane vs abolo 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 16:33:38
+contest id:1746 双方:test vs csm100 游戏othello 进入比赛队列
+contest id:1746 双方:test vs csm100 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-13 19:40:57
+contest id:1747 双方:sagitrs vs test 游戏othello 进入比赛队列
+contest id:1747 双方:sagitrs vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-14 10:24:23
+contest id:1748 双方:test vs sagitrs 游戏othello 进入比赛队列
+contest id:1748 双方:test vs sagitrs 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-16 11:57:59
+task id:630 用户:cxk1198 游戏:othello 进入编译队列
+task id:630 用户:cxk1198 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-16 11:58:15
+contest id:1749 双方:cxk1198 vs strongAi 游戏othello 进入比赛队列
+contest id:1749 双方:cxk1198 vs strongAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-16 11:58:45
+contest id:1750 双方:cxk1198 vs dane 游戏othello 进入比赛队列
+contest id:1750 双方:cxk1198 vs dane 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-17 20:30:35
+task id:631 用户:test 游戏:othello 进入编译队列
+task id:631 用户:test 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-17 20:33:26
+task id:632 用户:test 游戏:othello 进入编译队列
+task id:632 用户:test 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-17 20:33:35
+contest id:1751 双方:test vs mediumAi 游戏othello 进入比赛队列
+contest id:1751 双方:test vs mediumAi 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-17 20:34:10
+contest id:1752 双方:test vs strongAi 游戏othello 进入比赛队列
+contest id:1752 双方:test vs strongAi 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-17 20:35:16
+task id:633 用户:test 游戏:othello 进入编译队列
+task id:633 用户:test 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-17 20:37:36
+task id:634 用户:zsj 游戏:othello 进入编译队列
+task id:634 用户:zsj 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-17 20:37:41
+contest id:1753 双方:zsj vs test 游戏othello 进入比赛队列
+contest id:1753 双方:zsj vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-17 20:42:06
+task id:635 用户:zsj 游戏:othello 进入编译队列
+task id:635 用户:zsj 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-17 20:42:11
+contest id:1754 双方:zsj vs test 游戏othello 进入比赛队列
+contest id:1754 双方:zsj vs test 游戏othello 开始封装比赛
+有新的编译，当前时间：2013-07-17 20:43:16
+task id:636 用户:zsj 游戏:othello 进入编译队列
+task id:636 用户:zsj 游戏:othello 开始封装编译
+有新的编译，当前时间：2013-07-17 20:44:06
+task id:637 用户:admin 游戏:othello 进入编译队列
+task id:637 用户:admin 游戏:othello 开始封装编译
+有新的比赛，当前时间：2013-07-17 20:44:13
+contest id:1755 双方:admin vs test 游戏othello 进入比赛队列
+contest id:1755 双方:admin vs test 游戏othello 开始封装比赛
+有新的比赛，当前时间：2013-07-26 21:38:34
+contest id:1756 双方:dane vs test 游戏othello 进入比赛队列
+contest id:1756 双方:dane vs test 游戏othello 开始封装比赛

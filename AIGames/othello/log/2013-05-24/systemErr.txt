@@ -1,0 +1,4368 @@
+Exception in thread "main" java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:173)
+	at java.awt.Window.<init>(Window.java:546)
+	at java.awt.Frame.<init>(Frame.java:419)
+	at javax.swing.JFrame.<init>(JFrame.java:218)
+	at com.platform.common.SystemClient.main(SystemClient.java:69)
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+java.io.IOException: Cannot run program "/home/csmubuntu/AIGames/othello/execute/AIGame_othello_Evr.exe": java.io.IOException: error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:488)
+	at java.lang.Runtime.exec(Runtime.java:610)
+	at java.lang.Runtime.exec(Runtime.java:448)
+	at java.lang.Runtime.exec(Runtime.java:345)
+	at com.platform.ai.OthelloGame.run(OthelloGame.java:67)
+	at com.platform.ai.AIGame.start(AIGame.java:40)
+	at com.platform.thread.ContestThread.run(ContestThread.java:74)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: java.io.IOException: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:164)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:81)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:470)
+	... 7 more
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:115)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:115)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:327)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:193)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:180)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at java.net.Socket.connect(Socket.java:495)
+	at java.net.Socket.<init>(Socket.java:392)
+	at java.net.Socket.<init>(Socket.java:235)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:256)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:271)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2771)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2847)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1555)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:620)
+	at java.sql.DriverManager.getConnection(DriverManager.java:200)
+	at com.csm.dbUtil.DBConnect.getConnection(DBConnect.java:56)
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:20)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+java.io.IOException: Cannot run program "/home/csmubuntu/AIGames/othello/execute/AIGame_othello_Evr.exe": java.io.IOException: error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:488)
+	at java.lang.Runtime.exec(Runtime.java:610)
+	at java.lang.Runtime.exec(Runtime.java:448)
+	at java.lang.Runtime.exec(Runtime.java:345)
+	at com.platform.ai.OthelloGame.run(OthelloGame.java:67)
+	at com.platform.ai.AIGame.start(AIGame.java:40)
+	at com.platform.thread.ContestThread.run(ContestThread.java:74)
+	at java.lang.Thread.run(Thread.java:679)
+Caused by: java.io.IOException: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:164)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:81)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:470)
+	... 7 more
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp: 在函数‘int main()’中:
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:343:16: 错误： expected primary-expression before ‘)’ token
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:343:16: 错误： expected ‘;’ before ‘)’ token
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:347:19: 错误： 操作数类型‘int’和‘<未解决的重载函数类型>’对双目‘operator>’而言无效
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:349:15: 错误： 被重载的函数缺少上下文信息
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:350:5: 错误： ‘x’在此作用域中尚未声明
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:351:5: 错误： ‘y’在此作用域中尚未声明
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:357:10: 错误： ‘x’在此作用域中尚未声明
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest.cpp:357:20: 错误： ‘y’在此作用域中尚未声明
+
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 
+errput = 

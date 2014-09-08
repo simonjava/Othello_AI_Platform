@@ -1,0 +1,43 @@
+当前时间:2013-05-24 13:46:23
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:24
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:25
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:26
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:28
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:28
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-05-24 13:46:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)

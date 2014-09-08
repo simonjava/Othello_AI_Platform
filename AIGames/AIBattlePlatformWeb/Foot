@@ -1,0 +1,21 @@
+<footer>
+			<section id="footer-area">
+			<section id="footer-outer-block">
+			<div style="text-align: center;">
+			
+			<h4>
+				Copyright
+			</h4>
+			<p>
+				&copy; 2012
+				<a href="#">yoursite.com</a> Guangzhong Sun. Yin Liao. Simin
+				Cheng.Dan Wang.
+			</p>
+			</div>
+			<!-- end of #fourth footer segment -->
+			</section>
+			<!-- end of footer-outer-block -->
+
+			</section>
+			<!-- end of footer-area -->
+	</footer>

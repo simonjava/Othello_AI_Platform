@@ -1,0 +1,11 @@
+
+<script language="JavaScript">  
+   if(navigator.userAgent.indexOf("MSIE")>0) {  
+   	var body = document.getElementsByTagName("body")[0];
+   	body.className = "iebody";
+   }
+    if(navigator.userAgent.indexOf("360SE")>0) {  
+   	var body = document.getElementsByTagName("body")[0];
+   	body.className = "iebody";
+   }  
+</script> 

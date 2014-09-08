@@ -1,0 +1,2137 @@
+当前时间:2013-06-18 17:26:55
+当前时间:2013-06-18 17:26:55
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-18 17:28:51
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-18 17:31:04
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-18 17:34:21
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 10:57:00
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 10:57:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 10:58:46
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 10:58:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 10:59:04
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:02:05
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:02:22
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:02:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:03:43
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:03:43
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:04:10
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:05:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:15:13
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:18:35
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:21:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:21:50
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:22:18
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:23:54
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:23:54
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:28:25
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:28:35
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:30:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:33:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:35:26
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:36:12
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:36:14
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:39:31
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:42:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:44:36
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:46:35
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:46:35
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:48:39
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:50:05
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:50:05
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:51:51
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:51:54
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:52:14
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:52:41
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:56:10
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:56:10
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 11:57:41
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 12:04:26
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 12:05:52
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 12:08:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-23 13:03:47
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:07:45
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:21:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:21:22
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:26:43
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:28:53
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:28:54
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:45:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:45:53
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:46:37
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:49:23
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:50:48
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:52:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:53:11
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:53:28
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:54:00
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:55:00
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:55:30
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:55:45
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:56:41
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:57:13
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 08:59:47
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:00:12
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:07:46
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:07:46
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:30:20
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:32:07
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:32:07
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:49:32
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:50:56
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 09:53:18
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:01:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:07:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:07:31
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:10:40
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:19:36
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:27:58
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:38:33
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:38:33
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 10:56:52
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:00:37
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:01:58
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:03:38
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:04:07
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:04:38
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:05:55
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:07:55
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:08:48
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:08:57
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:10:26
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:10:56
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:13:49
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:39:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:41:25
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:43:36
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:46:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:57:17
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:58:53
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:59:11
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 11:59:26
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:00:33
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:08:53
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:08:53
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:08:54
+java.lang.NullPointerException
+	at com.platform.operator.TaskOperator.updateTask(TaskOperator.java:62)
+	at com.platform.compile.OthelloCompile.updateDatabase(OthelloCompile.java:124)
+	at com.platform.compile.OthelloCompile.afterCompile(OthelloCompile.java:116)
+	at com.platform.compile.Compile.start(Compile.java:121)
+	at com.platform.thread.CompileThread.run(CompileThread.java:66)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:13:31
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:13:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:14:33
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:14:33
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:15:10
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:15:26
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:44:19
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:46:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:47:11
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:54:57
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:56:43
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:56:44
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startCount(ProcessStatement.java:59)
+	at com.csm.dbUtil.GeneralOperater.count(GeneralOperater.java:25)
+	at com.platform.operator.ReplayOperator.isExistContesting(ReplayOperator.java:95)
+	at com.platform.thread.CompileThread.run(CompileThread.java:43)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 12:57:18
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-26 13:03:07
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 00:59:24
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 01:08:01
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 01:20:32
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 01:40:45
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 02:02:47
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 02:03:46
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 03:03:02
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 03:03:02
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 03:07:57
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 03:08:58
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 03:11:47
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:16:36
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:20:05
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:20:35
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:21:58
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:24:10
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:24:10
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:28:11
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:36:19
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 04:40:03
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:03:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:16:48
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:23:33
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:34:55
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:36:22
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:39:36
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 05:48:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 06:16:23
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 06:30:33
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 06:32:35
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 06:36:44
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:00:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:02:06
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:02:26
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:09:28
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:11:23
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:12:45
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:29:43
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:29:43
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:31:07
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:32:12
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:32:13
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:32:42
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:32:42
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:34:52
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:36:18
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:36:18
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:37:50
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:37:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:40:03
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:43:20
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:43:28
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:45:09
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:45:09
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:46:25
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:47:49
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:48:51
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:50:05
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:50:27
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:51:58
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 07:52:04
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:14:59
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:16:58
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:18:47
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:20:06
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:22:27
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:22:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:24:05
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:24:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:27:10
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:27:16
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:28:16
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:28:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:30:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:31:18
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:32:38
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:33:14
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:33:59
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:34:00
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:38:47
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:41:49
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:41:49
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:44:13
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:45:05
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:45:40
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:45:41
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:47:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:47:27
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:51:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:51:22
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:53:51
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:53:51
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 08:56:11
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:00:55
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:04:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:07:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:07:27
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:12:03
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:12:02
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:31:22
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:35:52
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:38:25
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:44:51
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:45:04
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 09:51:41
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:05:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:05:28
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:13:21
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:13:44
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:14:32
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:15:47
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:17:57
+当前时间:2013-06-27 10:17:57
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:19:30
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:20:00
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:20:23
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:22:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:22:31
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:24:16
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:24:57
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:25:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:25:30
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:26:38
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:30:57
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:30:57
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:31:43
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:33:38
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:34:45
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:37:02
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:38:58
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:38:58
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:39:57
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:45:22
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:46:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:50:06
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:50:08
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 10:53:24
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 11:05:07
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-27 11:05:07
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-06-28 19:37:05
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.process(ProcessStatement.java:255)
+	at com.csm.dbUtil.ProcessStatement.startCount(ProcessStatement.java:60)
+	at com.csm.dbUtil.GeneralOperater.count(GeneralOperater.java:25)
+	at com.platform.operator.ReplayOperator.isExistContesting(ReplayOperator.java:95)
+	at com.platform.thread.CompileThread.run(CompileThread.java:43)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-02 09:48:35
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-02 09:48:46
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-02 09:57:13
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:32:27
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:32:41
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:32:41
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startCount(ProcessStatement.java:59)
+	at com.csm.dbUtil.GeneralOperater.count(GeneralOperater.java:25)
+	at com.platform.operator.TaskOperator.isExistContesting(TaskOperator.java:77)
+	at com.platform.thread.ContestThread.run(ContestThread.java:44)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:37:27
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:40:58
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:46:16
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:46:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:50:09
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 13:54:12
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 14:00:04
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 14:00:56
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 16:20:19
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-04 16:20:20
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 08:00:30
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 18:18:10
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 18:18:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 18:21:36
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 18:22:09
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 18:31:55
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-06 18:31:58
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-12 05:10:27
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-12 05:14:29
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-12 05:14:32
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-12 05:21:28
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-12 05:21:28
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 05:46:24
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 05:59:51
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 05:59:51
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:04:50
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:04:50
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:05:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:07:29
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:08:46
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:17:23
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-14 06:18:08
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-17 07:40:34
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 15:44:51
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 15:46:38
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 15:57:51
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 15:58:04
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:00:44
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:00:53
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:07:24
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:07:34
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:08:21
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:11:54
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:23:07
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:26:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:32:26
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:34:31
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:37:03
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:38:49
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:38:52
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:39:31
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:39:57
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:42:02
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:46:16
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:52:18
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:52:55
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 16:56:39
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:03:29
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:03:29
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:07:39
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:13:33
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:20:32
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:21:52
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:23:56
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:26:38
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-19 17:27:53
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-20 13:43:31
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-20 13:45:44
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-20 13:46:37
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-20 13:47:04
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-20 13:48:06
+java.lang.NullPointerException
+	at com.csm.dbUtil.ProcessStatement.startQuery(ProcessStatement.java:116)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:138)
+	at com.csm.dbUtil.DBUtil.select(DBUtil.java:93)
+	at com.platform.operator.TaskOperator.getWaitCompileTask(TaskOperator.java:22)
+	at com.platform.thread.CompileLoaderThread.run(CompileLoaderThread.java:30)
+	at java.lang.Thread.run(Thread.java:679)
+当前时间:2013-07-20 13:48:32
+java.lang.NullPointerException
+	at com.platform.operator.ReplayOperator.getWaitContestReplays(ReplayOperator.java:24)
+	at com.platform.thread.ContestLoaderThread.run(ContestLoaderThread.java:34)
+	at java.lang.Thread.run(Thread.java:679)

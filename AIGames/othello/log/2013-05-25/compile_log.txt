@@ -1,0 +1,602 @@
+othello编译开始
+编译初始化信息完成
+task id:211 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 01:21:45
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:212 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 14:59:07
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:213 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:08:18
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:214 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:12:33
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:215 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:19:55
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:216 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:24:10
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:217 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:26:20
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:218 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:28:40
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:219 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:30:00
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:220 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:33:39
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:221 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:39:20
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:222 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:43:19
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:223 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 15:59:16
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:224 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 16:00:19
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:225 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 16:01:41
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:226 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 16:23:57
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:227 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 16:25:58
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:228 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 16:47:37
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:229 用户:test 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_test.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_test.exe 编译时间:2013-05-25 16:51:11
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:230 用户:haiwei624 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:13:38
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:231 用户:haiwei624 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:15:40
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:232 用户:haiwei624 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:19:57
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:233 用户:haiwei624 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:22:37
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:234 用户:haiwei624 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:24:54
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:235 用户:haiwei624 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:29:51
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:236 用户:haiwei624 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_haiwei624.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_haiwei624.exe 编译时间:2013-05-26 17:30:30
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:237 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 20:27:17
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:238 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 20:27:50
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:239 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 20:37:17
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:240 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 20:43:56
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:241 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 20:51:31
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:242 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 21:09:19
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:243 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 21:34:23
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:244 用户:chris 命令gcc /home/csmubuntu/AIGames/othello/source/AIGame_othello_chris.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_chris.exe 编译时间:2013-05-26 21:48:04
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:245 用户:kaikitest3 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest3.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest3.exe 编译时间:2013-05-28 22:40:48
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:246 用户:kaikitest3 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest3.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest3.exe 编译时间:2013-05-28 22:42:16
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:247 用户:kaikitest3 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest3.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest3.exe 编译时间:2013-05-28 22:45:37
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:248 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 21:50:50
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:249 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 21:51:30
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:250 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 21:52:44
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:251 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 21:58:29
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:252 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 22:05:22
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:253 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 22:07:30
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:254 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 22:11:23
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:255 用户:liyishuai 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_liyishuai.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_liyishuai.exe 编译时间:2013-06-01 22:15:46
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:256 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 20:38:50
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:257 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 20:40:09
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:258 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 20:57:33
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:259 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 20:59:09
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:260 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:02:24
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:261 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:03:48
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:262 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:11:41
+waitFor结果: 1
+output = 
+errput = /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp: 在函数‘bool WhiteMustGotoConner1(int, int)’中:
+/home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp:257:29: 错误： ‘is2BesideConner1’在此作用域中尚未声明
+
+编译出错
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:263 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:13:46
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:264 用户:kaiki 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaiki.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaiki.exe 编译时间:2013-06-02 21:16:03
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:265 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:25:09
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:266 用户:kaiki 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaiki.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaiki.exe 编译时间:2013-06-02 21:25:57
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:267 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:27:16
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:268 用户:kaiki 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaiki.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaiki.exe 编译时间:2013-06-02 21:28:13
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:269 用户:kaikitest2 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaikitest2.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaikitest2.exe 编译时间:2013-06-02 21:28:52
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
+othello编译开始
+编译初始化信息完成
+task id:270 用户:kaiki 命令g++ /home/csmubuntu/AIGames/othello/source/AIGame_othello_kaiki.cpp -o /home/csmubuntu/AIGames/othello/execute/AIGame_othello_kaiki.exe 编译时间:2013-06-02 21:29:42
+waitFor结果: 0
+output = 
+errput = 
+编译正确
+编译结束
+更新数据库...
+更新完毕!!!
